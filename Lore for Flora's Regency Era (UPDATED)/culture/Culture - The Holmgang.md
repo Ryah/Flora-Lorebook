@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 100
+priority: 50
 tags:
   - lorebook
 keys:
@@ -9,6 +9,15 @@ keys:
   - valheimr duel
   - valheim duel
   - trial by combat
+refine_keys:
+  - valheim
+  - valheimr
+  - duel
+  - combat
+  - honor
+  - challenge
+  - throne
+
 position: before
 depth: 4
 scanDepth: 1

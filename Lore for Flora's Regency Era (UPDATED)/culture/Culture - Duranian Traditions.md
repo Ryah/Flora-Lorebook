@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 100
+priority: 50
 tags:
   - lorebook
 keys:
@@ -9,6 +9,14 @@ keys:
   - hope's vigil
   - duranian fashion
   - duranian art
+refine_keys:
+  - duran
+  - duranian
+  - tradition
+  - culture
+  - customs
+  - duchy
+
 position: before
 depth: 4
 scanDepth: 1

@@ -11,6 +11,8 @@ keys:
   - charlotte's room
   - safe place
 position: before
+cascade_links:
+  - Claymore Manor
 depth: 4
 scanDepth: 1
 

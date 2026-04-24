@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 100
+priority: 50
 tags:
   - lorebook
 keys:
@@ -9,6 +9,14 @@ keys:
   - valheimr festival
   - ragnar festival
   - mead hall
+refine_keys:
+  - valheimr
+  - ragnar
+  - clan
+  - feast
+  - mead
+  - festival
+
 position: before
 depth: 4
 scanDepth: 1

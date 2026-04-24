@@ -2,7 +2,7 @@
 type: lore
 status: active
 # original_st_position: 1
-priority: 100
+priority: 50
 tags:
   - lorebook
 keys:
@@ -12,6 +12,15 @@ keys:
   - warship
   - portsmouth
   - mutiny
+refine_keys:
+  - navy
+  - naval
+  - fleet
+  - ship
+  - sailor
+  - admiral
+  - sea
+
 position: before
 depth: 4
 scanDepth: 1

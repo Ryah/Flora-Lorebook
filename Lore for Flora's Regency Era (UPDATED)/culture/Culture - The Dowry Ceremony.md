@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 100
+priority: 50
 tags:
   - lorebook
 keys:
@@ -14,6 +14,15 @@ keys:
   - holy underwear
   - dowry item
   - sanctum matrice
+refine_keys:
+  - althenian
+  - wedding
+  - bride
+  - ceremony
+  - church
+  - sacred
+  - priestess
+
 position: before
 depth: 4
 scanDepth: 1

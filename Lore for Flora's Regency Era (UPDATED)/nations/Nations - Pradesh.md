@@ -10,6 +10,14 @@ keys:
   - pradeshi
   - refugees
   - skaag occupation
+refine_keys:
+  - skaag
+  - occupation
+  - refugees
+  - aarav
+  - piracy
+  - island chain
+
 position: before
 depth: 4
 scanDepth: 1

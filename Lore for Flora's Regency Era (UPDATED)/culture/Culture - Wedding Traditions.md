@@ -1,12 +1,22 @@
 ---
 type: lore
 status: active
-priority: 100
+priority: 50
 tags:
   - lorebook
 keys:
   - wedding traditions
   - wedding
+refine_keys:
+  - ceremony
+  - vows
+  - bride
+  - groom
+  - dowry
+  - nuptials
+  - betrothal
+  - yorenia
+
 position: before
 depth: 4
 scanDepth: 1

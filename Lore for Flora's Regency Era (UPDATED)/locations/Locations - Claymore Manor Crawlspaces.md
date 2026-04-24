@@ -10,6 +10,8 @@ keys:
   - hidden tunnel
   - secret tunnels
 position: before
+cascade_links:
+  - Claymore Manor
 depth: 4
 scanDepth: 1
 
