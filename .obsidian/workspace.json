@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "16141510944ade31",
+    "type": "split",
+    "children": [
+      {
+        "id": "3020e1b96e97bf52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b3147fa9e87570f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "456e1279a94298fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "c07ed31f6cc2bd61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0cd56fac1164036",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7dcbbe8f8cd9134a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b369ef531080897a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 426.5
+  },
+  "right": {
+    "id": "c656e337ff8c5a54",
+    "type": "split",
+    "children": [
+      {
+        "id": "93818a8d1bd10248",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7cdf40e5190a963",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "7e30899afce848fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "36a724ff9c85b0d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b58f2297581ef4e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "22d08dd8d47bf38c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "cdfe6320ef6227da",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e0cd56fac1164036",
+  "lastOpenFiles": [
+    "README.md",
+    "Lore for Flora's Regency Era (UPDATED)/_archived",
+    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Eva Riensdauter.md",
+    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Vanessa.md",
+    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Talia Grimrose.md",
+    "Lore for Flora's Regency Era (UPDATED)/optional/Optional - Florian.md",
+    "Lore for Flora's Regency Era (UPDATED)/meta",
+    "Lore for Flora's Regency Era (UPDATED)/optional",
+    "Lore for Flora's Regency Era (UPDATED)/nations",
+    "Lore for Flora's Regency Era (UPDATED)/culture",
+    "Lore for Flora's Regency Era (UPDATED)/locations",
+    "Lore for Flora's Regency Era (UPDATED)/characters",
+    "Lore for Flora's Regency Era (UPDATED)/optional/Optional - Status Bar.md",
+    "Lore for Flora's Regency Era (UPDATED)/optional/Optional - Assassin Arc Timeline.md",
+    "Lore for Flora's Regency Era (UPDATED)/optional/Optional - Main Text Beautification.md",
+    "Lore for Flora's Regency Era (UPDATED)/locations/Locations - Town - Stonehaven.md",
+    "Lore for Flora's Regency Era (UPDATED)/optional/Optional - canon _user_ switch - Edward.md",
+    "Lore for Flora's Regency Era (UPDATED)/optional/Optional - Mini Theater.md",
+    "Lore for Flora's Regency Era (UPDATED)/optional/Optional - Story Options.md",
+    "Lore for Flora's Regency Era (UPDATED)/optional/Optional Lore - House Vance.md",
+    "Lore for Flora's Regency Era (UPDATED)/_archived/Story - Assassin Arc - PICK ONE.md",
+    "Lore for Flora's Regency Era (UPDATED)/_archived/Story - Slice of Life - PICK ONE.md",
+    "Lore for Flora's Regency Era (UPDATED)/_archived/Story_ The Prince and the Plot.md",
+    "Lore for Flora's Regency Era (UPDATED)/_archived/Writing Style - copypaste into your prompts, optional.md",
+    "Lore for Flora's Regency Era (UPDATED)/optional/Optional Characters - Nora.md",
+    "Lore for Flora's Regency Era (UPDATED)/optional/Optional - Adame's Coded Language.md",
+    "Lore for Flora's Regency Era (UPDATED)/nations/Nations - Valheim.md",
+    "Lore for Flora's Regency Era (UPDATED)/meta/Nations - The Kingdom of Flora.md",
+    "Lore for Flora's Regency Era (UPDATED)/nations/Nations - Pradesh.md",
+    "Lore for Flora's Regency Era (UPDATED)/meta/Nations - Kingdom of Duran.md",
+    "Lore for Flora's Regency Era (UPDATED)/locations/Locations - Town - Silverain.md",
+    "Lore for Flora's Regency Era (UPDATED)/locations/Locations - Town - Greydall.md",
+    "Lore for Flora's Regency Era (UPDATED)/locations/Locations - Town - Andrea's Cross.md",
+    "Lore for Flora's Regency Era (UPDATED)",
+    "Flora - Memory Books/~syncthing~110 - Divine Practice pt. 1.md.tmp",
+    "Flora - Memory Books/~syncthing~109 - Divine Resonance Discovery.md.tmp"
+  ]
+}

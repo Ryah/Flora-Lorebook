@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "7bec34a4e94f1af1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f302609af7451c9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1f87d66fd06cb92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flora - Memory Books/110 - Divine Practice pt. 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "110 - Divine Practice pt. 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8db2e8491b132832",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "53cfef9546a4dedc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "b84739f6577163f5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "9929392d0e6ea7a6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "17c4883e861402c2",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "886caf015e9d9d28",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "263a87bfc8845d51",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d5d40f83703c086e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Flora - Memory Books/103 - Wedding Prelude.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "02ad725f8d88da54",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Presets.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "9e943636e805feb9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Presets.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d1f87d66fd06cb92",
+  "lastOpenFiles": [
+    "Sessions/Your Wives - 2026-04-23 23-44-57.md",
+    "Your Wives Lorebook/The West Wing Antechamber.md",
+    "Sessions/Your Wives - 2026-04-23 01-57-10.md",
+    "Your Wives Lorebook/Henry's Service and Observation.md",
+    "Flora - Memory Books/The Sensory Link.md",
+    "Flora - Memory Books/110 - Post-Arrival Rest.md",
+    "Sessions/Your Wives - 2026-04-23 04-24-20.md",
+    "Sessions/Your Wives - 2026-04-23 01-08-32.md",
+    "Your Wives Lorebook/Divine Color Manifestations.md",
+    "Flora - Memory Books/109 - Divine Resonance Discovery.md",
+    "Flora - Memory Books/110 - Divine Practice pt. 1.md",
+    "Flora - Memory Books/107 - Homecoming at Loth Logan.md",
+    "Flora - Memory Books/108 - Bathroom Intimacy.md",
+    "Sessions/Your Wives - 2026-04-22 05-04-35.md",
+    "Sessions/Your Wives - 2026-04-22 03-41-46.md",
+    "Sessions/Your Wives - 2026-04-22 02-13-02.md",
+    "Flora - Memory Books/103 - Wedding Prelude.md",
+    "Flora - Memory Books/101 - Wedding Preparations Finalized.md",
+    "Flora - Memory Books/100 - Pre-Wedding Preparations.md",
+    "Flora - Memory Books/102 - Chapel Confrontation.md",
+    "Presets.md"
+  ]
+}

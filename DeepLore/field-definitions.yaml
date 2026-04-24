@@ -1,0 +1,70 @@
+fields:
+  - name: era
+    label: Era
+    type: string
+    multi: true
+    gating:
+      enabled: true
+      operator: match_any
+      tolerance: moderate
+    values: []
+    contextKey: era
+  - name: location
+    label: Location
+    type: string
+    multi: true
+    gating:
+      enabled: true
+      operator: match_any
+      tolerance: moderate
+    values:
+      - Blue Drawing Room
+      - Solar
+      - War Room
+      - Lord's Quarters
+      - Eastern Wing
+      - Hallway
+      - Dining Room
+      - Parlor
+      - Linen Closet
+      - Courtyard
+      - Flora
+      - Duran
+    contextKey: location
+  - name: scene_type
+    label: Scene Type
+    type: string
+    multi: true
+    gating:
+      enabled: true
+      operator: match_any
+      tolerance: moderate
+    values: []
+    contextKey: scene_type
+  - name: character_present
+    label: Characters Present
+    type: string
+    multi: true
+    gating:
+      enabled: true
+      operator: match_any
+      tolerance: moderate
+    values:
+      - Priti
+      - Florence
+      - Charlotte
+      - Howard
+      - Rachael
+      - Estra
+      - Alec
+      - Claire
+      - Fiona
+      - William
+      - Eva
+      - Mina
+      - Cora
+      - Mrs. Marie
+      - Cornelia
+      - Loren
+      - Vanessa
+    contextKey: characters_present

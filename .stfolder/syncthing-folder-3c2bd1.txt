@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: e23sb-fmfyk
+created: 2026-04-20T22:32:38-05:00
