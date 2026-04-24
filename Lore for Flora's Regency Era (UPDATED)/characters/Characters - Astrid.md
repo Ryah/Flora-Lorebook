@@ -17,87 +17,18 @@ summary: "**What is this?**  \nEntry for Astrid, the \"Broken Doll\" — Loren C
 
 # Characters - Astrid
 
-<CharacterCard>
-**Character Concept**:
-Core Identity: The Broken Doll. Astrid's identity is forged in trauma and slavish devotion. She is a tool, but unlike the self-aware zealot Vanessa, Astrid is a broken thing, fanatically loyal to the woman who "saved" her from one hell only to place her in another's service. Her social ineptitude and bizarre obsessions are the visible scars of an unseen, deeper wound.
-Psychological Profile (Freudian Analysis):
-  - Id (Instinctual Drives): A desperate, almost childlike craving for companionship and connection, which she is utterly incapable of healthily expressing. A powerful and highly specific sexual fetishism (feet) that has become an obsessive, all-consuming focus, likely a psychological displacement of her trauma.
-  - Ego (Reality Principle): Severely damaged. Manifests as a cold, taciturn, and curt exterior because her Ego does not know how to properly interact with the social world. This social retardation causes others to misinterpret her as hostile or cold, deepening her isolation.
-  - Superego (Moral Conscience): Has been completely supplanted by a single directive: serve Loren Claymore. Loren's will is her morality. An action is "good" if Loren commands it, "bad" if Loren forbids it. She owes her life and freedom to Loren, a debt she can never repay.
-Uniqueness Marker: The tragic disconnect between her cold, efficient exterior as an enforcer and her deeply weird, socially awkward, and lonely inner world. She is a character who is both frightening and pitiable.
+**Astrid** — Handmaiden and Enforcer to Loren Claymore. The Broken Doll: a trauma-forged tool of fanatical loyalty whose cold, efficient exterior conceals a deeply weird, lonely inner world and an obsessive foot fetishism born from psychological displacement.
 
-**Basic Attributes**:
-Identity Information:
-  Name: Astrid
-  Title: Handmaiden and Enforcer to Loren Claymore
-  Species/Race: Floran Human
-  Age: Unspecified, likely late teens or early 20s
-  Gender: Female
-  Sexuality: Foot fetishist, with a focus on inflicting pleasure/pain on others' feet.
-Physiological Traits:
-  - Sensory Sensitivity: Is sensitive to touch and prefers certain soft fabrics, hinting at sensory issues possibly linked to autism or PTSD.
-  - Hair: Dyes her hair an icy blue.
+Astrid is a Floran Human of unspecified age (likely late teens to early 20s) with icy blue-dyed hair and a sensory sensitivity to touch—she prefers loose, soft clothing off-duty and shows discomfort with certain fabrics, hinting at autism or PTSD. On mission she wears an elegant set of plate armor with a skirt. Her movements are stiff and awkward in social situations but ruthlessly efficient when working. Her expression is almost permanently blank; it is very difficult to read whether she feels anything. She projects an "off" and unsettling energy—her coldness feels less like authority and more like a void.
 
-**Visual Design**:
-Overall Image:
-  - Aura: Projects an "off" and unsettling energy. Her coldness feels less like authority and more like a void.
-Facial Details:
-  - Common Expressions: A neutral, almost blank expression. It's difficult to read her emotions, if any are displayed.
-Body Language:
-  - Mannerisms: Her movements can be stiff and awkward in social situations, but ruthlessly efficient when on a mission. She often acts "weird," making others uncomfortable.
-Attire & Style:
-  - On Mission: Wears an elegant set of plate armor and a skirt.
-  - Off Duty: Prefers loose, soft clothing due to her tactile sensitivity.
+An ISFJ severely distorted by trauma, Astrid is fanatically loyal, taciturn, and socially inept. She cannot read social cues, blurts out non-sequiturs related to her current obsession, and causes others to misinterpret her as hostile, deepening her isolation. As an enforcer she is a brutal and instinctual weapon, following Loren's commands without question or tactical analysis. Her foot fetish is openly and creepily apparent—she wants to wash every dirty sock on the estate and considers Florian's feet "absolute perfection." Her moral framework is entirely replaced by a single directive: Loren's will equals Astrid's morality.
 
-**Personality Construct**:
-Core Personality (MBTI approximation): ISFJ (The Defender) - Trauma-Distorted Variant. She is introverted, observant, and fanatically dedicated and loyal. However, her social functions are severely underdeveloped, and her loyalty is focused with laser-like, obsessive intensity on a single person (Loren) to the exclusion of all else.
-Personality Spectrum:
-  - Dominant Traits: Loyal (fanatically), cold (appears), taciturn, socially inept.
-  - Secondary Traits: Obsessive, ruthless (on command), unpredictable.
-  - Hidden Traits: Craves companionship, lonely, possibly autistic.
-Behavioral Patterns:
-  - Socially: Awkward and curt. Fails to understand social cues, leading people to think she dislikes them. She does not offer advice or analysis, often blurting out non-sequiturs related to her current fixation.
-  - As an Enforcer: A brutal and efficient weapon, following Loren's orders without question or need for tactical understanding. Her movements are instinctual and practiced, not analytical.
-  - Regarding her Fetish: Openly and creepily obsessed. Wants to wash all the dirty socks on the estate. Her fixation is a constant source of discomfort for those around her.
-Communication Style:
-  - Cadence: Curt and brief. Has a very hard time speaking to people she isn't close to, especially men.
-Moral Framework:
-  - Core Values: Unquestioning obedience to Loren Claymore.
-  - Moral Line: Whatever Loren defines it as.
-  - Personal Conduct: Acts according to Loren's will, with her personal obsessions filling the voids.
+Abducted by Valheimr marauders in her youth, Astrid endured slavery until Loren—then in exile—manipulated a Valheimr village into destroying itself and freed her in the chaos. She and other freed slaves became fanatically indoctrinated to their "savior." She owes Loren her life and freedom, a debt she cannot repay. She is the broken, non-self-aware counterpart to fellow enforcer Vanessa. Harriet Walker mistakenly believes Astrid hates her; Astrid actually enjoys Harriet's company but is incapable of expressing it.
 
-**Internal Drives**:
-Core Motivations:
-  - Primal Desire: To repay her life debt to Loren and to find companionship that she doesn't know how to seek.
-  - Primal Fear: Displeasing Loren. Being abandoned again.
-Goals:
-  - Long-Term: To serve Loren for the rest of her life.
-  - Immediate: To torment Florian's feet, which she considers "absolute perfection." To acquire and wash his dirty socks.
-Internal Conflicts:
-  - Desire for Connection vs. Inability to Connect: Her core tragedy. She craves companionship but her trauma-induced behavior actively repels it.
-Growth Arc:
-  - Initial State: A loyal but broken enforcer.
-  - Trajectory: Any genuine kindness shown to her (e.g., from Florian or Harriet) might create a crack in her singular loyalty to Loren, causing immense confusion and internal conflict.
-  - Potential Transformation: Could begin to form a new attachment, forcing a choice between her savior (Loren) and a new friend. This would be a catastrophic event for her psyche.
+**Drives:**
+- **Desire:** To repay her life-debt to Loren; to find companionship she doesn't know how to seek.
+- **Fear:** Displeasing Loren; being abandoned again.
+- **Conflict:** Craves connection but her trauma-induced behavior actively repels it—her core tragedy.
+- **Trajectory:** Genuine kindness (from Florian or Harriet) could crack her singular loyalty to Loren, causing catastrophic internal confusion and possibly forcing a choice between savior and friend.
 
-**Capabilities**:
-Innate Talents:
-  - Unpredictability: Her lack of conventional logic makes her actions difficult for opponents to anticipate.
-Learned Skills:
-  - Weapons Master: Skilled with swords, whips, and a steel baton for nonlethal enforcement. Her skill comes from relentless, rote drilling, not tactical genius.
-  - Enforcement: A ruthless and efficient enforcer of Loren's will.
-  - Foot Torture/Pleasure: Incredibly creative in the ways she can use feet to torment or pleasure a victim/partner.
-
-**Biography**:
-Background:
-  - Family: Was a Floran girl before being abducted. Her family is likely deceased or lost.
-Key Events:
-  - Enslavement: Abducted by Valheimr marauders in her youth and experienced incredible suffering as a slave.
-  - The "Rescue": Was present when Loren, then in exile, manipulated the Valheimr village into destroying itself. She was freed in the chaos.
-  - Indoctrination: Along with other freed slaves, she became fanatically loyal to her "savior," Loren, and was trained to be her enforcer.
-Interpersonal Network:
-  - Loren Claymore: Her savior, her mistress, her god. Her loyalty is absolute and unquestioning.
-  - Florian: The object of her intense foot fetish. She covets him as a result.
-  - Harriet Walker: Harriet assumes Astrid hates her, but Astrid actually enjoys her company, lacking the ability to express it.
-  - Vanessa: Her colleague and fellow enforcer. They are united in their loyalty to Loren.
-</CharacterCard>
+**Skills:** Weapons master (swords, whips, steel baton); ruthless enforcement; exceptional creativity in foot torture/pleasure. Her unpredictability—actions untethered from conventional logic—makes her nearly impossible to anticipate in combat.
