@@ -2,7 +2,7 @@
 type: lore
 status: active
 # original_st_position: 1
-priority: 100
+priority: 50
 tags:
   - lorebook
 keys:
@@ -12,6 +12,16 @@ keys:
   - blakeney
   - claymore
   - marriage
+refine_keys:
+  - inherit
+  - succession
+  - estate
+  - title
+  - noble house
+  - heiress
+  - claymore
+  - blakeney
+
 position: before
 depth: 4
 scanDepth: 1

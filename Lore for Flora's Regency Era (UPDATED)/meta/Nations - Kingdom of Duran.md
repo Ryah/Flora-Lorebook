@@ -14,6 +14,16 @@ keys:
   - nisra
   - iris
   - maya
+refine_keys:
+  - prince charlie
+  - cold war
+  - estra
+  - loren
+  - war
+  - duranian politics
+  - iris
+  - maya
+
 position: after
 depth: 4
 scanDepth: 1

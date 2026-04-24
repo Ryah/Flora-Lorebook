@@ -12,6 +12,15 @@ keys:
   - empire
   - invaders
   - pradesh
+refine_keys:
+  - naval
+  - invasion
+  - fleet
+  - occupied
+  - raiders
+  - slavers
+  - empire
+
 position: after
 depth: 4
 scanDepth: 1

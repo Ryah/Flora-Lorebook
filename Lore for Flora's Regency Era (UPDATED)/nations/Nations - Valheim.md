@@ -10,6 +10,16 @@ keys:
   - valheimr
   - barbarians
   - euphemia
+refine_keys:
+  - raid
+  - raiders
+  - king
+  - throne
+  - puppet
+  - florence
+  - euphemia
+  - valheimr
+
 position: before
 depth: 4
 scanDepth: 1

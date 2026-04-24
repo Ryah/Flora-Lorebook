@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 100
+priority: 55
 tags:
   - lorebook
 keys:

@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 100
+priority: 50
 tags:
   - lorebook
 keys:
@@ -10,6 +10,15 @@ keys:
   - cooking
   - feast
   - wine
+refine_keys:
+  - floran
+  - noble dining
+  - dish
+  - feast
+  - recipe
+  - kombucha
+  - estate
+
 position: before
 depth: 4
 scanDepth: 1

@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 100
+priority: 50
 tags:
   - lorebook
 keys:
@@ -9,6 +9,14 @@ keys:
   - duranian trade
   - floran trade
   - artisans
+refine_keys:
+  - duran
+  - duranian
+  - trade
+  - economy
+  - merchant
+  - market
+
 position: before
 depth: 4
 scanDepth: 1

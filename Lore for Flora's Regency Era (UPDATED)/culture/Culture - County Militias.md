@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 100
+priority: 50
 tags:
   - lorebook
 keys:
@@ -10,6 +10,14 @@ keys:
   - matriarch's army
   - cassian guard
   - feudal levy
+refine_keys:
+  - militia
+  - county
+  - guard
+  - local forces
+  - defense
+  - regional
+
 position: before
 depth: 4
 scanDepth: 1

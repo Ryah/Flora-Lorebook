@@ -2,7 +2,7 @@
 type: lore
 status: active
 # original_st_position: 1
-priority: 100
+priority: 50
 tags:
   - lorebook
 keys:
@@ -10,6 +10,15 @@ keys:
   - marriage
   - infidelity
   - scandal
+refine_keys:
+  - separate
+  - annulment
+  - dissolution
+  - infidelity
+  - petition
+  - husband
+  - wife
+
 position: before
 depth: 4
 scanDepth: 1

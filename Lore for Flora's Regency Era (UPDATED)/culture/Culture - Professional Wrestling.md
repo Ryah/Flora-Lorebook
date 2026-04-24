@@ -2,7 +2,7 @@
 type: lore
 status: active
 # original_st_position: 1
-priority: 100
+priority: 50
 tags:
   - lorebook
 keys:
@@ -11,6 +11,15 @@ keys:
   - stardust
   - tag-team
   - gimmick
+refine_keys:
+  - florence
+  - stardust
+  - gimmick
+  - sport
+  - match
+  - arena
+  - tag-team
+
 position: before
 depth: 4
 scanDepth: 1

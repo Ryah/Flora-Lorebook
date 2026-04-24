@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 100
+priority: 50
 tags:
   - lorebook
 keys:
@@ -9,6 +9,15 @@ keys:
   - flora's military
   - queen's glaive
   - crown's forces
+refine_keys:
+  - army
+  - military
+  - soldier
+  - regiment
+  - battle
+  - war
+  - infantry
+
 position: before
 depth: 4
 scanDepth: 1
