@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 15
+priority: 50
 tags:
   - lorebook
 keys:
@@ -19,8 +19,7 @@ keys:
   - Blue Drawing Room
 position: after
 depth: 4
-
-summary: "This is a lore entry detailing the household's emotional and contractual preparations for their marriage ceremony before the Oracle. Select when referencing the ceremony's immediate lead-up, Charlotte's use of intimacy to assert dominance, the integration of Estra and Alec into the family, or the finalization of the marriage contract. Key relationships involve Charlotte's dominance over Florence and Estra, Ryan's role as an emotional anchor, and the symbolic guardianship contract with Alec. The outcome solidifies the household hierarchy and family bonds."
+summary: This is a lore entry detailing the household's emotional and contractual preparations for their marriage ceremony before the Oracle. Select when referencing the ceremony's immediate lead-up, Charlotte's use of intimacy to assert dominance, the integration of Estra and Alec into the family, or the finalization of the marriage contract. Key relationships involve Charlotte's dominance over Florence and Estra, Ryan's role as an emotional anchor, and the symbolic guardianship contract with Alec. The outcome solidifies the household hierarchy and family bonds.
 ---
 
 # [ARC 015] - Intimacy and Preparation for the Oracle

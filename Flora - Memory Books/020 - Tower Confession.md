@@ -16,6 +16,7 @@ keys:
   - Eleanor
   - no secrets policy
   - secret 
+  - Thomas Greaves
 position: after
 depth: 4
 summary: "**Summary:**\\nThis entry depicts a private moment between husband and wife on June 15, 1843. Select it to reveal the plot point that the mole is Edmund Girard, or when a secret has been revealed in family discussions. Florence accepts the secret plan and prepares extraction gear. Also select this when the topic of keeping secrets in the marriage is brought up."

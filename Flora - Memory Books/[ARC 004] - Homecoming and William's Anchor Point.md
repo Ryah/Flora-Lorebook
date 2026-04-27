@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 4
+priority: 50
 tags:
   - lorebook
 keys:
@@ -17,7 +17,7 @@ keys:
   - Rachael
 position: after
 depth: 4
-summary: "Select this entry for the Thursday, June 15, 1843 rescue party arrival at Claymore Manor. Use it when Ryan delegates authority to Charlotte and the group discovers William Adame’s \\\"anchor point\\\" symbol carved on the dock and foundation. Key relationships include Ryan trusting Charlotte, Rachael asserting maternal command, and the formal integration of Mina and Cora under Charlotte’s legal protection. This arc resolves their physical arrival but deepens the mystery of William’s pre-existing connection to the estate."
+summary: Select this entry for the Thursday, June 15, 1843 rescue party arrival at Claymore Manor. Use it when Ryan delegates authority to Charlotte and the group discovers William Adame’s \"anchor point\" symbol carved on the dock and foundation. Key relationships include Ryan trusting Charlotte, Rachael asserting maternal command, and the formal integration of Mina and Cora under Charlotte’s legal protection. This arc resolves their physical arrival but deepens the mystery of William’s pre-existing connection to the estate.
 ---
 
 # [ARC 004] - Homecoming and William's Anchor Point

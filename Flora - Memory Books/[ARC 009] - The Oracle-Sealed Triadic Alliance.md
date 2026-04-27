@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 9
+priority: 50
 tags:
   - lorebook
 keys:
@@ -16,7 +16,7 @@ keys:
   - Triadic Wedding
 position: after
 depth: 4
-summary: "**What is this?**\\nAn AI search summary for lorebook entry [ARC 009].\\n\\n**When should it be selected?**\\nSelect when the narrative involves:\\n- **Defiance of Destiny:** A character rejecting \\\"manufactured\\\" choices to forge their own path.\\n- **Triadic Relationships:** Legal or ritualistic unions involving three parties (specifically a marriage).\\n- **Arc 009 Events:** Dating Friday, June 16, 1843.\\n- **Loren Claymore Conflict:** Scenarios involving her ice manifestations, surveillance, or extraction plans.\\n\\n**Key Relationships:**\\n**Ryan:** The active architect of his destiny; Countess Charlotte holds legal authority over the household; Estra Hamilton is the blood-sister.\\n**Loren Claymore:** The antagonist manifesting as an ice entity; viewed as a \\\"chain\\\" to be broken.\\n **Cora Adame:** The source of doublespeak code (\\\"bread is fresh\\\" = family first).\\n\\n**Do NOT include:**\\nPhysical descriptions of ice entities or atmospheric prose."
+summary: '**What is this?**\nAn AI search summary for lorebook entry [ARC 009].\n\n**When should it be selected?**\nSelect when the narrative involves:\n- **Defiance of Destiny:** A character rejecting \"manufactured\" choices to forge their own path.\n- **Triadic Relationships:** Legal or ritualistic unions involving three parties (specifically a marriage).\n- **Arc 009 Events:** Dating Friday, June 16, 1843.\n- **Loren Claymore Conflict:** Scenarios involving her ice manifestations, surveillance, or extraction plans.\n\n**Key Relationships:**\n**Ryan:** The active architect of his destiny; Countess Charlotte holds legal authority over the household; Estra Hamilton is the blood-sister.\n**Loren Claymore:** The antagonist manifesting as an ice entity; viewed as a \"chain\" to be broken.\n **Cora Adame:** The source of doublespeak code (\"bread is fresh\" = family first).\n\n**Do NOT include:**\nPhysical descriptions of ice entities or atmospheric prose.'
 ---
 
 # [ARC 009] - The Oracle-Sealed Triadic Alliance

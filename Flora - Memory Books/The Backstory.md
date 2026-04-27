@@ -4,7 +4,6 @@ status: active
 priority: 50
 tags:
   - lorebook
-  - lorebook-always
 keys:
   - Relani's Crown
   - June 20 1843

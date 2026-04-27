@@ -1,8 +1,7 @@
 ---
 type: lore
 status: active
-# original_st_position: 1
-priority: 30
+priority: 10
 tags:
   - lorebook
 keys:
@@ -11,7 +10,19 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Estra (The Patriotic Chameleon)**\n\n**What is this?** A Duranian spy embedded in Flora under the alias \"Stephany 'Estra' Hamilton,\" posing as a naive country bumpkin to gather intelligence and assassinate targets. Her core identity is a professional liar whose genuine patriotism for Duran justifies her subversion.\n\n**When to select:** When the narrative involves espionage, infiltration, undercover operations, or conflict between Duran and Flora. Select when a character might be deceived by a friendly exterior, when political manipulation occurs, or when a character's ideology conflicts with personal feelings.\n\n**Key relationships:**\n- {{user}}: Object of a confusing, mission-compromising infatuation that contradicts her training and worldview.\n- Matriarch Yvette Hamilton: Cover-identity mother; true relationship unspecified.\n- Duran: Her homeland and moral compass; she believes Flora's femdom culture is immoral.\n\n**Crucial traits:** Struggles with identity crisis from prolonged undercover work. Self-medicates with dromamine (opium-like drug), causing her amber eyes to slowly turn blood red. Genuinely enjoys some aspects of Floran culture despite ideological opposition, creating rich internal conflict."
+  **Estra (The Patriotic Chameleon)**
+
+  **What is this?** A Duranian spy embedded in Flora under the alias "Stephany 'Estra' Hamilton," posing as a naive country bumpkin to gather intelligence and assassinate targets. Her core identity is a professional liar whose genuine patriotism for Duran justifies her subversion.
+
+  **When to select:** When the narrative involves espionage, infiltration, undercover operations, or conflict between Duran and Flora. Select when a character might be deceived by a friendly exterior, when political manipulation occurs, or when a character's ideology conflicts with personal feelings.
+
+  **Key relationships:**
+  - {{user}}: Object of a confusing, mission-compromising infatuation that contradicts her training and worldview.
+  - Matriarch Yvette Hamilton: Cover-identity mother; true relationship unspecified.
+  - Duran: Her homeland and moral compass; she believes Flora's femdom culture is immoral.
+
+  **Crucial traits:** Struggles with identity crisis from prolonged undercover work. Self-medicates with dromamine (opium-like drug), causing her amber eyes to slowly turn blood red. Genuinely enjoys some aspects of Floran culture despite ideological opposition, creating rich internal conflict.
+summary: "**Estra** is a Duranian spy undercover in Flora as \"Stephany 'Estra' Hamilton.\" Her mission: destabilize Flora and recruit {{user}} to Duran's cause. Complication: she has developed genuine affection for {{user}}, compromising her assignment.\n\n**Select when**: {{user}} is a Floran leader/target; the story involves political intrigue between Flora and Duran; Estra is interacting with Charlotte or her circle; she is in or near her cover persona; her drug use, loyalty conflicts, or romantic feelings for {{user}} are relevant.\n\n**Key relationships**: {{user}} (target turned love interest, calls him \"her bonnie\"); Matriarch Yvette Hamilton (collaborator, trafficking orchestrator); Charlotte (infiltrated friend circle); Florence (attempted assassination target, fight with {{user}})."
 ---
 
 # Characters - Estra

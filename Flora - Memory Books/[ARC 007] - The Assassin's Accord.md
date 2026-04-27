@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 7
+priority: 50
 tags:
   - lorebook
 keys:
@@ -16,8 +16,7 @@ keys:
   - hospitalization risk
 position: after
 depth: 4
-
-summary: "The Assassin's Accord is a pivotal legal and personal agreement. It should be selected when referencing the triad's marriage contract, the recruitment of the assassin Estra Hamilton, or the 11-day hostage crisis involving her brother Alec. Key relationships include the legally-binding triadic union between Ryan, Charlotte, and Florence (witnessed by Rachael Blakeney), and the provisional alliance with Estra, who is a double agent against Loren. The accord establishes critical plot deadlines and mutual autonomy protections for the triad."
+summary: The Assassin's Accord is a pivotal legal and personal agreement. It should be selected when referencing the triad's marriage contract, the recruitment of the assassin Estra Hamilton, or the 11-day hostage crisis involving her brother Alec. Key relationships include the legally-binding triadic union between Ryan, Charlotte, and Florence (witnessed by Rachael Blakeney), and the provisional alliance with Estra, who is a double agent against Loren. The accord establishes critical plot deadlines and mutual autonomy protections for the triad.
 ---
 
 # [ARC 007] - The Assassin's Accord

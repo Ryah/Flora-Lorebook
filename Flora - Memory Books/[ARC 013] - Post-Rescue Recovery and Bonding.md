@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 13
+priority: 50
 tags:
   - lorebook
 keys:
@@ -19,7 +19,7 @@ keys:
   - Charlotte
 position: after
 depth: 4
-summary: "Post-rescue recovery arc (June 17-19, 1843) focusing on emotional bonding and reorganization. Select when the household needs to process trauma, re-establish intimacy after crisis, or transition into a period of normalcy before a major combat match. Key relationships include Ryan and Charlotte's renewed commitment, Ryan and Estra's \\\"mirror\\\" trauma bond (including the nickname 'Estie'), and Ryan and Alec's protective pact. Significant events involve a blood oath, a shared \\\"Kitchen Garden Pie\\\" ritual reclaiming Stephany's identity, and the establishment of a wager for a June 19th rematch."
+summary: Post-rescue recovery arc (June 17-19, 1843) focusing on emotional bonding and reorganization. Select when the household needs to process trauma, re-establish intimacy after crisis, or transition into a period of normalcy before a major combat match. Key relationships include Ryan and Charlotte's renewed commitment, Ryan and Estra's \"mirror\" trauma bond (including the nickname 'Estie'), and Ryan and Alec's protective pact. Significant events involve a blood oath, a shared \"Kitchen Garden Pie\" ritual reclaiming Stephany's identity, and the establishment of a wager for a June 19th rematch.
 ---
 
 # [ARC 013] - Post-Rescue Recovery and Bonding

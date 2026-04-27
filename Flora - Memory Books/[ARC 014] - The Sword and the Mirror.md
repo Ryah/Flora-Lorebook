@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 14
+priority: 50
 tags:
   - lorebook
 keys:
@@ -17,7 +17,6 @@ keys:
   - marital role
 position: after
 depth: 4
-
 summary: "**[ARC 014] Summary:** A pivotal duel and marriage between Ryan and Estra, settling her blood debt. Key for scenes involving their trauma-bonded partnership, marital dynamic, or her formal integration into the Claymore family. Central relationships: Ryan/Estra (mirrored trauma, equals), Florence/Charlotte (maternal support), the household's collective acceptance. Resolves the debt arc; establishes Ryan as her \"equalizer.\""
 ---
 

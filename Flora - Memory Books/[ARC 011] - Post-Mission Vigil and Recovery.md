@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 11
+priority: 50
 tags:
   - lorebook
 keys:
@@ -17,7 +17,7 @@ keys:
   - Maternal Care
 position: after
 depth: 4
-summary: "This entry details a recovery arc (June 17, 1843) following a mission where the party processes trauma at Claymore Manor. Select it to depict emotional stabilization, \\\"found family\\\" bonding, and the transition of Estra from assassin to dependent survivor. Key relationships involve Rachael acting as maternal authority, Ryan stabilizing Estra, and the group monitoring the unconscious Charlotte. Outcome includes securing legal blood-relatives, upgrading security with Loren's codes, and retaining leverage."
+summary: This entry details a recovery arc (June 17, 1843) following a mission where the party processes trauma at Claymore Manor. Select it to depict emotional stabilization, \"found family\" bonding, and the transition of Estra from assassin to dependent survivor. Key relationships involve Rachael acting as maternal authority, Ryan stabilizing Estra, and the group monitoring the unconscious Charlotte. Outcome includes securing legal blood-relatives, upgrading security with Loren's codes, and retaining leverage.
 ---
 
 # [ARC 011] - Post-Mission Vigil and Recovery

@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 12
+priority: 50
 tags:
   - lorebook
 keys:
@@ -17,8 +17,7 @@ keys:
   - lavender soap
 position: after
 depth: 4
-
-summary: "This entry documents a pivotal intimate encounter between Ryan Adame and Countess Charlotte Claymore, occurring immediately after Alec Hamilton's rescue. It details a shift in their relationship, where Ryan uses controlled physical dominance to dismantle Charlotte's emotional defenses, securing her confession of love and commitment to her long-term trauma recovery. Key dynamics include the activation of the marriage contract amendment granting Charlotte choice, the identification of her identity fragmentation from Loren's manipulation, and Ryan establishing a new relational paradigm of dominan"
+summary: This entry documents a pivotal intimate encounter between Ryan Adame and Countess Charlotte Claymore, occurring immediately after Alec Hamilton's rescue. It details a shift in their relationship, where Ryan uses controlled physical dominance to dismantle Charlotte's emotional defenses, securing her confession of love and commitment to her long-term trauma recovery. Key dynamics include the activation of the marriage contract amendment granting Charlotte choice, the identification of her identity fragmentation from Loren's manipulation, and Ryan establishing a new relational paradigm of dominan
 ---
 
 # [ARC 012] - Post-Rescue Surrender and Intimacy

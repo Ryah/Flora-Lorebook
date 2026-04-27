@@ -1,7 +1,7 @@
 ---
 type: lore
 status: active
-priority: 3
+priority: 50
 tags:
   - lorebook
 keys:
@@ -16,7 +16,7 @@ keys:
   - Callista Venn
 position: after
 depth: 4
-summary: "1843 infiltration arc involving Ryan and Florence rescuing Mina and Cora from Eleanor's trap. Select when the group must break into the Adame household, escape via a secret tunnel, and confront the aftermath of William's death. Key relationships include Ryan and Florence becoming equal partners, Eleanor as the antagonist, and the sisters processing their trauma and the implication of her murder."
+summary: 1843 infiltration arc involving Ryan and Florence rescuing Mina and Cora from Eleanor's trap. Select when the group must break into the Adame household, escape via a secret tunnel, and confront the aftermath of William's death. Key relationships include Ryan and Florence becoming equal partners, Eleanor as the antagonist, and the sisters processing their trauma and the implication of her murder.
 ---
 
 # [ARC 003] - Infiltration and Rescue from Amber Isles

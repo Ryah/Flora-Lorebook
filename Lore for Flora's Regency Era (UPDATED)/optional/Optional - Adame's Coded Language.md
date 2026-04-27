@@ -1,16 +1,18 @@
 ---
 type: lore
 status: active
-# original_st_position: 0
 priority: 100
 tags:
   - lorebook
-  - lorebook-always
 position: after
 depth: 1
 scanDepth: 1
+summary: |-
+  **What it is:** A secret doublespeak code language created by Cora at age 13 for private communication between Cora, {{user}}, and Mina, hidden from Eleanor. Uses ordinary-sounding sentences where specific word placement carries hidden meaning. No fixed dictionary; new phrases are created contextually per rules.
 
-summary: "**What it is:** A secret doublespeak code language created by Cora at age 13 for private communication between Cora, {{user}}, and Mina, hidden from Eleanor. Uses ordinary-sounding sentences where specific word placement carries hidden meaning. No fixed dictionary; new phrases are created contextually per rules.\n\n**When to select:** When Cora, Mina, or Ryan need to share sensitive information covertly in the presence of others (especially Eleanor). When a character wants to signal without outsiders understanding. When Estra is present and might partially decode.\n\n**Key relationships:** Understood fully by Cora, Mina, {{user}}, and Ryan. Estra is learning and can pick up some words but gaps remain. Howard can detect code usage but cannot decipher it. Others (Eleanor, etc.) should not detect anything unusual. Any coded line must be immediately followed by italicized brackets with the translation."
+  **When to select:** When Cora, Mina, or Ryan need to share sensitive information covertly in the presence of others (especially Eleanor). When a character wants to signal without outsiders understanding. When Estra is present and might partially decode.
+
+  **Key relationships:** Understood fully by Cora, Mina, {{user}}, and Ryan. Estra is learning and can pick up some words but gaps remain. Howard can detect code usage but cannot decipher it. Others (Eleanor, etc.) should not detect anything unusual. Any coded line must be immediately followed by italicized brackets with the translation.
 ---
 
 # Optional - Adame's Coded Language

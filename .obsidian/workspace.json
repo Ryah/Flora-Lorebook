@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3020e1b96e97bf52",
+        "id": "b00f635e486c9521",
         "type": "tabs",
         "children": [
           {
-            "id": "6b3147fa9e87570f",
+            "id": "fd20e2acd5284e6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Flora - Memory Books/001 - Arrival and Confession.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "001 - Arrival and Confession"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 278.5
   },
   "right": {
     "id": "c656e337ff8c5a54",
@@ -166,9 +170,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Flora - Memory Books/001 - Arrival and Confession.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 001 - Arrival and Confession"
             }
           }
         ],
@@ -176,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,43 +196,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e0cd56fac1164036",
+  "active": "fd20e2acd5284e6a",
   "lastOpenFiles": [
-    "README.md",
-    "Lore for Flora's Regency Era (UPDATED)/_archived",
-    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Eva Riensdauter.md",
+    "Flora - Memory Books/[ARC 015] - Intimacy and Preparation for the Oracle.md",
+    "Flora - Memory Books/[ARC 014] - The Sword and the Mirror.md",
+    "Flora - Memory Books/001 - Arrival and Confession.md",
+    "Flora - Memory Books/[ARC 001] - Arrival, Confession, and Rescue Plan.md",
+    "Flora - Memory Books/122 - Petra's Defection.md",
+    "Flora - Memory Books/The Sensory Link (Ryan & Charlotte).md",
+    "Flora - Memory Books/The Dreamscape Labyrinth.md",
+    "Flora - Memory Books/The Backstory.md",
+    "Flora - Memory Books/The Triad's Marriage Document.md",
+    "Flora - Memory Books/Ryan's Divine Power (Golden Thread).md",
+    "Flora - Memory Books/Ryan and Alec's Contract.md",
+    "Flora - Memory Books/127 - Dragon and Fist Bump.md",
+    "Flora - Memory Books/126 - Morning Wrestling.md",
+    "Flora - Memory Books/125 - Wooden Boat.md",
+    "Flora - Memory Books/124 - The Oasis Offering.md",
+    "Flora - Memory Books/123 - Dream Sanctuary.md",
+    "Your Wives Lorebook/Divine Power Discoveries - Projection Mechanics.md",
+    "Your Wives Lorebook/Dreamscape Botanical Integration.md",
+    "Sessions/Your Wives - 2026-04-25 23-51-04.md",
+    "Your Wives Lorebook/The Thornless Rose Bush Dead Drop.md",
+    "Your Wives Lorebook/Ryan's Suicide Note.md",
+    "Your Wives Lorebook/Marten Voss.md",
+    "Your Wives Lorebook/Thomas Greaves.md",
     "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Vanessa.md",
-    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Talia Grimrose.md",
-    "Lore for Flora's Regency Era (UPDATED)/optional/Optional - Florian.md",
+    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Eva Riensdauter.md",
+    "Flora - Memory Books/055 - Bench Vigil and Departure.md",
+    "Your Wives Lorebook",
+    "Flora - Memory Books/~syncthing~112 - Projection Discovery.md.tmp",
+    "Flora - Memory Books/~syncthing~111 - Divine Practice.md.tmp",
+    "Librarian",
+    "Lore for Flora's Regency Era (UPDATED)/_archived",
     "Lore for Flora's Regency Era (UPDATED)/meta",
     "Lore for Flora's Regency Era (UPDATED)/optional",
     "Lore for Flora's Regency Era (UPDATED)/nations",
     "Lore for Flora's Regency Era (UPDATED)/culture",
-    "Lore for Flora's Regency Era (UPDATED)/locations",
-    "Lore for Flora's Regency Era (UPDATED)/characters",
-    "Lore for Flora's Regency Era (UPDATED)/optional/Optional - Status Bar.md",
-    "Lore for Flora's Regency Era (UPDATED)/optional/Optional - Assassin Arc Timeline.md",
-    "Lore for Flora's Regency Era (UPDATED)/optional/Optional - Main Text Beautification.md",
-    "Lore for Flora's Regency Era (UPDATED)/locations/Locations - Town - Stonehaven.md",
-    "Lore for Flora's Regency Era (UPDATED)/optional/Optional - canon _user_ switch - Edward.md",
-    "Lore for Flora's Regency Era (UPDATED)/optional/Optional - Mini Theater.md",
-    "Lore for Flora's Regency Era (UPDATED)/optional/Optional - Story Options.md",
-    "Lore for Flora's Regency Era (UPDATED)/optional/Optional Lore - House Vance.md",
-    "Lore for Flora's Regency Era (UPDATED)/_archived/Story - Assassin Arc - PICK ONE.md",
-    "Lore for Flora's Regency Era (UPDATED)/_archived/Story - Slice of Life - PICK ONE.md",
-    "Lore for Flora's Regency Era (UPDATED)/_archived/Story_ The Prince and the Plot.md",
-    "Lore for Flora's Regency Era (UPDATED)/_archived/Writing Style - copypaste into your prompts, optional.md",
-    "Lore for Flora's Regency Era (UPDATED)/optional/Optional Characters - Nora.md",
-    "Lore for Flora's Regency Era (UPDATED)/optional/Optional - Adame's Coded Language.md",
-    "Lore for Flora's Regency Era (UPDATED)/nations/Nations - Valheim.md",
-    "Lore for Flora's Regency Era (UPDATED)/meta/Nations - The Kingdom of Flora.md",
-    "Lore for Flora's Regency Era (UPDATED)/nations/Nations - Pradesh.md",
-    "Lore for Flora's Regency Era (UPDATED)/meta/Nations - Kingdom of Duran.md",
-    "Lore for Flora's Regency Era (UPDATED)/locations/Locations - Town - Silverain.md",
-    "Lore for Flora's Regency Era (UPDATED)/locations/Locations - Town - Greydall.md",
-    "Lore for Flora's Regency Era (UPDATED)/locations/Locations - Town - Andrea's Cross.md",
-    "Lore for Flora's Regency Era (UPDATED)",
-    "Flora - Memory Books/~syncthing~110 - Divine Practice pt. 1.md.tmp",
-    "Flora - Memory Books/~syncthing~109 - Divine Resonance Discovery.md.tmp"
+    "Lore for Flora's Regency Era (UPDATED)/locations"
   ]
 }
