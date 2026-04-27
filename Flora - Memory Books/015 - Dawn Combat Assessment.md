@@ -22,7 +22,11 @@ depth: 4
 summary: "**Search Summary:**\\n\\nA combat assessment of Ryan and Florence in June 1843. Select when Ryan and Florence are assigned to an extraction team or when evaluating their combat synergy and readiness. Key relationships: Eva (Captain, skeptic), Ryan (excellent footwork, superior unarmed combat), Florence (Ragnar temper, reckless aggression), Howard (father, previously assessed). Eva approves them for the mission but notes Ryan's telegraphing and Florence's defensive gaps."
 location: Claymore Manor
 scene_type: training
-characters_present: [Ryan, Florence, Eva, Howard]
+character_present:
+  - Ryan
+  - Florence
+  - Eva
+  - Howard
 ---
 
 # 015 - Dawn Combat Assessment

@@ -20,7 +20,13 @@ depth: 4
 summary: "**What is this:** A tense pre-midnight strategic meeting at Claymore Manor (June 20, 1843) involving Ryan Adame, his wives, Crown Princess Cornelia vi Relani, and a team of allies to thwart an imminent extraction by Loren.\\n\\n**When to select:** When the timeline reaches Tuesday, June 20, 1843, after 9:32 AM; specifically when the plot involves a \\\"Divine Vessel,\\\" Loren's extraction plans, or the discovery of William Adame.\\n\\n**Key relationships:**\\n*   **Ryan Adame:** The target of extraction, currently holding the \\\"Divine Vessel\\\" status.\\n*   **Crown Princess Cornelia vi Relani:** Loren's nemesis; claims to be Ryan's childhood friend and provides critical intelligence.\\n*   **Mina:** Ryan's wife and active scout.\\n*   **Priti:** Ryan's sixteen-year-old maid/spy who betrayed Loren.\\n\\n**Summary:**\\nOn June 20, 1843, Ryan Adame and his wives meet with Crown Princess Cornelia to thwart Loren's midnight extraction. Cornelia reveals Loren seeks Ryan as a \\\"Divine Vessel\\\" and identifies Priti as a spy. The group splits to search the manor for tunnels; inside, Ryan discovers his supposedly dead father, William, hiding in a recently dug tunnel."
 location: Claymore Manor
 scene_type: negotiation
-characters_present: [Ryan, Charlotte, Florence, Estra, Eva, Cornelia]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Estra
+  - Eva
+  - Cornelia
 ---
 
 # 091 - Parley & Preparations

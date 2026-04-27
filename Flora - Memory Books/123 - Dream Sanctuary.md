@@ -27,11 +27,12 @@ keys:
   - starlit twilight water imagery
 position: after
 depth: 4
-
 summary: "Dream Sanctuary: a permanent shared lucid dreamscape created by Ryan Adame and Charlotte Claymore within their sensory bond, gifted by Althena as a private space free from spies. Select when characters enter a null state or shared dream, particularly Ryan and Charlotte in sensory connection post-projection. Key relationships: Ryan Adame (creates/manifests dream, teacher), Charlotte Claymore (learner, manifests her childhood conservatory sanctuary), Florence and Estra (physically asleep with them in waking world), Mina (awake outside, counting footsteps). The dreamscape responds to emotional states and agency, proving Charlotte can manifest independently"
 location: Dreamscape
 scene_type: dreamscape
-characters_present: [Ryan, Charlotte]
+character_present:
+  - Ryan
+  - Charlotte
 ---
 
 # 123 - Dream Sanctuary

@@ -21,7 +21,14 @@ depth: 4
 summary: "**AI Search Summary:** This is a pivotal scene where Ryan Adame reveals his father, William, is alive. William, presumed dead for 15 years, emerges from hiding with critical intelligence on secret tunnels in Claymore Manor. The reunion with allies Howard and Rachael Blakeney is emotionally charged, resolving a long-standing deception. It should be selected when the narrative involves the family's history, the imminent attack by Loren, or planning the manor's defense. Key relationships are William with his children, the Blakeneys, and the threat of Loren. The information on the tunnels is tacti"
 location: Claymore Manor
 scene_type: revelation
-characters_present: [Ryan, Charlotte, Florence, Estra, William, Howard, Rachael]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Estra
+  - William
+  - Howard
+  - Rachael
 ---
 
 # 092 - War Room Reunion

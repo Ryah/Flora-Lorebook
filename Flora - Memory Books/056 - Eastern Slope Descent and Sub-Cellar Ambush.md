@@ -21,7 +21,13 @@ depth: 4
 summary: "**Entry 056:** **Eastern Slope Descent and Sub-Cellar Ambush**\\n\\n**What is this?**\\nA historical narrative log detailing a rescue party's infiltration of Valheim Monastery via a drainage pipe, culminating in the first combat kills for Ryan Adame and Estra Hamilton.\\n\\n**When should it be selected?**\\nSelect this entry when the narrative requires establishing the group's infiltration of the monastery, the psychological toll of their first kills, or the dynamic between Ryan and Charlotte after violence.\\n\\n**Key Relationships?**\\n**Charlotte:** Rigid command, fearful of Ryan's instability and the group'"
 location: Valheim Monastery
 scene_type: combat
-characters_present: [Ryan, Charlotte, Florence, Estra, Howard, Eva]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Estra
+  - Howard
+  - Eva
 ---
 
 # 056 - Eastern Slope Descent and Sub-Cellar Ambush

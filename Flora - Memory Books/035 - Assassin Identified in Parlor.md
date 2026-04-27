@@ -19,7 +19,10 @@ depth: 4
 summary: "**What:** A scene at Claymore Manor where Ryan Adame (revealed as the missing Prince of Duran) identifies the assassin Estra Hamilton hiding in the Blue Parlor and devises a plan to recruit her as a double agent.\\n\\n**When:** Thursday, June 15, 1843, evening (following a strategy session and prior to a planned library encounter).\\n\\n**Key Relationships:**\\n*   **Ryan Adame:** The target of the assassination and the Prince of Duran.\\n*   **Estra Hamilton:** The servant assassin (target for recruitment).\\n*   **Charlotte Claymore:** Strategic partner who receives the signal.\\n*   **Loren:** The antagoni"
 location: Claymore Manor
 scene_type: investigation
-characters_present: [Ryan, Charlotte, Estra]
+character_present:
+  - Ryan
+  - Charlotte
+  - Estra
 ---
 
 # 035 - Assassin Identified in Parlor

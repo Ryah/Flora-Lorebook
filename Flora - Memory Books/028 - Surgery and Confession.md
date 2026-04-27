@@ -24,7 +24,11 @@ depth: 4
 summary: "**Entry 028: Surgery and Confession**\\n\\n**What is this?** A scene depicting Ryan's medical treatment and romantic confession with Florence Claymore in a manor surgery.\\n\\n**When should it be selected?** During the \\\"dangerous extraction\\\" arc, immediately following Ryan's return to Claymore Manor, or during the evening assembly buildup.\\n\\n**Key relationships:** Ryan & Florence (romantic intimacy), Florence & Charlotte (supportive), Ryan & Rachael (professional).\\n\\n**Context:** Ryan undergoes painful restitching for a reopened wound. He and Florence share a moment of vulnerability and reaffirm their l"
 location: Claymore Manor
 scene_type: recovery
-characters_present: [Ryan, Charlotte, Florence, Rachael]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Rachael
 ---
 
 # 028 - Surgery and Confession

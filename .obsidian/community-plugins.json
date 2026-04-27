@@ -1,5 +1,8 @@
 [
   "obsidian-local-rest-api",
   "tag-wrangler",
-  "templater-obsidian"
+  "templater-obsidian",
+  "better-word-count",
+  "editing-toolbar",
+  "multi-properties"
 ]

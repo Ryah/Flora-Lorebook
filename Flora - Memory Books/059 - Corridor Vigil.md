@@ -19,7 +19,10 @@ depth: 4
 summary: "AI Search Summary:\\n**Entry 059: Corridor Vigil** depicts a post-rescue scene at Claymore Manor (June 17, 1843) where Ryan Adame and Estra Hamilton tend to rescued boy Alec. **Select this** to depict recovery from trauma, trust-building after escape, or the dynamic between the wives and their husbands. **Key relationships** include Ryan as an emotional anchor, Estra as traumatized and hypervigilant, and Rachael as the maternal protector who facilitates the transition to rest. The entry focuses on emotional processing and the resolution of crisis."
 location: Claymore Manor
 scene_type: dialogue
-characters_present: [Ryan, Estra, Alec]
+character_present:
+  - Ryan
+  - Estra
+  - Alec
 ---
 
 # 059 - Corridor Vigil

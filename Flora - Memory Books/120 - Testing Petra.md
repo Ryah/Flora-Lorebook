@@ -21,11 +21,21 @@ keys:
   - assume nothing verify everything
 position: after
 depth: 4
+summary: |-
+  **What is this:** An entry for a specific timeline event—a formal dinner at the Palace of Loth Logan on June 21, 1843, where Ryan Adame spots a suspicious servant (Petra Voss) and the family tests his observation training. The scene establishes that Petra is likely an agent of Loren, planted before Ryan's escape, and initiates a counterintelligence plan to feed her misinformation.
 
-summary: "**What is this:** An entry for a specific timeline event—a formal dinner at the Palace of Loth Logan on June 21, 1843, where Ryan Adame spots a suspicious servant (Petra Voss) and the family tests his observation training. The scene establishes that Petra is likely an agent of Loren, planted before Ryan's escape, and initiates a counterintelligence plan to feed her misinformation.\n\n**When selected:** Any scene involving court intrigue, surveillance, counter-spying, or family strategic planning after Ryan's return to Duran. Use when the narrative moves toward manipulating Loren's spy network or when characters discuss Loren's long-term planning.\n\n**Key relationships:** Petra Voss (Loren's agent; observed by Ryan; planted months before escape); Howard Adame (tests Ryan); Estra (identifies Petra, obtains schedule); Charlotte (plans misinformation framework); Florence (provides alibi; creates distraction); Queen Maya (guilt-ridden; provides study location); Ryan (winks to test her trained response; plans projection into study)."
+  **When selected:** Any scene involving court intrigue, surveillance, counter-spying, or family strategic planning after Ryan's return to Duran. Use when the narrative moves toward manipulating Loren's spy network or when characters discuss Loren's long-term planning.
+
+  **Key relationships:** Petra Voss (Loren's agent; observed by Ryan; planted months before escape); Howard Adame (tests Ryan); Estra (identifies Petra, obtains schedule); Charlotte (plans misinformation framework); Florence (provides alibi; creates distraction); Queen Maya (guilt-ridden; provides study location); Ryan (winks to test her trained response; plans projection into study).
 location: Duran
 scene_type: investigation
-characters_present: [Ryan, Charlotte, Florence, Estra, Queen Maya, Howard]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Estra
+  - Queen Maya
+  - Howard
 ---
 
 # 120 - Testing Petra

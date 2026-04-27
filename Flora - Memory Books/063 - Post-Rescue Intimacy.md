@@ -23,7 +23,9 @@ depth: 4
 summary: "**What:** A post-rescue recovery scene where Ryan and Charlotte retreat to the Master Bathroom and Bed to find intimacy and security after rescuing Alec.\\n\\n**When:** Immediately following the successful rescue of Alec Hamilton from the Valheim monastery (Saturday to Sunday, 1843).\\n\\n**Key Relationships:** Deepens the bond between Ryan and Charlotte. Charlotte drops her commanding persona to accept vulnerability, while Ryan reaffirms his devotion. Ryan serves as her emotional anchor and sedative, and she manages the household delegation to Rachael and Florence."
 location: Claymore Manor
 scene_type: intimacy
-characters_present: [Ryan, Charlotte]
+character_present:
+  - Ryan
+  - Charlotte
 ---
 
 # 063 - Post-Rescue Intimacy

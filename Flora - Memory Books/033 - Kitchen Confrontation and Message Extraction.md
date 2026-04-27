@@ -25,7 +25,10 @@ depth: 4
 summary: "**Entry 033 Summary**\\n\\n**What:** A confrontation in Claymore Manor's kitchen where Margot reveals Ryan is the missing Duranian prince, planted by Eleanor Castor. Ryan saves a carrier pigeon with a silver nitrate message, and Cora extracts it using lemon juice. Charlotte and Cora form a tense partnership to decode it.\\n\\n**When:** Selected when Ryan confronts Edmund, Margot reveals Ryan's secret, or Cora extracts the message.\\n\\n**Relationships:** **Ryan** (confesses he values Charlotte's precision and Florence's passion), **Charlotte** (establishes a tense equal partnership with Cora), **Cora** (a"
 location: Claymore Manor
 scene_type: confrontation
-characters_present: [Ryan, Charlotte, Edmund]
+character_present:
+  - Ryan
+  - Charlotte
+  - Edmund
 ---
 
 # 033 - Kitchen Confrontation and Message Extraction

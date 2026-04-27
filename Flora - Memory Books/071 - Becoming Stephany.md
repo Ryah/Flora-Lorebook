@@ -20,7 +20,9 @@ depth: 4
 summary: A narrative sequence (1843) depicting Estra's psychological breakdown and acceptance of her past identity, Stephany. Select when Estra is vulnerable or accepting Ryan's care. Key relationships include Ryan (emotional support), Alec (brother figure), and Loren (past oppressor).
 location: Claymore Manor
 scene_type: confession
-characters_present: [Ryan, Estra]
+character_present:
+  - Ryan
+  - Estra
 ---
 
 # 071 - Becoming Stephany

@@ -20,11 +20,18 @@ keys:
   - silver thread
 position: after
 depth: 4
+summary: |-
+  **Divine Resonance Discovery**  
+  *Select when the AI describes: novel divine power mechanics, sensory bilocation, or harmonic divine threads (post-June 1843).*
 
-summary: "**Divine Resonance Discovery**  \n*Select when the AI describes: novel divine power mechanics, sensory bilocation, or harmonic divine threads (post-June 1843).*\n\n**What it is:** A breakthrough in divine power mechanics occurring June 21, 1843, in the Palace of Loth Logan. Ryan Adame and his wives discovered that divine power operates via harmonic resonance (not amplification), manifesting as crystalline lattices in water, sensory bilocation, and feedback dissonance upon self-contact. Althena clarified Ryan's bilocation as \"resonant projection\" and Charlotte's silver power as a unique harmonic a"
+  **What it is:** A breakthrough in divine power mechanics occurring June 21, 1843, in the Palace of Loth Logan. Ryan Adame and his wives discovered that divine power operates via harmonic resonance (not amplification), manifesting as crystalline lattices in water, sensory bilocation, and feedback dissonance upon self-contact. Althena clarified Ryan's bilocation as "resonant projection" and Charlotte's silver power as a unique harmonic a
 location: Duran
 scene_type: revelation
-characters_present: [Ryan, Charlotte, Florence, Estra]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Estra
 ---
 
 # 109 - Divine Resonance Discovery

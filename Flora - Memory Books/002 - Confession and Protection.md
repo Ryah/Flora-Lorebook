@@ -19,7 +19,11 @@ depth: 4
 summary: A pivotal scene in 1843 where Ryan confesses abuse to Rachael, triggering her fury. She retrieves his locket and orders Eleanor's capture. Select this when Rachael or Ryan demonstrates protection, resources in Tor Veiloth/Amber Isles, or Henry's history.
 location: Claymore Manor
 scene_type: confession
-characters_present: [Ryan, Florence, Charlotte, Rachael]
+character_present:
+  - Ryan
+  - Florence
+  - Charlotte
+  - Rachael
 ---
 
 # 002 - Confession and Protection

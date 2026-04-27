@@ -21,7 +21,9 @@ depth: 4
 summary: A servant at Claymore Manor treating a knife wound before a mission. Select when Ryan requires bandaging for climbing or needs Fiona's local tactical intelligence regarding a hidden culvert near the Amber Isles. She provides a secure figure-eight wrap and a secret path for infiltration.
 location: Claymore Manor
 scene_type: recovery
-characters_present: [Ryan, Fiona]
+character_present:
+  - Ryan
+  - Fiona
 ---
 
 # 018 - Fiona's Bandaging

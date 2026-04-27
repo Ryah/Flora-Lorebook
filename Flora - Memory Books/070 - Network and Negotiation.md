@@ -20,7 +20,12 @@ depth: 4
 summary: "This is a strategic planning meeting between Ryan Adame and his wives, Rachael and Mina. It should be selected when generating dialogue or decisions about confronting the antagonist Loren, managing the spy network, or discussing the emotional state of allies (Charlotte, Alec, Estra). Key elements include: a list of Loren's assets (agents, ships, finances), a 10-day deadline, and Ryan's decision to delay action to preserve ally morale. The core relationships are the marital alliance between Ryan, Rachael, and Mina, and their shared opposition to Loren and Eleanor."
 location: Claymore Manor
 scene_type: negotiation
-characters_present: [Ryan, Charlotte, Florence, Rachael, Mina]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Rachael
+  - Mina
 ---
 
 # 070 - Network and Negotiation

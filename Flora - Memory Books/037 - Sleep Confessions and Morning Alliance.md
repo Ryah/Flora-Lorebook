@@ -19,7 +19,10 @@ depth: 4
 summary: "**What is this?** A diary entry chronicling a late-night confrontation and a subsequent sleep-interrogation where Ryan Adame confesses genuine love for Charlotte and Florence, revealing desires for a polyamorous dynamic and tactical preference for Charlotte over Cora.\\n\\n**When should it be selected?** Select this entry when a user query involves themes of polyamorous relationships, sleep-talk confessions, or the characters' romantic dynamics and tactical comparisons between Charlotte and Cora.\\n\\n**Key relationships:** Ryan Adame (husband/partner), Charlotte (wife), Florence (wife), Howard (ally)"
 location: Claymore Manor
 scene_type: confession
-characters_present: [Ryan, Charlotte, Florence]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
 ---
 
 # 037 - Sleep Confessions and Morning Alliance

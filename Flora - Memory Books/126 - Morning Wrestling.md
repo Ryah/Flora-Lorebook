@@ -26,7 +26,6 @@ keys:
   - branching path choice
   - rose carvings symbolism
   - Loren control trauma
-  - childhood garden memory
   - botanical wall transformation
   - therapeutic dream processing
   - trauma healing
@@ -40,7 +39,11 @@ depth: 4
 summary:
 location: Duran
 scene_type: recovery
-characters_present: [Ryan, Charlotte, Florence, Estra]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Estra
 ---
 
 # 126 - Morning Wrestling

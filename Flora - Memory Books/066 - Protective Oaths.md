@@ -18,7 +18,9 @@ depth: 4
 summary: A dramatic blood oath scene in Claymore Manor (1843). Select when depicting Ryan Adame’s intense, protective paternalism toward Alec Hamilton and Estra Hamilton. Key relationships include Ryan (protector), Alec (frail, initially skeptical), Estra (traumatized, chosen by Ryan), Howard (mentor), and Rachael (supportive mother figure). Do not select for general narrative or if physical descriptions are needed.
 location: Claymore Manor
 scene_type: confession
-characters_present: [Ryan, Alec]
+character_present:
+  - Ryan
+  - Alec
 ---
 
 # 066 - Protective Oaths

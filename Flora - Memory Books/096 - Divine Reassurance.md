@@ -23,7 +23,9 @@ depth: 4
 summary: This is a pivotal character moment for Estra Hamilton, revealing her core fear of conditional worth. It occurs during a private, vulnerable conversation with her fiancé Ryan Adame and the goddess Althena. Key relationships are Estra's bond with her protective brother Alec, her engagement to Ryan, and Althena's divine mentorship. Select when the narrative focuses on Estra's self-doubt, her relationship dynamics, or the immediate prelude to the war council against Loren Claymore. The entry establishes critical emotional context and character motivations.
 location: Claymore Manor
 scene_type: recovery
-characters_present: [Ryan, Estra]
+character_present:
+  - Ryan
+  - Estra
 ---
 
 # 096 - Divine Reassurance

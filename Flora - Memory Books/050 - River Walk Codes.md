@@ -20,7 +20,9 @@ depth: 4
 summary: "Cryptographic code created by Cora Adame for ambiguous communication. Select when the group needs to convey specific hidden meanings in public or during tense exchanges. Key relationships: Ryan Adame (creator's brother), Estra Hamilton (user), Loren Claymore (threat). Confirms Estra's defection and impending rescue timeline for Alec."
 location: Tor Veiloth
 scene_type: investigation
-characters_present: [Ryan, Cora]
+character_present:
+  - Ryan
+  - Cora
 ---
 
 # 050 - River Walk Codes

@@ -21,7 +21,10 @@ depth: 4
 summary: "**What:** An intimate post-coital dressing scene between Florence Claymore and Ryan. **When:** June 15, 1843, evening, preceding a confrontation with Charlotte and the assembly. **Key Relationships:** Florence (naked/injured), Ryan (caretaker/partner), Charlotte (awaiting antagonist). Florence asserts her agency and commitment to the triad, vowing to face Charlotte as an equal partner."
 location: Claymore Manor
 scene_type: intimacy
-characters_present: [Ryan, Florence, Charlotte]
+character_present:
+  - Ryan
+  - Florence
+  - Charlotte
 ---
 
 # 031 - Dressing for Confrontation

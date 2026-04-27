@@ -24,7 +24,11 @@ depth: 4
 summary: "**What:** A triadic marriage contract signing and consummation in Claymore Manor (June 16, 1843).\\n**When:** Select when Ryan must validate his marriage to Charlotte and Florence publicly to defy his brother and secure his autonomy.\\n**Relationships:** Key figures include Ryan Adame, Charlotte Claymore, Florence Claymore, and Rachael Blakeney (witness). Ryan's loyalty is shifting from his brother (Loren) to his wives.\\n**Context:** Ryan amends the contract to ensure mutual autonomy and plans a public wedding to prove his free choice."
 location: Claymore Manor
 scene_type: consummation
-characters_present: [Ryan, Charlotte, Florence, Rachael]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Rachael
 ---
 
 # 042 - Consummation and Validation

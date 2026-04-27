@@ -23,7 +23,14 @@ depth: 4
 summary: "**Summary:**\\nThis entry depicts the 1843 monastery extraction of Ryan Adame's group, featuring Charlotte Claymore’s psychological regression and Florence’s injury. Select it when the AI needs to show the resolution of a chase sequence, the arrival at safety, or the group's emotional/physical recovery. Key relationships include Ryan as the protector and Florence as the injured, competitive ally. Do not select for atmospheric descriptions of the shaft, but for the arrival at Claymore Manor and the revelation that Loren orchestrated the trap."
 location: Valheim Monastery
 scene_type: recovery
-characters_present: [Ryan, Charlotte, Alec, Howard, Florence, Estra, Eva]
+character_present:
+  - Ryan
+  - Charlotte
+  - Alec
+  - Howard
+  - Florence
+  - Estra
+  - Eva
 ---
 
 # 057 - Monastery Extraction

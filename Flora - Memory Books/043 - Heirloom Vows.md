@@ -20,7 +20,11 @@ depth: 4
 summary: "**What:** An impromptu triadic marriage ceremony where Rachael gifts Ryan and his sisters heirloom gold bands to sanctify a modified contract, immediately followed by a sexual dominance scene and strategic planning.\\n\\n**When:** Friday, June 16, 1843, between 11:00 AM and 11:20 AM in the Lord's Quarters of Claymore Manor, prior to the 8 PM meeting with Estra.\\n\\n**Key Relationships:** Rachael (giver of bands), Ryan (sincere suitor), Charlotte (immediate dominant partner), Flora (intended public wife), and Estra (trusted ally)."
 location: Claymore Manor
 scene_type: consummation
-characters_present: [Ryan, Charlotte, Florence, Rachael]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Rachael
 ---
 
 # 043 - Heirloom Vows

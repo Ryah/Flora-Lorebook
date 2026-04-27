@@ -20,7 +20,12 @@ depth: 4
 summary: "This is the clandestine wedding and escape of Ryan Adame and Estra Hamilton. Select when referencing their marriage, the escape from Claymore Manor, or the divine intervention of Althena. Key relationships: Ryan (groom), Estra (bride), the Oracle (officiant), Althena (goddess), Charlotte & Florence Claymore (Ryan's other wives), Alec (Estra's brother), Cornelia vi Relani (Crown Princess who joins them), and William Adame (guide). The event is a pivotal, action-driven turning point."
 location: Claymore Manor
 scene_type: decision
-characters_present: [Ryan, Charlotte, Florence, Estra, Oracle]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Estra
+  - Oracle
 ---
 
 # 104 - Wedding Escape

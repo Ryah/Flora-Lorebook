@@ -20,11 +20,18 @@ keys:
   - silver thread
 position: after
 depth: 4
+summary: |-
+  **Bathroom Intimacy**  
+  **What it is:** A pivotal domestic scene on June 21, 1843 (1:05–1:38 AM) in the Duranian Palace's West Wing Bathing Room. Ryan Adame and his three wives share a bathtub, discussing belonging, home, and Ryan's nascent divine power. Key events: Ryan demonstrates power via "golden thread," Charlotte accesses it through their sensory link (manifesting silver light), and the family banter reinforces their chosen-family bond.
 
-summary: "**Bathroom Intimacy**  \n**What it is:** A pivotal domestic scene on June 21, 1843 (1:05–1:38 AM) in the Duranian Palace's West Wing Bathing Room. Ryan Adame and his three wives share a bathtub, discussing belonging, home, and Ryan's nascent divine power. Key events: Ryan demonstrates power via \"golden thread,\" Charlotte accesses it through their sensory link (manifesting silver light), and the family banter reinforces their chosen-family bond.\n\n**When to select:** Any scene involving Ryan, Charlotte, Florence, or Estra together in an intimate, private setting; discussions of Ryan's divine powe"
+  **When to select:** Any scene involving Ryan, Charlotte, Florence, or Estra together in an intimate, private setting; discussions of Ryan's divine powe
 location: Duran
 scene_type: intimacy
-characters_present: [Ryan, Charlotte, Florence, Estra]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Estra
 ---
 
 # 108 - Bathroom Intimacy

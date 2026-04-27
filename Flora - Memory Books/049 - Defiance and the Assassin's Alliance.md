@@ -33,7 +33,10 @@ depth: 4
 summary: "**Entry 049 - Defiance and the Assassin's Alliance**\\n\\nA pivotal narrative entry occurring on June 16, 1843, detailing Ryan Adame's defiance of Loren Claymore and the immediate strategic response. Should be selected to highlight the political tension of the marriage contract, the family's internal cohesion, and the alliance with Rachael Blakeney. Key relationships include Ryan (defiant protector), Charlotte (fearful matriarch), Florence (supportive partner), and Rachael (strategic enforcer). The entry establishes the upcoming meeting with Estra regarding the impending midnight wedding and the m"
 location: Claymore Manor
 scene_type: negotiation
-characters_present: [Ryan, Charlotte, Estra]
+character_present:
+  - Ryan
+  - Charlotte
+  - Estra
 ---
 
 # 049 - Defiance and the Assassin's Alliance

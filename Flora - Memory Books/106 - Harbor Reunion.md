@@ -25,7 +25,12 @@ summary: |-
   **Key relationships:** Ryan & Charlie (brothers, reunion); Ryan & his wives (Charlotte, Florence, Estra marriages detailed); Ryan & Althena (Divine Vessel); the Adame family (father revealed alive, mother Queen Maya); antagonists (Loren Claymore's agents in Duran).
 location: Duranian Harbor
 scene_type: dialogue
-characters_present: [Ryan, Charlie, Charlotte, Florence, Estra]
+character_present:
+  - Ryan
+  - Charlie
+  - Charlotte
+  - Florence
+  - Estra
 ---
 
 # 106 - Harbor Reunion

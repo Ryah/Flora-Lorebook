@@ -23,7 +23,14 @@ depth: 4
 summary: "This is a pivotal family and tactical planning session in Claymore Manor. Select when referencing the Adame family's response to the Loren threat, their escape planning, or William's hidden intelligence. Key elements: William reveals secret escape tunnels; tasks are assigned for defense; Charlotte shows her long-term contingency plans. Central relationships: Ryan, William, and Charlotte's alliance; Estra's protective suspicion; the family uniting against Loren."
 location: Claymore Manor
 scene_type: investigation
-characters_present: [Ryan, Charlotte, Florence, Estra, William, Howard, Rachael]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Estra
+  - William
+  - Howard
+  - Rachael
 ---
 
 # 093 - Reunion and Defense Planning

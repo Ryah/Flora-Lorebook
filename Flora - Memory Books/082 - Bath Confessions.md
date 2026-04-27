@@ -24,7 +24,9 @@ depth: 4
 summary: "**Entry 082: Bath Confessions (June 19, 1843)**\\n\\nA post-fight intimacy scene between Ryan Adame and Estra Hamilton at Claymore Manor. Select this when depicting the aftermath of their blood debt rematch, their relationship deepening through vulnerability and shared trauma. Key relationships: Romantic (intended marriage), Frenemies (mutual respect, holding back during fights)."
 location: Claymore Manor
 scene_type: intimacy
-characters_present: [Ryan, Estra]
+character_present:
+  - Ryan
+  - Estra
 ---
 
 # 082 - Bath Confessions

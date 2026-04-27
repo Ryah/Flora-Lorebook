@@ -23,7 +23,10 @@ depth: 4
 summary: "**What is this?**\\nA pre-extraction planning session on June 15, 1843, regarding a mission to rescue Mina and Cora from Claymore Manor. The group utilizes intelligence from herbalist Fiona regarding a hidden drainage culvert and confirms a trapdoor to a brutal soundproof brick room where Ryan was previously imprisoned.\\n\\n**When should it be selected?**\\nSelect when the AI requires details on the operational plan for the Claymore Manor extraction, specifically regarding entry routes (culvert vs. fisherman's path), the layout of the basement brick room, or the contingency timeline.\\n\\n**Key relationships?**\\n*   **Ryan:** Former prisoner in the brick room; leads the extraction.\\n*   **Fiona:** Source of the culvert intelligence; offers help due to Ryan's past kindness.\\n*   **Charlotte:** Strategic leader; evaluates intelligence reliability\\n*   **Florence:** Combatant; refuses to abandon Ryan.\\n*   **Howard:** Tactical backup coordinator; manages the Ragnar guard timeline."
 location: Claymore Manor
 scene_type: investigation
-characters_present: [Ryan, Charlotte, Fiona]
+character_present:
+  - Ryan
+  - Charlotte
+  - Fiona
 ---
 
 # 019 - Culvert Intelligence and Brick Room

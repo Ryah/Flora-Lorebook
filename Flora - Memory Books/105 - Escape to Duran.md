@@ -20,7 +20,16 @@ depth: 4
 summary: "**AI Summary:** This is a pivotal escape sequence where Ryan Adame's family flees to Duran. **Select when** referencing the escape from Loren, arrival in Duran, Ryan's divine pact with Althena, or key character bonds. **Key relationships:** Ryan's brotherly bond with Alec; his pardon of Estra; his confrontation and alliance with his brother, Regent Charlie; and his marital vows to Charlotte, Florence, and Estra. The entry establishes Ryan's divine authority and Duran's role as a sanctuary."
 location: Claymore Manor
 scene_type: decision
-characters_present: [Ryan, Charlotte, Florence, Estra, Alec, Cora, William, Cornelia, Charlie]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Estra
+  - Alec
+  - Cora
+  - William
+  - Cornelia
+  - Charlie
 ---
 
 # 105 - Escape to Duran

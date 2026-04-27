@@ -20,7 +20,11 @@ depth: 4
 summary: 'This is a pivotal character moment for Estra, Alec, and Ryan, establishing their shared history and evolving bonds. Select when the AI needs to understand their past as fugitives, their current struggle to build a "civilized" life, or the symbolic significance of their rituals (like the cinnamon blessing). Key relationships are the protective sibling bond between Estra and Alec, and the developing trust and partnership between Estra and Ryan. The scene defines their core conflict: transitioning from survival to belonging.'
 location: Claymore Manor
 scene_type: recovery
-characters_present: [Ryan, Estra, Alec, Florence]
+character_present:
+  - Ryan
+  - Estra
+  - Alec
+  - Florence
 ---
 
 # 075 - The Dragon's Apple Pie

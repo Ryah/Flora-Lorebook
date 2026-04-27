@@ -32,11 +32,29 @@ keys:
   - family intelligence network
 position: after
 depth: 4
+summary: |-
+  **What it is:** A specific historical event (June 21, 1843) during a formal dinner at Loth Logan Palace where a covert operation was initiated under the cover of post-dinner custard service.
 
-summary: "**What it is:** A specific historical event (June 21, 1843) during a formal dinner at Loth Logan Palace where a covert operation was initiated under the cover of post-dinner custard service.\n\n**Selection trigger:** When the narrative involves covert meetings, planned operations, or strategic distractions in a palace setting. Activate during formal dinners, after-dinner scenes, or when characters coordinate secret activities under social pretexts.\n\n**Key relationships:**\n- **Ryan Adame** initiated the operation timeline by summoning Petra to his room\n- **Estra** assigned to intercept and evaluate Petra (planned seven-minute route)\n- **Queen Maya** provided social cover for the interaction\n- **Charlotte, Florence** participated as projection team (needed physical contact for Ryan's projection)\n- **Howard, Mina** stationed as backup in east corridor\n- **Rachael** occupied William and Alec at table\n- **Cora** documented Petra's departure gait\n- **Claire** observed Florence nervously\n- **Petra Voss** was the operation target (servant invited to meet Ryan)"
+  **Selection trigger:** When the narrative involves covert meetings, planned operations, or strategic distractions in a palace setting. Activate during formal dinners, after-dinner scenes, or when characters coordinate secret activities under social pretexts.
+
+  **Key relationships:**
+  - **Ryan Adame** initiated the operation timeline by summoning Petra to his room
+  - **Estra** assigned to intercept and evaluate Petra (planned seven-minute route)
+  - **Queen Maya** provided social cover for the interaction
+  - **Charlotte, Florence** participated as projection team (needed physical contact for Ryan's projection)
+  - **Howard, Mina** stationed as backup in east corridor
+  - **Rachael** occupied William and Alec at table
+  - **Cora** documented Petra's departure gait
+  - **Claire** observed Florence nervously
+  - **Petra Voss** was the operation target (servant invited to meet Ryan)
 location: Duran
 scene_type: dialogue
-characters_present: [Ryan, Charlotte, Florence, Estra, Queen Maya]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Estra
+  - Queen Maya
 ---
 
 # 121 - Custard and Operation

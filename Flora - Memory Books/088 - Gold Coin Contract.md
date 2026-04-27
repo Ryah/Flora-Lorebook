@@ -20,7 +20,11 @@ depth: 4
 summary: A pre-ceremony ritual at Claymore Manor where Ryan Adame seals a modified contract with Alec Hamilton. Select when Alec offers his \"pocket nife\" for protection. Key relationships involve Ryan (lender), Alec (borrower), and Estra (witness). Crucially, the contract's modification (500-year loan) resolves the Oracle's conflict regarding Estra's status as wife vs. sister.
 location: Claymore Manor
 scene_type: dialogue
-characters_present: [Ryan, Estra, Alec, Claire]
+character_present:
+  - Ryan
+  - Estra
+  - Alec
+  - Claire
 ---
 
 # 088 - Gold Coin Contract

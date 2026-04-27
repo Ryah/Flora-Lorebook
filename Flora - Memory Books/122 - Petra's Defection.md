@@ -17,11 +17,19 @@ keys:
   - therapist hiring discussion
 position: after
 depth: 4
+summary: |-
+  **Petra's Defection** records the June 21, 1843 negotiation where Petra Voss confesses she is a spy for Loren Claymore, who holds her 14-year-old brother Marten hostage. Ryan Adame offers protection for Marten in exchange for modified intelligence and secrecy about Ryan's projection ability. The deal is accepted; Charlotte proposes framing Ryan as reckless to maintain Loren's underestimation.
 
-summary: "**Petra's Defection** records the June 21, 1843 negotiation where Petra Voss confesses she is a spy for Loren Claymore, who holds her 14-year-old brother Marten hostage. Ryan Adame offers protection for Marten in exchange for modified intelligence and secrecy about Ryan's projection ability. The deal is accepted; Charlotte proposes framing Ryan as reckless to maintain Loren's underestimation.\n\n**Select this entry** when the AI needs to reference: Petra's true allegiance/reason for spying, the specific dead drop location (thornless rose bush, third from fountain, north garden), the terms of Ryan's counter-offer, Charlotte's deception strategy, or the planned meeting for Ryan to see Marten (east kitchen courtyard, after breakfast next day).\n\n**Key relations:** Petra Voss (spy/defector), Marten Voss (leverage), Loren Claymore (antagonist), Ryan Adame (negotiator/protector), Charlotte (strategy advisor), Estra and Mina (escorts)."
+  **Select this entry** when the AI needs to reference: Petra's true allegiance/reason for spying, the specific dead drop location (thornless rose bush, third from fountain, north garden), the terms of Ryan's counter-offer, Charlotte's deception strategy, or the planned meeting for Ryan to see Marten (east kitchen courtyard, after breakfast next day).
+
+  **Key relations:** Petra Voss (spy/defector), Marten Voss (leverage), Loren Claymore (antagonist), Ryan Adame (negotiator/protector), Charlotte (strategy advisor), Estra and Mina (escorts).
 location: Duran
 scene_type: negotiation
-characters_present: [Ryan, Estra, Mina, Petra]
+character_present:
+  - Ryan
+  - Estra
+  - Mina
+  - Petra
 ---
 
 # 122 - Petra's Defection

@@ -19,7 +19,9 @@ depth: 4
 summary: Entry 040 details a 1843 alliance between Ryan Adame and assassin Estra Hamilton. Select when Ryan seeks leverage against antagonist Loren or explores tactical weapon mastery. Key relationships include Ryan's wives Charlotte and Florence, who debate trust vs. conversion strategies. The entry focuses on strategic planning and family dynamics rather than physical combat.
 location: Claymore Manor
 scene_type: negotiation
-characters_present: [Ryan, Estra]
+character_present:
+  - Ryan
+  - Estra
 ---
 
 # 040 - Morning Alliances and Bath Negotiations

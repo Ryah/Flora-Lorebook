@@ -21,7 +21,10 @@ depth: 4
 summary: "This is a pivotal memory where Alec and Estra secretly share their mother's forbidden apple pie recipe with Ryan. Select when characters discuss family history, recipes, or defying Loren's control. Key relationships: Alec/Estra's shared trauma, Ryan's integration into their trust, and their collective act of preserving memory against Loren. The \"Kitchen Garden Pie\" becomes a symbol of rebellion and healing."
 location: Claymore Manor
 scene_type: dialogue
-characters_present: [Ryan, Estra, Alec]
+character_present:
+  - Ryan
+  - Estra
+  - Alec
 ---
 
 # 072 - The Kitchen Garden Conspiracy

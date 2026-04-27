@@ -16,7 +16,9 @@ depth: 4
 summary: "Entry: Curtained Hall Investigation (June 14, 1843)\\n**Context:** Ryan and Charlotte identify a memory restoration as a plot by Ryan’s mother, Eleanor, executed through a defective carriage driven by her compromised agent, Edmund Girard.\\n**Strategy:** They execute a counter-intelligence plan by leaking the existence of a rescue mission to distract Eleanor, while concealing the true threat from Florence to prevent her from alerting the mole.\\n**Key Relationships:** Unites Ryan and Charlotte against Eleanor; defines Ryan and Charlotte's bond based on \\\"strategic omission\\\" and shared survival tactic."
 location: Claymore Manor
 scene_type: investigation
-characters_present: [Ryan, Charlotte]
+character_present:
+  - Ryan
+  - Charlotte
 ---
 
 # 008 - Curtained Hall Investigation

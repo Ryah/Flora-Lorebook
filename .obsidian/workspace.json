@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b00f635e486c9521",
+        "id": "857ae181fce2c886",
         "type": "tabs",
         "children": [
           {
-            "id": "fd20e2acd5284e6a",
+            "id": "a429cbcca4a28626",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flora - Memory Books/118 - Cuddle Pile Decompression.md",
+                "file": "Flora - Memory Books/024 - Coastal Extraction.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "118 - Cuddle Pile Decompression"
+              "title": "024 - Coastal Extraction"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "characters_present",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,19 +171,28 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Flora - Memory Books/118 - Cuddle Pile Decompression.md"
+                "file": "Flora - Memory Books/024 - Coastal Extraction.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 118 - Cuddle Pile Decompression"
+              "title": "File properties for 024 - Coastal Extraction"
+            }
+          },
+          {
+            "id": "2afecbd7c479918c",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,38 +203,45 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "copilot:Open Copilot Chat": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "fd20e2acd5284e6a",
+  "active": "a429cbcca4a28626",
   "lastOpenFiles": [
-    "Flora - Memory Books/117 - Sensory Bond Denial.md",
-    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Florence Blakeney.md",
-    "2026-04-27.md",
-    "Sensory Link.md",
-    "Untitled.canvas",
-    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Charlotte Claymore.md",
-    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Cornelia Vi Relani.md",
-    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Estra.md",
-    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Eleanor Castor.md",
-    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Eva Riensdauter.md",
-    "Flora - Memory Books/097 - Divine Wedding Strategy.md",
-    "Your Wives Lorebook/meta/Ryan's Divine Power (Golden Thread).md",
-    "Your Wives Lorebook/meta/Ryan and Alec's Contract.md",
-    "Your Wives Lorebook/meta/Ryan's Suicide Note.md",
-    "Your Wives Lorebook/meta/The Backstory.md",
-    "Flora - Memory Books/015 - Dawn Combat Assessment.md",
+    "Flora - Memory Books/025 - Ragnar Vessel Transfer.md",
+    "Flora - Memory Books/023 - Amber Extraction.md",
+    "Flora - Memory Books/022 - Sea Witch Departure.md",
+    "Flora - Memory Books/021 - Carriage to Briarhaven.md",
+    "Flora - Memory Books/020 - Tower Confession.md",
     "Flora - Memory Books/019 - Culvert Intelligence and Brick Room.md",
-    "Flora - Memory Books/038 - Courtyard Sparring Accord.md",
-    "Flora - Memory Books/042 - Consummation and Validation.md",
-    "Flora - Memory Books/061 - Master Suite Surrender.md",
-    "Flora - Memory Books/083 - Bath to Equalizer.md",
-    "Flora - Memory Books/100 - Pre-Wedding Preparations.md",
-    "Flora - Memory Books/105 - Escape to Duran.md",
-    "Flora - Memory Books/108 - Bathroom Intimacy.md",
-    "Your Wives Lorebook/meta/The Dreamscape Labyrinth.md",
-    "Flora - Memory Books/122 - Petra's Defection.md",
-    "Your Wives Lorebook/meta/The Sensory Link (Ryan & Charlotte).md",
+    "Flora - Memory Books/018 - Fiona's Bandaging.md",
+    "Flora - Memory Books/017 - Mercer's Clearance.md",
+    "Flora - Memory Books/016 - Breakfast Before the Examination.md",
+    "Flora - Memory Books/015 - Dawn Combat Assessment.md",
+    "Flora - Memory Books/014 - Dawn Combat Assessment.md",
+    "Flora - Memory Books/013 - The Closet Confession.md",
+    "Flora - Memory Books/011 - Coded Letter Drafting.md",
+    "Flora - Memory Books/010 - Dawn Extraction Plans.md",
+    "Flora - Memory Books/009 - Family Declaration.md",
+    "Flora - Memory Books/008 - Curtained Hall Investigation.md",
+    "Flora - Memory Books/007 - Locket and Legal Deadline.md",
+    "Flora - Memory Books/005 - The Trust Document.md",
+    "Flora - Memory Books/006 - The Courier's Warning.md",
+    "Flora - Memory Books/004 - Parlor Confession and Reconciliation.md",
+    "Flora - Memory Books/003 - Bathing Chamber Confessions.md",
+    "Flora - Memory Books/002 - Confession and Protection.md",
+    "Flora - Memory Books/001 - Arrival and Confession.md",
+    "Flora - Memory Books/120 - Testing Petra.md",
+    "Flora - Memory Books/107 - Homecoming at Loth Logan.md",
+    "Flora - Memory Books/114 - The Sealed Hall.md",
+    "Flora - Memory Books/Arcs",
+    "Tags",
+    "Untitled.canvas",
     "Your Wives Lorebook/meta",
     "Your Wives Lorebook",
     "Flora - Memory Books/~syncthing~112 - Projection Discovery.md.tmp",
@@ -233,8 +249,6 @@
     "Librarian",
     "Lore for Flora's Regency Era (UPDATED)/_archived",
     "Lore for Flora's Regency Era (UPDATED)/meta",
-    "Lore for Flora's Regency Era (UPDATED)/optional",
-    "Lore for Flora's Regency Era (UPDATED)/nations",
-    "Lore for Flora's Regency Era (UPDATED)/culture"
+    "Lore for Flora's Regency Era (UPDATED)/optional"
   ]
 }

@@ -20,7 +20,14 @@ depth: 4
 summary: "On June 18, 1843, the Claymore group holds a recovery luncheon post-extraction. Select when Estra seeks to prove herself against Florence. Key relationships: Rachael (maternal protector), Howard (paternal), Charlotte (romantic), Ryan (jester/ally). The event centers on a competitive eating wager (Estra vs. Florence) to prove superiority, with high emotional stakes for Alec."
 location: Claymore Manor
 scene_type: recovery
-characters_present: [Ryan, Charlotte, Florence, Estra, Alec, Howard, Rachael]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Estra
+  - Alec
+  - Howard
+  - Rachael
 ---
 
 # 067 - Recovery Luncheon Wager

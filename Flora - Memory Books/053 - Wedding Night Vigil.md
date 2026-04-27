@@ -22,7 +22,9 @@ summary: |-
   This entry details the immediate post-wedding events for Ryan, Charlotte, and Florence at Claymore Manor. It includes two key scenes: 1) The "Hamilton Blood Vigil," a ritual binding Estra Hamilton as a blood-sister to the marriage for protection from Loren. 2) The wedding night's intimate power dynamic, where Charlotte takes dominant command. Select for queries about the wedding's aftermath, the ritual's purpose, marital dynamics, or character interactions involving Ryan, his wives, Estra, or the threat from Loren.
 location: Claymore Manor
 scene_type: dialogue
-characters_present: [Ryan, Estra]
+character_present:
+  - Ryan
+  - Estra
 ---
 
 # 053 - Wedding Night Vigil

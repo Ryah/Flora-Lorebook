@@ -29,7 +29,13 @@ depth: 4
 summary: "**What:** A rescue extraction and transfer aboard the Ragnar vessel. Ryan saves his sisters and Mina, introduces them to his wife Florence and father-in-law Howard, and reveals the support of the Claymore matriarch Rachael.\\n\\n**When:** Immediately following the Adame household extraction (June 15, 1843, 10:40–11:20 AM).\\n\\n**Key Relationships:**\\n*   **Ryan:** Protective husband/father to Florence and sisters; recovering from a severe back wound.\\n*   **Florence:** Competitive wrestler, Ryan's cherished wife; injured ankle; acts as nurse.\\n*   **Mina:** Guilt-ridden wife; recognizes Ryan's resilienc"
 location: Amber Isles
 scene_type: recovery
-characters_present: [Ryan, Florence, Mina, Cora, Howard, Callista]
+character_present:
+  - Ryan
+  - Florence
+  - Mina
+  - Cora
+  - Howard
+  - Callista
 ---
 
 # 025 - Ragnar Vessel Transfer

@@ -21,7 +21,10 @@ depth: 4
 summary: This is a private conversation between Ryan Adame and Florence Claymore before a scheduled blood debt rematch. Select when referencing Ryan's hidden combat abilities, his psychological preparation for the fight, or the household's dynamics and betting pool. Key relationships are Ryan's vow to fight Estra Hamilton at full strength, Florence's support and recognition of his "old friend" darker self, and the reactions of other household members (Charlotte, Howard, Mrs. Marie).
 location: Claymore Manor
 scene_type: intimacy
-characters_present: [Ryan, Florence, Estra]
+character_present:
+  - Ryan
+  - Florence
+  - Estra
 ---
 
 # 078 - Pre-Match Confession

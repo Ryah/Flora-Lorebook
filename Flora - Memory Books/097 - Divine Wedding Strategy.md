@@ -21,7 +21,9 @@ depth: 4
 summary: This is a strategic plan (the "Divine Wedding Strategy") devised during a crisis meeting at Claymore Manor. It should be selected when the narrative involves the characters' tactical planning, the integration of the wedding into their defense, or the handling of the prisoner Priti. Key relationships include Ryan Adame's protective leadership, Charlotte Claymore's tactical approval, William Adame's emotional return, and the group's shift from skepticism to utilizing divine intervention (Althena's involvement) and Priti's potential as a double agent against the antagonist Loren.
 location: Claymore Manor
 scene_type: negotiation
-characters_present: [Ryan, Charlotte]
+character_present:
+  - Ryan
+  - Charlotte
 ---
 
 # 097 - Divine Wedding Strategy

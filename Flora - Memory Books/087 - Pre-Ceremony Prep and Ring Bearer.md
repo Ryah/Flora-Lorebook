@@ -25,7 +25,11 @@ depth: 4
 summary: This entry depicts the pre-ceremony preparations at Claymore Manor. Select it when the narrative involves preparing for the Oracle ceremony, family dynamics, or Estra’s internal struggle with her identity. Key relationships include Charlotte as the strategic Countess, Florence as the nurturing advisor, and Ryan as the supportive husband. Alec is introduced as the chosen ring bearer.
 location: Claymore Manor
 scene_type: dialogue
-characters_present: [Ryan, Charlotte, Florence, Estra]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Estra
 ---
 
 # 087 - Pre-Ceremony Prep and Ring Bearer

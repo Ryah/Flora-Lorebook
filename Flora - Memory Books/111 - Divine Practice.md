@@ -23,7 +23,13 @@ depth: 4
 summary: "**What:** Historical record of Ryan Adame's first documented divine power practice session (June 21, 1843), including three water manipulation attempts and one test with stone. Documents mechanics of \\\"golden thread\\\" resonance, partner synchronization, and material resistance.\\n\\n**Selection trigger:** Mentions of divine practice, golden thread mechanics, element manipulation (water/ice/stone), Althena's direct instruction, Charlotte's silver glow, or Claire Whitehill's first exposure to divine power. Also triggered by scenes requiring divine power mechanics explanation.\\n\\n**Key relationships:** R"
 location: Duran
 scene_type: training
-characters_present: [Ryan, Charlotte, Florence, Estra, Claire]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Estra
+  - Claire
+  - Cora
 ---
 
 # 111 - Divine Practice

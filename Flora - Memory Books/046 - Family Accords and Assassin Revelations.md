@@ -22,7 +22,12 @@ depth: 4
 summary: "A pivotal confession scene in Claymore Manor (June 16, 1843) where Ryan Adame rejects extraction and commits to a triadic wedding with his sisters, while Charlotte Claymore reveals Estra is a Duranian defector. Select this entry when characters discuss: accepting familial healing, strategic wedding planning, or the revelation of a double-agent defector. Key relationships involve the sisters (Mina, Cora, Charlotte) and Ryan as a protective unit."
 location: Claymore Manor
 scene_type: confession
-characters_present: [Ryan, Charlotte, Florence, Mina, Cora]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Mina
+  - Cora
 ---
 
 # 046 - Family Accords and Assassin Revelations

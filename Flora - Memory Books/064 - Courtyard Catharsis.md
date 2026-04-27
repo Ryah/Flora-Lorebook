@@ -20,7 +20,11 @@ depth: 4
 summary: This is a pivotal therapeutic session for Estra, guided by Ryan, to process trauma inflicted by Loren. It should be selected when focusing on Estra's psychological recovery, her relationship with Ryan as her protector and mentor, or the group's collective response to shared trauma. Key relationships are Ryan's directive support, Estra's traumatic bond with Loren involving Alec, and the silent witness of Florence, Charlotte, and Howard, each reacting differently to the catharsis.
 location: Claymore Manor
 scene_type: recovery
-characters_present: [Ryan, Charlotte, Alec, Estra]
+character_present:
+  - Ryan
+  - Charlotte
+  - Alec
+  - Estra
 ---
 
 # 064 - Courtyard Catharsis

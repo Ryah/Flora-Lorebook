@@ -37,11 +37,22 @@ keys:
   - found family bonding
 position: after
 depth: 4
+summary: |-
+  **What this is:** A pivotal shared lucid dream event on June 21, 1843, where Ryan Adame gifts Charlotte Claymore a family drawing and reveals a suicide letter from April 18, 1843. Charlotte promises never to treat him as collateral, accepts the nickname "Mrs. Silver," and the dreamers' sensory landscapes begin merging (her glass conservatory fuses with his labyrinth). The entry also tracks Mina Adame observing Thomas Greaves at a dead drop.
 
-summary: "**What this is:** A pivotal shared lucid dream event on June 21, 1843, where Ryan Adame gifts Charlotte Claymore a family drawing and reveals a suicide letter from April 18, 1843. Charlotte promises never to treat him as collateral, accepts the nickname \"Mrs. Silver,\" and the dreamers' sensory landscapes begin merging (her glass conservatory fuses with his labyrinth). The entry also tracks Mina Adame observing Thomas Greaves at a dead drop.\n\n**Selection trigger:** Select when the AI depicts the deepening emotional bond, trust, or physical landscape fusion between Charlotte and Ryan; when referencing Ryan's past suicide attempt, the family drawing, or Charlotte's promise to protect him; or when tracking Mina's surveillance of Thomas Greaves in the physical world on this same night.\n\n**Key relationships:**\n- Ryan Adame (dreamer, gift-giver, revealer of suicide letter)\n- Charlotte Claymore (recipient, promise-maker, \"Mrs. Silver\")\n- Mina Adame (observer of Thomas Greaves)\n'- Thomas Greaves (observed at dead drop)\n- Referenced but offscreen: Florence, Estra, Eleanor (abusive mother), Loren (Charlotte's mother)"
+  **Selection trigger:** Select when the AI depicts the deepening emotional bond, trust, or physical landscape fusion between Charlotte and Ryan; when referencing Ryan's past suicide attempt, the family drawing, or Charlotte's promise to protect him; or when tracking Mina's surveillance of Thomas Greaves in the physical world on this same night.
+
+  **Key relationships:**
+  - Ryan Adame (dreamer, gift-giver, revealer of suicide letter)
+  - Charlotte Claymore (recipient, promise-maker, "Mrs. Silver")
+  - Mina Adame (observer of Thomas Greaves)
+  '- Thomas Greaves (observed at dead drop)
+  - Referenced but offscreen: Florence, Estra, Eleanor (abusive mother), Loren (Charlotte's mother)
 location: Dreamscape
 scene_type: dreamscape
-characters_present: [Ryan, Charlotte]
+character_present:
+  - Ryan
+  - Charlotte
 ---
 
 # 124 - The Oasis Offering

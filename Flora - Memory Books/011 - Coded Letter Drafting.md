@@ -20,7 +20,10 @@ depth: 4
 summary: A draft of a coded letter written by Ryan Claymore to his sisters on June 14, 1843. Select this when Ryan is drafting or discussing communication strategies with Rachael Blakeney, or when analyzing his security paranoia. Key relationships include Ryan (author), Rachael (recipient/critic), and Mina and Cora (intended recipients). The letter uses mundane descriptions of household appliances to verify his identity and mentions his assassination recovery.
 location: Claymore Manor
 scene_type: reflection
-characters_present: [Ryan, Florence, Rachael]
+character_present:
+  - Ryan
+  - Florence
+  - Rachael
 ---
 
 # 011 - Coded Letter Drafting

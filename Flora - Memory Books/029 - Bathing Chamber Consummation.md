@@ -20,7 +20,9 @@ depth: 4
 summary: This entry documents the first sexual encounter between Ryan and Florence Claymore, occurring after a mission. It should be selected when generating content about their romantic relationship development, emotional intimacy, or discussions about their polyamorous marriage with Charlotte. Key elements include Florence's inexperience, Ryan's reassurance, their mutual declarations of love, and Florence's subsequent insecurities about her place in the triad versus Charlotte.
 location: Claymore Manor
 scene_type: consummation
-characters_present: [Ryan, Florence]
+character_present:
+  - Ryan
+  - Florence
 ---
 
 # 029 - Bathing Chamber Consummation

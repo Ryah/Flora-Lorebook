@@ -23,7 +23,11 @@ depth: 4
 summary: "**What:** Ryan severs the right Achilles tendon of Edmund Girard after he confesses to kidnapping Prince Ryan fifteen years ago to facilitate an invasion by his mother, Loren Claymore.\\\\n\\\\n**When:** During a confrontation at Claymore Manor, specifically after Edmund confesses the plot and breaks down.\\\\n\\\\n**Key Relationships:** Edmund (victim), Ryan (attacker), Loren Claymore (mastermind), Charlotte (approver), Margot (kitchen spy).\\\\n\\\\n**Why Select:** High-stakes climax revealing the central conspiracy and physical climax of the confrontation."
 location: Claymore Manor
 scene_type: revelation
-characters_present: [Ryan, Charlotte, Howard, Edmund]
+character_present:
+  - Ryan
+  - Charlotte
+  - Howard
+  - Edmund
 ---
 
 # 032 - The Achilles Severance

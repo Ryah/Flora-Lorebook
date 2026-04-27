@@ -23,7 +23,11 @@ depth: 4
 summary: "**Context:** Post-combat medical treatment and legal asylum negotiations (June 1843).\\n\\n**When to Select:** When Ryan is wounded, recovering, or during critical legal/intel discussions regarding asylum and betrayal.\\n\\n**Key Relationships:**\\n*   **Ryan:** Patient and subject of the triad bath.\\n*   **Charlotte:** Legal authority managing asylum; caretaker.\\n*   **Florence:** Protective caretaker, romantic partner.\\n*   **Estra:** Defecting assassin, ex-lover; currently holds leverage over Loren via hostage Alec.\\n*   **Loren:** Estra's captor/abuser; threatening Alec.\\n\\n**Key Plot:** Estra interrupts"
 location: Claymore Manor
 scene_type: negotiation
-characters_present: [Ryan, Charlotte, Estra, Mercer]
+character_present:
+  - Ryan
+  - Charlotte
+  - Estra
+  - Mercer
 ---
 
 # 039 - Bath Negotiations

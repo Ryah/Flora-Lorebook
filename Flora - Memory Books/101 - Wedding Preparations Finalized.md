@@ -19,7 +19,11 @@ depth: 4
 summary: This is a pivotal planning session for a wedding and evacuation at Claymore Manor. Select when referencing the final preparations, security details, or character interactions leading to the ceremony. Key relationships include Ryan and Estra's emotional bond, the Sacred Combat Link with Charlotte, Florence's artistic contribution, and the strategic inclusion of the Oracle and Princess Cornelia as assets against Loren.
 location: Claymore Manor
 scene_type: dialogue
-characters_present: [Ryan, Charlotte, Florence, Estra]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Estra
 ---
 
 # 101 - Wedding Preparations Finalized

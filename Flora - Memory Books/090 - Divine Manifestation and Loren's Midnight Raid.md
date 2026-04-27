@@ -19,7 +19,13 @@ depth: 4
 summary: "**Summary:**\\nEntry 090 covers the Tuesday, June 20, 1843 event where Ryan Adame reveals he is the Divine Vessel, divinely blessed by Althena. Select this when the narrative reaches Ryan's public disclosure of his divinity or when the wives and enemies react to the goddess's physical manifestation. Key relationships include Ryan (Vessel), Althena (Manifestor), and the Claymore wives (Charlotte, Florence, Eva, Mina)."
 location: Claymore Manor
 scene_type: revelation
-characters_present: [Ryan, Charlotte, Florence, Estra, Eva, Cornelia]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Estra
+  - Eva
+  - Cornelia
 ---
 
 # 090 - Divine Manifestation and Loren's Midnight Raid

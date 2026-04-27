@@ -19,7 +19,9 @@ depth: 4
 summary: "This is a detailed, intimate scene between Ryan Adame and Charlotte Claymore involving post-coital bathing and sexual control/edging. Select when the narrative involves their private, post-intimacy dynamic, power exchange, or Charlotte's vulnerability. Key relationships: Ryan (dominant, teasing) and Charlotte (submissive, her composure broken). The core is psychological dominance and sensory overload within a caretaking frame."
 location: Claymore Manor
 scene_type: intimacy
-characters_present: [Ryan, Charlotte]
+characters_present:
+  - Ryan
+  - Charlotte
 ---
 
 # 062 - Bathhouse Edging

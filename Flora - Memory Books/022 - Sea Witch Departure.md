@@ -26,7 +26,10 @@ depth: 4
 summary: "This is a mission departure log. Select when referencing the Sea Witch vessel, the Amber Isles extraction plan, or characters Ryan, Florence, or Callista Venn. Key details: Ryan and Florence are infiltrating the Amber Isles to retrieve Mina and Cora, with a noon invasion contingency. Ryan offered Callista a permanent retainer. They use codenames 'Stardust and the Baron'."
 location: Briarhaven
 scene_type: investigation
-characters_present: [Ryan, Florence, Callista]
+character_present:
+  - Ryan
+  - Florence
+  - Callista
 ---
 
 # 022 - Sea Witch Departure

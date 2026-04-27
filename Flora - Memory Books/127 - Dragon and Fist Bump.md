@@ -40,7 +40,10 @@ depth: 4
 summary:
 location: Duran
 scene_type: dialogue
-characters_present: [Ryan, Estra, Alec]
+character_present:
+  - Ryan
+  - Estra
+  - Alec
 ---
 
 # 127 - Dragon and Fist Bump
