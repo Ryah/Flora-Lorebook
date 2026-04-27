@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flora - Memory Books/001 - Arrival and Confession.md",
+                "file": "Flora - Memory Books/118 - Cuddle Pile Decompression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 - Arrival and Confession"
+              "title": "118 - Cuddle Pile Decompression"
             }
           }
         ]
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Flora - Memory Books/001 - Arrival and Confession.md"
+                "file": "Flora - Memory Books/118 - Cuddle Pile Decompression.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 001 - Arrival and Confession"
+              "title": "File properties for 118 - Cuddle Pile Decompression"
             }
           }
         ],
@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,32 +199,34 @@
   },
   "active": "fd20e2acd5284e6a",
   "lastOpenFiles": [
-    "Flora - Memory Books/[ARC 015] - Intimacy and Preparation for the Oracle.md",
-    "Flora - Memory Books/[ARC 014] - The Sword and the Mirror.md",
-    "Flora - Memory Books/001 - Arrival and Confession.md",
-    "Flora - Memory Books/[ARC 001] - Arrival, Confession, and Rescue Plan.md",
-    "Flora - Memory Books/122 - Petra's Defection.md",
-    "Flora - Memory Books/The Sensory Link (Ryan & Charlotte).md",
-    "Flora - Memory Books/The Dreamscape Labyrinth.md",
-    "Flora - Memory Books/The Backstory.md",
-    "Flora - Memory Books/The Triad's Marriage Document.md",
-    "Flora - Memory Books/Ryan's Divine Power (Golden Thread).md",
-    "Flora - Memory Books/Ryan and Alec's Contract.md",
-    "Flora - Memory Books/127 - Dragon and Fist Bump.md",
-    "Flora - Memory Books/126 - Morning Wrestling.md",
-    "Flora - Memory Books/125 - Wooden Boat.md",
-    "Flora - Memory Books/124 - The Oasis Offering.md",
-    "Flora - Memory Books/123 - Dream Sanctuary.md",
-    "Your Wives Lorebook/Divine Power Discoveries - Projection Mechanics.md",
-    "Your Wives Lorebook/Dreamscape Botanical Integration.md",
-    "Sessions/Your Wives - 2026-04-25 23-51-04.md",
-    "Your Wives Lorebook/The Thornless Rose Bush Dead Drop.md",
-    "Your Wives Lorebook/Ryan's Suicide Note.md",
-    "Your Wives Lorebook/Marten Voss.md",
-    "Your Wives Lorebook/Thomas Greaves.md",
-    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Vanessa.md",
+    "Flora - Memory Books/117 - Sensory Bond Denial.md",
+    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Florence Blakeney.md",
+    "2026-04-27.md",
+    "Sensory Link.md",
+    "Untitled.canvas",
+    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Charlotte Claymore.md",
+    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Cornelia Vi Relani.md",
+    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Estra.md",
+    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Eleanor Castor.md",
     "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Eva Riensdauter.md",
-    "Flora - Memory Books/055 - Bench Vigil and Departure.md",
+    "Flora - Memory Books/097 - Divine Wedding Strategy.md",
+    "Your Wives Lorebook/meta/Ryan's Divine Power (Golden Thread).md",
+    "Your Wives Lorebook/meta/Ryan and Alec's Contract.md",
+    "Your Wives Lorebook/meta/Ryan's Suicide Note.md",
+    "Your Wives Lorebook/meta/The Backstory.md",
+    "Flora - Memory Books/015 - Dawn Combat Assessment.md",
+    "Flora - Memory Books/019 - Culvert Intelligence and Brick Room.md",
+    "Flora - Memory Books/038 - Courtyard Sparring Accord.md",
+    "Flora - Memory Books/042 - Consummation and Validation.md",
+    "Flora - Memory Books/061 - Master Suite Surrender.md",
+    "Flora - Memory Books/083 - Bath to Equalizer.md",
+    "Flora - Memory Books/100 - Pre-Wedding Preparations.md",
+    "Flora - Memory Books/105 - Escape to Duran.md",
+    "Flora - Memory Books/108 - Bathroom Intimacy.md",
+    "Your Wives Lorebook/meta/The Dreamscape Labyrinth.md",
+    "Flora - Memory Books/122 - Petra's Defection.md",
+    "Your Wives Lorebook/meta/The Sensory Link (Ryan & Charlotte).md",
+    "Your Wives Lorebook/meta",
     "Your Wives Lorebook",
     "Flora - Memory Books/~syncthing~112 - Projection Discovery.md.tmp",
     "Flora - Memory Books/~syncthing~111 - Divine Practice.md.tmp",
@@ -232,7 +235,6 @@
     "Lore for Flora's Regency Era (UPDATED)/meta",
     "Lore for Flora's Regency Era (UPDATED)/optional",
     "Lore for Flora's Regency Era (UPDATED)/nations",
-    "Lore for Flora's Regency Era (UPDATED)/culture",
-    "Lore for Flora's Regency Era (UPDATED)/locations"
+    "Lore for Flora's Regency Era (UPDATED)/culture"
   ]
 }

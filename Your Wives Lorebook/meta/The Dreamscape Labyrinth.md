@@ -16,8 +16,6 @@ keys:
 priority: 34
 summary: "**What:** A shared lucid dreamspace accessible only through the sensory bond during mutual sleep. Ryan's childhood mental labyrinth, now merging with Charlotte's conservatory. Time moves slower but stays synced. Items stay inside (only copies exit). Charlotte is more raw and vulnerable here. **When to Select:** For any shared dream scene, labyrinth exploration, emotional vulnerability, discovery of memories/artifacts, or private sanctuary moments. **Key Relationships:** Built by Ryan in brick room; accessed via bond; tethered by gold-silver thread; contains oasis, conservatory, library, observatory, boat garden. Field journal (32+ entries) and chalk arrows track exploration."
 location: Dreamscape
-scene_type: dreamscape
-characters_present: [Ryan, Charlotte]
 ---
 
 # The Dreamscape Labyrinth

@@ -14,9 +14,6 @@ keys:
   - convergence event
 priority: 10
 summary: "**What:** A divine sensory bond between Ryan and Charlotte created by Althena through a bite mark. They share vague emotions and physical sensations without context. The bond is secret, known only to allies. It does not grant telepathy or omnipresence. Recent discovery: mutual sleep (both unconscious at the same time) can trigger shared dreams—a 'convergence event' where they occupy the same dreamscape and feel each other's presence. **When to Select:** For any scene involving emotional or physical sensation sharing between Ryan and Charlotte, questions about how the bond works, secrecy concerns, the 'brick room' mental space, or shared dreams. Also when Charlotte feels something through the link, when the bond's limitations matter, or when both characters are asleep at the same time. **Key Relationships:** Ryan's anchor role; Charlotte's ability to feel his state; the bond's exclusivity (no one else shares it); Althena as its creator who doesn't fully understand its potential; mutual REM sleep as a trigger for dream convergence."
-location: Claymore Manor
-scene_type: investigation
-characters_present: [Ryan, Charlotte]
 ---
 
 # The Sensory Link (Ryan & Charlotte)

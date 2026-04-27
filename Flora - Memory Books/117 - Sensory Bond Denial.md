@@ -29,11 +29,19 @@ keys:
   - touch exploration
 position: after
 depth: 4
+summary: |-
+  **What:** Sensory bond experiment revealing a critical flaw—it transmits all sexual sensations except orgasm, leaving Charlotte stranded at the edge. Part of the Two Hours of Softness period.
 
-summary: "**What:** Sensory bond experiment revealing a critical flaw—it transmits all sexual sensations except orgasm, leaving Charlotte stranded at the edge. Part of the Two Hours of Softness period.\n\n**When to use:** When Charlotte experiences the sensory bond or when characters reference its orgasm-denial limitation. Also relevant during sexually charged group scenes at the Palace.\n\n**Key relationships:** Charlotte, Ryan, Florence, and Estra—with Ryan discovering the bond's limitation and laughing at Charlotte's torment, Florence delightedly teasing her desperation, and Estra confused but present."
+  **When to use:** When Charlotte experiences the sensory bond or when characters reference its orgasm-denial limitation. Also relevant during sexually charged group scenes at the Palace.
+
+  **Key relationships:** Charlotte, Ryan, Florence, and Estra—with Ryan discovering the bond's limitation and laughing at Charlotte's torment, Florence delightedly teasing her desperation, and Estra confused but present.
 location: Duran
 scene_type: intimacy
-characters_present: [Ryan, Charlotte, Florence, Estra]
+character_present:
+  - Ryan
+  - Charlotte
+  - Florence
+  - Estra
 ---
 
 # 117 - Sensory Bond Denial

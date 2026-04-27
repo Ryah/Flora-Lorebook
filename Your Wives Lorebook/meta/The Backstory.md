@@ -23,9 +23,6 @@ summary: |-
   **When to select?** When the AI needs context on Ryan's current status, his marriages, his divine powers as Althena's Vessel, the restored sensory link with Charlotte, or the political situation awaiting him in Duran. Crucial for scenes involving family reunions, court politics, or using his abilities.
 
   **Key relationships:** Ryan & Charlie (brothers, reunion); Ryan & his wives (Charlotte, Florence, Estra marriages detailed); Ryan & Althena (Divine Vessel); the Adame family (father revealed alive, mother Queen Maya); antagonists (Loren Claymore's agents in Duran).
-location: Duranian Harbor
-scene_type: dialogue
-characters_present: [Ryan, Charlie]
 ---
 
 # The Backstory
