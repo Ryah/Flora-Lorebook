@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: "**What:** A domestic scene bridging combat training and a scheduled household assembly about the Edward mole.\\n\\n**When:** Thursday, June 15, 1843, post-training breakfast, before the competency exam.\\n\\n**Relationships:** Ryan and Florence's romantic intimacy deepens; Charlotte and Rachael debate security protocols regarding Florence's knowledge of the mole; Howard endorses Ryan's combat style.\\n\\n**Key Context:** The assembly is scheduled for after the Amber Isles extraction to discuss Edward; Florence is granted limited access to mole intelligence to prevent operational compromise."
+location: Claymore Manor
+scene_type: dialogue
+characters_present: [Ryan, Florence, Charlotte, Howard, Rachael]
 ---
 
 # 016 - Breakfast Before the Examination

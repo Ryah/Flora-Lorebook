@@ -14,6 +14,9 @@ keys:
 position: after
 depth: 4
 summary: A June 1843 scene at Claymore Manor where Ryan integrates into a triadic marriage with Charlotte and Florence, securing their autonomy through a new contract and wedding vows. He reveals his past suicide attempt and the identity of his sparring partner, Estra Hamilton, a Duranian operative. Select when discussing the family's alliance, the triadic marriage structure, and the imminent defection of Estra Hamilton.
+location: Claymore Manor
+scene_type: dialogue
+characters_present: [Ryan, Charlotte, Florence, Mina, Cora]
 ---
 
 # 045 - Family Truth and Integration

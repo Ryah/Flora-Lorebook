@@ -21,6 +21,9 @@ keys:
 position: after
 depth: 4
 summary: A meeting on June 14, 1843, establishing a dawn extraction plan to rescue Ryan's sisters from the Amber Isles. Ragnar (Howard) outlines a rescue timeline, reveals his past service to Ryan's father, and suspects Eleanor orchestrated the father's death. Ryan accepts Ragnar's help after a formal dinner, where Charlotte modifies a coded letter for his sisters using a blanket signal. Select when detailing the rescue mission's logistics, Ragnar's history, or the coded letter's composition.
+location: Claymore Manor
+scene_type: negotiation
+characters_present: [Ryan, Howard]
 ---
 
 # 010 - Dawn Extraction Plans

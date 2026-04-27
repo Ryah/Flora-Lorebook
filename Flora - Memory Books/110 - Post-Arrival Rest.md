@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: "**What:** Log of the group's first night and morning after arriving at the Palace of Loth Logan, covering rest, security planning, and initial discussions of Ryan's new divine abilities.\\n\\n**When to Select:** For queries about the immediate aftermath of the harbor manifestation, the group's dynamic and security measures post-arrival, Ryan's early bilocation, or planning for the first practice session.\\n\\n**Key Relationships:** Ryan's evolving leadership; Charlotte's protective analysis; Henry & Claire's logistical support; group's collective trust in Claire."
+location: Duran
+scene_type: recovery
+characters_present: [Ryan, Charlotte, Florence, Estra, Henry]
 ---
 
 # 110 - Post-Arrival Rest

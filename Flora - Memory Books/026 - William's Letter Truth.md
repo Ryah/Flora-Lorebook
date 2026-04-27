@@ -20,6 +20,9 @@ keys:
 position: after
 depth: 4
 summary: "1843 letter from William Adame reveals his secret plan to flee Eleanor and the children's fatherhood. Select when Ryan/Mina face emotional devastation or seek proof of William's love. Key relationships: Father (William), Mother (Eleanor), Children (Ryan/Mina)."
+location: Amber Isles
+scene_type: revelation
+characters_present: [Ryan, Mina]
 ---
 
 # 026 - William's Letter Truth

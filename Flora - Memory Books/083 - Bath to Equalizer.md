@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: "**What:** A post-wedding conversation defining Estra's role as a \\\"dark equalizer\\\" balancing the triad, acknowledging her trauma and protective instincts toward her brother, Alec.\\n\\n**When:** Select after Estra and Ryan's wedding night, specifically when establishing the rules of their new marriage and addressing the household dynamic.\\n\\n**Key Relationships:**\\n*   **Ryan:** Accepts Estra's protective nature and defines her as his \\\"equalizer\\\" rather than his soft wife.\\n*   **Alec:** Estra's brother, whom she tends due to PTSD from captivity; he is beginning to trust Ryan as \\\"brother.\\\"\\n*   **Charlotte & Florence:** Potential victims of Estra's trauma; Estra vows not to hurt them.\\n*   **Rachael:** Helper using psychological positioning to soothe Alec.'"
+location: Claymore Manor
+scene_type: intimacy
+characters_present: [Ryan, Estra]
 ---
 
 # 083 - Bath to Equalizer

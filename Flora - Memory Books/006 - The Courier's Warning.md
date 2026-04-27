@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: "Delivered June 14, 1843, this entry details a critical intelligence drop from Courier Callista Venn regarding the Adame estate. Select when the user has confirmed the arrival of external intelligence or is planning a high-risk extraction of Cora and Mina. Key relationships include Callista as a trusted informant and Florence as a resource for the extraction. The entry outlines a specific extraction plan: a surgical strike via a narrow fisherman's path on Thursday during the distraction of the weekly supply delivery."
+location: Claymore Manor
+scene_type: investigation
+characters_present: [Ryan, Florence, Callista]
 ---
 
 # 006 - The Courier's Warning

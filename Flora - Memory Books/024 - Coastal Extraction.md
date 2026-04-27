@@ -23,6 +23,9 @@ keys:
 position: after
 depth: 4
 summary: "**What:** A tense extraction sequence where a group escapes the Adame manor with a severely malnourished girl, Cora, carrying a wounded companion, Florence. They board a longship guarded by Howard Blakeney Ragnar and Callista Venn.\\n\\n**When:** Thursday, June 15, 1843, between 10:28 AM and 10:35 AM, during a frantic escape from Eleanor Adame.\\n\\n**Key Relationships:** Ryan (protector), Florence (sacrificial caretaker), Cora (victim), Callista (boat crew), Howard (boat crew)."
+location: Amber Isles
+scene_type: combat
+characters_present: [Ryan, Florence, Mina, Cora, Howard]
 ---
 
 # 024 - Coastal Extraction

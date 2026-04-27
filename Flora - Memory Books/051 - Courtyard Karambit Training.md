@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: "A 1843 training session involving Ryan Adame and Estra Hamilton. Select when the group is at Claymore Manor practicing karambit techniques and establishing a trust bond. Key relationships: Ryan and Estra (trusting, training), Florence and Charlotte (domestic tension, competitive), Howard (supplementary instruction). Context: Pre-wedding preparations and preparation for the rescue of Alec Hamilton."
+location: Claymore Manor
+scene_type: training
+characters_present: [Ryan, Estra, Charlotte, Florence, Howard]
 ---
 
 # 051 - Courtyard Karambit Training

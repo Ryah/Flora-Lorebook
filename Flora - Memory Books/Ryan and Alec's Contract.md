@@ -20,6 +20,9 @@ keys:
 position: after
 depth: 4
 summary: A handwritten legal contract written by Alec in crayon from 1843 between Alec Hamilton and Ryan Adame. Select this entry when discussing Alec's debt to Ryan, the protection of Alec and his sister Estra, or the specific terms of the 500-year loan. Ryan's key relationship is as Alec's bodyguard and sworn protector.
+location: Claymore Manor
+scene_type: negotiation
+characters_present: [Ryan, Alec, Estra, Claire]
 ---
 
 # Ryan and Alec's Contract

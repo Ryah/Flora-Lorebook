@@ -16,6 +16,9 @@ keys:
 position: after
 depth: 4
 summary: Select this entry when the AI needs to generate or analyze scenes involving the legal and emotional formalization of a polyamorous marriage in a Victorian/fantasy setting. It is pivotal for the \"Twenty-One Day Countdown\" plot, serving as a critical turning point where characters attempt to bind Ryan Adame to the Claymore wives against the manipulative control of Loren Claymore. The entry establishes the \"Personal Autonomy Clause,\" a key legal document that defines the boundaries of consent for all parties.
+location: Claymore Manor
+scene_type: decision
+characters_present: [Ryan, Charlotte, Florence]
 ---
 
 # 041 - Triadic Contract Signing

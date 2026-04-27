@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: "**Summary:**\\n\\nEntry 044 depicts a post-coital dominance scene in 1843 where Charlotte Claymore restrains and asserts ownership over Ryan, followed by a group discussion of urgent plot points: the 21-day countdown to prevent Ryan's extraction, rescuing Alec Hamilton, planning a wedding with Rachael, verifying Estra's naval manifest, and checking on Ryan's sisters, Mina and Cora. Select this entry when depicting the immediate aftermath of Charlotte and Ryan's intimacy, their strategic alliance meeting with Estra, or the sisters' secluded decryption efforts. Key relationships include Charlotte's"
+location: Claymore Manor
+scene_type: intimacy
+characters_present: [Ryan, Charlotte, Florence]
 ---
 
 # 044 - Dominance and Family Integration

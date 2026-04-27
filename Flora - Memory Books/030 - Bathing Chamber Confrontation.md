@@ -20,6 +20,9 @@ keys:
 position: after
 depth: 4
 summary: "**What is this?** A pivotal scene in a polyamorous relationship where Ryan and Florence’s first sexual encounter is interrupted by Charlotte, their third partner.\\n\\n**When should it be selected?** When depicting the aftermath of Florence’s assassination attempt or the trio’s dynamic following a secret reveals.\\n\\n**Key relationships:** Triad unit (Ryan/Florence/Charlotte); Florence is the linchpin connecting the two husbands.\\n\\n**Summary:** Following their first intimate night, Charlotte discovers them naked in the bath. After a confrontation over the breach of privacy, Florence emotionally reconc"
+location: Claymore Manor
+scene_type: confrontation
+characters_present: [Ryan, Florence, Charlotte]
 ---
 
 # 030 - Bathing Chamber Confrontation

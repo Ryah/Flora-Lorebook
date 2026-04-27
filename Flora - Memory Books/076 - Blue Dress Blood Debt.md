@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: "This is a blood debt contract signing between Ryan Adame and Estra Hamilton, setting the terms for a 6 PM rematch. Select when referencing the wager, the match rules, or the characters' psychological stakes. Key relationships: Ryan and Estra's pact of mutual witness; Howard as rule-setter; Mina as witness; group betting pool. It establishes the match's legal and emotional framework."
+location: Claymore Manor
+scene_type: negotiation
+characters_present: [Ryan, Estra]
 ---
 
 # 076 - Blue Dress Blood Debt

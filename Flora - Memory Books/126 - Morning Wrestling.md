@@ -38,6 +38,9 @@ keys:
 position: after
 depth: 4
 summary:
+location: Duran
+scene_type: recovery
+characters_present: [Ryan, Charlotte, Florence, Estra]
 ---
 
 # 126 - Morning Wrestling

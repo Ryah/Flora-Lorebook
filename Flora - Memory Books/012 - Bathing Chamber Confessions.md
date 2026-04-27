@@ -17,6 +17,9 @@ keys:
 position: after
 depth: 4
 summary: "**Entry: 012 - Bathing Chamber Confessions**\\n\\n**What:** A scene where Ryan seeks Fiona's help treating a back wound and opens up about past trauma, leading to an emotional bond. **When:** Select when Ryan is injured and needs assistance, or during intimate dialogue with Fiona. **Key Relationships:** Fiona (maid, emotional support), Ryan (patient, confidant). Fiona reveals loneliness and trauma regarding her ex-lover Harry. Ryan shares trauma about his mother. **Context:** Henry assigns Fiona to apply healing salve nightly, despite political risks from other nobles."
+location: Claymore Manor
+scene_type: recovery
+characters_present: [Ryan, Henry, Fiona, Claire]
 ---
 
 # 012 - Bathing Chamber Confessions

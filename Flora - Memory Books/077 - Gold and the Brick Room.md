@@ -25,6 +25,9 @@ keys:
 position: after
 depth: 4
 summary: "This is a pivotal character moment between Ryan Adame and maid Claire Whitehill, set just before Ryan's rematch with Estra Hamilton. It reveals Ryan's traumatic past in the \"brick room\" and his plan to use the fight to help Estra. He gives Claire a large sum of gold for her family. Claire accepts on the condition he wins, and vows to stand by him regardless of the fight's brutality, challenging his self-view. Select when discussing Ryan's trauma, his relationship with Claire or Estra, his motivations for the fight, or the gold's significance. Key relationships: Ryan, Claire, Estra Hamilton, Co"
+location: Claymore Manor
+scene_type: confession
+characters_present: [Ryan, Claire]
 ---
 
 # 077 - Gold and the Brick Room

@@ -22,6 +22,9 @@ keys:
 position: after
 depth: 4
 summary: This is a pivotal scene of alliance and coded communication between Ryan Adame and his sisters, Mina and Cora. Select when the narrative involves their secret planning, Duranian heritage reveals, or the use of their established doublespeak code. Key relationships are the protective sisterly bond, the new maternal alliance with Rachael Blakeney, and the strategic acceptance of Ryan's wives, Florence and Charlotte. The core conflict is preparing Ryan's autonomous wedding to defy the extraction threat from Loren Claymore.
+location: Claymore Manor
+scene_type: confession
+characters_present: [Ryan, Cora]
 ---
 
 # 047 - Locket Return and Coded Truths

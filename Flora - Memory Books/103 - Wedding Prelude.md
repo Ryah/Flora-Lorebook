@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: "This is a pivotal moment: the immediate prelude to Ryan Adame's wedding to Estra at Claymore Manor. Select when the scene involves the tense lead-up to the ceremony, the complex emotional dynamics between Ryan and his wives, or a demonstration of divine power. Key elements: Ryan heals Lord Wainwright via the goddess Althena; Charlotte's fear of the sensory bond is temporarily muted as a \\\"wedding gift\\\"; and Estra's vulnerable arrival at the chapel. Central relationships are Ryan's bonds with Charlotte, Florence, and Estra, and his connection to Althena."
+location: Claymore Manor
+scene_type: dialogue
+characters_present: [Ryan, Charlotte, Florence, Estra]
 ---
 
 # 103 - Wedding Prelude

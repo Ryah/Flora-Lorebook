@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: A dawn sparring assessment on June 15, 1843. Select when Ryan wakes at Claymore Manor to prepare for an extraction mission. Key relationships include Howard (training with father William's sword), Captain Eva Riensdauter (challenging Howard's assessment and expressing professional skepticism about Ryan's readiness), and Florence (gratitude for her company). Ryan's back wound limits his left rotation to 70%, creating a hesitation that Howard and Eva identify as a combat vulnerability.
+location: Claymore Manor
+scene_type: training
+characters_present: [Ryan, Howard]
 ---
 
 # 014 - Dawn Combat Assessment

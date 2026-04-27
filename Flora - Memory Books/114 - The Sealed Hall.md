@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: "**Entry 114 - The Sealed Hall**\\n\\n**What it is:** A key lore event occurring on June 21, 1843 (2:24-3:12 PM) in the Palace of Loth Logan's Great Hall. Ryan Adame formally introduces his found family (Rachael, Howard, William) to Queen Maya, reveals his divine power publicly for the first time, and the group devises a containment narrative.\\n\\n**When selected:** Scenes involving Ryan's power demonstration, family introductions to royalty, strategic discussion of divine power disclosure, or post-escape political maneuvering.\\n\\n**Key relationships:**\\n- Ryan → Queen Maya: Formal introduction; demonstrates power; explains secrecy due to Loren's spies (2 moles found in Claymore Manor)\\n- Ryan → Rachael: Calls her \\\"mama\\\"; credits her for teaching acceptance and first hug after brick room\\n- Ryan → Howard: \\\"Father he never had\\\"; trusted combat leader; Howard asks tactical power questions\\n- Charlotte proposes controlled narrative: reveal only \\\"lost prince with divine blessing\\\"\\n- Charlie demands divine event explanations, seals entrances\\n- Florence references \\\"prettiest person in manor\\\" bet\\n- Cora documents as Trial 49\\n- Maya touches Ryan's face, asks about non-physical threats (manipulation, betrayal)\\n- Estra's karambit used in demonstration"
+location: Duran
+scene_type: dialogue
+characters_present: [Ryan, Charlotte, Florence, Estra, Queen Maya, Rachael, Howard, William]
 ---
 
 # 114 - The Sealed Hall

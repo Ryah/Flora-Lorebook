@@ -23,6 +23,9 @@ keys:
 position: after
 depth: 4
 summary: '**What:** A legal trust document (May 1843) granting Ryan autonomy and financial security, and a record of their trauma bond.\n\n**When to Select:** When discussing post-assassination events, the \"Personal Autonomy Clause,\" or the \"Amber Isles\" courier interruption.\n\n**Key Relationships:** Defines a partnership where Charlotte accepts legal constraints to manage her trauma, and Ryan asserts agency over his own life to avoid being viewed as a victim.'
+location: Claymore Manor
+scene_type: reflection
+characters_present: [Ryan]
 ---
 
 # 005 - The Trust Document

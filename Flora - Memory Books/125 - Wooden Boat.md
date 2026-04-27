@@ -38,6 +38,9 @@ keys:
 position: after
 depth: 4
 summary:
+location: Dreamscape
+scene_type: dreamscape
+characters_present: [Ryan, Charlotte]
 ---
 
 # 125 - Wooden Boat

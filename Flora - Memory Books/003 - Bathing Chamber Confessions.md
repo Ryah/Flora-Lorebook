@@ -21,6 +21,9 @@ keys:
 position: after
 depth: 4
 summary: "A 1843 interaction in Claymore Manor between Ryan and servants Fiona and Claire. Select when Ryan is healing from a recent assassination attempt, reflecting on his failures, or discussing his relationship with Florence's family. Key relationships: Fiona (servant seeking dominance), Claire (maid), and Howard Ragnar (father-in-law, military ally)."
+location: Claymore Manor
+scene_type: recovery
+characters_present: [Ryan, Henry, Fiona, Claire]
 ---
 
 # 003 - Bathing Chamber Confessions

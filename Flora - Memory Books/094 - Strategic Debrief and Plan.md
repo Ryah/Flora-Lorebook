@@ -23,6 +23,9 @@ keys:
 position: after
 depth: 4
 summary: Entry 094 is a strategic meeting on June 20, 1843, where William Adame reveals Vanessa’s weakness (her lost twin) and proposes a plan to use a religious gathering to contact her. Select when the group is planning to exploit Vanessa to counter Loren's upcoming midnight assault. Key relationships include Ryan and Charlotte's partnership, William’s re-emergence, and Mina's tension with him.
+location: Claymore Manor
+scene_type: investigation
+characters_present: [Ryan, Charlotte, Florence, Estra, William]
 ---
 
 # 094 - Strategic Debrief and Plan

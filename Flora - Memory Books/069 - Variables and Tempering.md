@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: "**Summary:**\\n\\n**What:** A pivotal conversation between Ryan Adame and his sister Mina on June 18, 1843, regarding their combat rematch with Estra Hamilton, trauma processing, and Ryan's psychological struggles.\\n\\n**When:** Select when exploring themes of **interpersonal conflict**, **trauma recovery**, **family dynamics**, or **mental health (imposter syndrome)** in the Claymore Manor arc.\\n\\n**Key Relationships:** **Ryan and Mina** (confidants and partners), **Ryan and Estra** (willing combat partners processing trauma), **Howard and Estra** (observers of controlled violence).\\n\\n**Context:** Ryan"
+location: Claymore Manor
+scene_type: confession
+characters_present: [Ryan, Mina]
 ---
 
 # 069 - Variables and Tempering

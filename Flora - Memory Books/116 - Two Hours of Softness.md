@@ -17,6 +17,9 @@ keys:
 position: after
 depth: 4
 summary: "**What it is:** A personal/historical record of a mandated decompression session involving Ryan Adame and his three wives (Florence, Charlotte, Estra) on June 21, 1843. Documents their difficulty disengaging from security/strategic mindsets, and an evolving intimate bonding ritual that transitions from awkward stillness to consensual group intimacy. Includes sensory link testing.\\n\\n**Select when:** The narrative or context involves: the Adame polycule's private dynamics; mandated decompression/rest protocols; characters struggling to be \\\"soft\\\" or non-strategic; sensory bond mechanics (shared tactile sensation); safeword use (\\\"Black\\\"); teaching inexperienced partners intimacy.\\n\\n**Key relationships:** Ryan Adame (husband, initiator), Florence (wife, hearth/grounding), Charlotte (wife, analytical/strategic), Estra (wife, security-focused, inexperienced). Family unit with hierarchical/command dynamics; sensory bond linking participants."
+location: Duran
+scene_type: recovery
+characters_present: [Ryan, Charlotte, Florence, Estra]
 ---
 
 # 116 - Two Hours of Softness

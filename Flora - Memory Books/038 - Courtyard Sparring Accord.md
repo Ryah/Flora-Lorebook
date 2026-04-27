@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: This is a strategic alliance negotiation scene (June 1843) where Ryan accepts a wager with assassin Estra Hamilton to prove his birthright and secure intelligence on the Sea Witch. **Select when:** The AI needs to establish Ryan's combat competence, his relationship with Charlotte, or the immediate plot regarding Florence's assassination. **Key relationships:** Ryan & Charlotte (romantic, trusting), Ryan & Estra (amiable rivalry/alliance), Charlotte & Florence (protective). **Outcome:** Ryan wins the spar, receives Florence's manifest, and secures a whistle for extraction.
+location: Claymore Manor
+scene_type: combat
+characters_present: [Ryan, Charlotte, Florence, Rachael, Callista, Estra]
 ---
 
 # 038 - Courtyard Sparring Accord

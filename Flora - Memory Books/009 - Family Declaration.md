@@ -17,6 +17,9 @@ keys:
 position: after
 depth: 4
 summary: "**What is this:** A pivotal emotional scene where Ryan declares Florence \\\"family\\\" despite knowing her briefly and her role in his procurement, validating her insecurity about being merely a tool.\\n\\n**When to select:** Use when Florence expresses insecurity about her value or when Ryan and Florence deepen their emotional bond; specifically during or after the extraction mission planning.\\n\\n**Key relationships:** Florence Claymore and Ryan. Clarifies Florence's role as the emotional anchor/homemaker in contrast to Charlotte (confidant), Rachael (protector), and Howard (instructor)."
+location: Claymore Manor
+scene_type: confession
+characters_present: [Ryan, Florence]
 ---
 
 # 009 - Family Declaration

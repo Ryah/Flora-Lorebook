@@ -19,6 +19,9 @@ keys:
 position: after
 depth: 4
 summary: 1843 arrival at Claymore Manor. Select when Ryan, Callista, and the Adame sisters disembark, Cora discovers the father's anchor point symbol on the dock, and Ryan delegates authority to Charlotte and Rachael. Key relationships include Ryan and Florence (partners), Mina and Cora (rescued sisters), and Charlotte/Rachael (allies).
+location: Claymore Manor
+scene_type: discovery
+characters_present: [Ryan, Florence, Mina, Cora, Callista, Charlotte, Rachael]
 ---
 
 # 027 - Anchor Point Discovery

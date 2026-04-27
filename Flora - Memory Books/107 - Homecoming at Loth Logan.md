@@ -19,6 +19,9 @@ position: after
 depth: 4
 
 summary: "This is a pivotal reunion scene between Ryan Adame and his birth mother, Queen Maya of Duran, after 15 years. Select when the narrative focuses on Ryan's return to his homeland, the emotional resolution of his royal identity, or the integration of his found family into the palace. Key relationships are Ryan/Queen Maya (mother/son), Ryan/Charlotte (wives, sensory link), and the collective 'family' unit (including Cornelia, Charlie, Estra). It establishes sanctuary, royal recognition, and the formal adoption of Ryan's companions into the royal household."
+location: Duran
+scene_type: revelation
+characters_present: [Ryan, Charlotte, Florence, Estra, Charlie, Queen Maya, William]
 ---
 
 # 107 - Homecoming at Loth Logan

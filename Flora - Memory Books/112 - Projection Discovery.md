@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: "**What is this:** A pivotal event on June 21, 1843, where Ryan Adame first successfully projects his consciousness (astral travel) from the Palace of Loth Logan to Claymore Manor. He uses emotional resonance of 'home' instead of a person to extend a golden thread. The projection lasts ~3 minutes before Charlotte pulls him back violently.\\n\\n**When to select:** When the narrative involves: Ryan's developing projection ability; first contact or sighting of Loren Claymore; the discovery of a sealed letter left for Ryan at Claymore Manor; the group's decision to keep Charlotte's silver power and anchor ability secret from the royal family; Estra's emotional breakthrough about being chosen; or Ryan's preparation to meet Queen Rachael.\\n\\n**Key relationships:** Ryan Adame (caster), Loren Claymore (antagonist appears during projection), Charlotte (anchor/puller; secret ability), Estra (watches door; emotional vulnerability), Florence (watches Charlotte; \\\"tsundere\\\" comment), Cora (documentary witness), Claire (caretaker; shaves/dresses Ryan), Mina (warns about Queen's expectations)."
+location: Duran
+scene_type: investigation
+characters_present: [Ryan, Charlotte, Florence, Estra, Cora]
 ---
 
 # 112 - Projection Discovery

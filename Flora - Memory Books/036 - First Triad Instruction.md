@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: "A lore entry documenting a pivotal triad formation between Ryan, Charlotte, and Florence on June 15, 1843. Select when depicting the group's initial sexual integration and the establishment of their dynamic, specifically Charlotte's dominant instruction and the binding of Ryan. Key relationships: Charlotte (dominant/possessive), Florence (equal partner), Ryan (submissive/inexperienced). Crucially, it shifts to a strategic discussion regarding the 21-day extraction plot and the necessity of free will in their commitment."
+location: Claymore Manor
+scene_type: confession
+characters_present: [Ryan, Charlotte, Florence]
 ---
 
 # 036 - First Triad Instruction

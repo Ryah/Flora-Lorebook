@@ -19,6 +19,9 @@ keys:
 position: after
 depth: 4
 summary: This entry details a high-stakes rematch challenge and wager between Ryan Adame and Estra Hamilton on June 18, 1843. Select it when the narrative involves **upcoming combat**, **household intrigue**, or **high-stakes negotiations**. Key relationships include **Charlotte Claymore** (organizer), **Howard Ragnar** (judge), and **Mina Adame** (trainer). The entry focuses on the \"winner takes all\" stipulations, including labor duties, training schedules, and a blood debt.
+location: Claymore Manor
+scene_type: negotiation
+characters_present: [Ryan, Estra]
 ---
 
 # 068 - Winner Takes All

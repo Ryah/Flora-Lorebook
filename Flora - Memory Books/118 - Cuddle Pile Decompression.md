@@ -22,6 +22,9 @@ position: after
 depth: 4
 
 summary: "**What:** Post-denial intimacy where Ryan holds his three wives—Florence, Charlotte, and Estra—in a group embrace. Estra struggles to accept being non-functional, receives reassurance and physical affection. Group settles into synchronized rest before dinner with Queen Maya.\n\n**When to use:** Any scene referencing this specific Wednesday evening event, Estra’s difficulty with softness/vulnerability, the wives’ post-intimacy dynamic, or their pending appointment with Maya Loth Logan.\n\n**Key relationships:** Ryan Adame (husband) comforts Estra Hamilton (wife struggling with worth), Florence Claymore and Charlotte Claymore (wives) reinforce belonging. All four form a bonded polycule unit; Maya mentioned as upcoming obligation."
+location: Duran
+scene_type: recovery
+characters_present: [Ryan, Charlotte, Florence, Estra]
 ---
 
 # 118 - Cuddle Pile Decompression

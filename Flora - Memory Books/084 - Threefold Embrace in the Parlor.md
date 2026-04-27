@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: "**AI Search Summary:** This is a key character moment for Charlotte Claymore, Ryan Adame, and Florence Claymore, establishing their intimate support dynamic. Select when referencing Charlotte's trauma, dissociation, or vulnerability; Ryan's protective devotion and physical comfort; Florence's nurturing role; or the group's collective grounding. Central relationships are Ryan/Charlotte's anchoring bond, Florence's maternal presence, and the group's shared, fragile safety."
+location: Claymore Manor
+scene_type: recovery
+characters_present: [Ryan, Charlotte, Florence]
 ---
 
 # 084 - Threefold Embrace in the Parlor

@@ -21,6 +21,9 @@ position: after
 depth: 4
 
 summary: "Lore entry for the family’s preparation and entrance to the formal royal dinner on June 21, 1843. Inject when the scene reaches the West Wing Suite just before the dinner or when the family needs to enter the great hall. Covers the decision to openly wear Estra’s karambit, Ryan’s public-visibility strategy against Loren’s threat, dressing in Duranian formal wear, Charlotte’s tactical seating chart, and the family’s procession to the high table where Queen Maya emotionally acknowledges Ryan as “my son.” Key family members present: Mina, Cora, Alec, Rachael, Howard, William Adame."
+location: Duran
+scene_type: dialogue
+characters_present: [Ryan, Charlotte, Florence, Estra, Queen Maya]
 ---
 
 # 119 - Preparing for the Royal Dinner
