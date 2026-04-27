@@ -17,6 +17,9 @@ keys:
 position: after
 depth: 4
 summary: "A confidential dialogue between Ryan and Claire (maid) in Claymore Manor, occurring June 14, 1843. Select when exploring Ryan's trauma, his past abuse, or his relationship with the staff. Key relationships: Ryan (patient/confidant), Claire (devoted caretaker/ally). Reveals Ryan's suppressed memory of a suicide attempt and Claire's enduring hope that he survived her vigil."
+location: Claymore Manor
+scene_type: confession
+characters_present: [Ryan, Claire]
 ---
 
 # 013 - The Closet Confession

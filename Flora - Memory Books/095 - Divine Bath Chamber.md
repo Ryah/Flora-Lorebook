@@ -20,6 +20,9 @@ keys:
 position: after
 depth: 4
 summary: This entry details Ryan Adame's emotional breakdown and subsequent private conversation with the goddess Althena. It should be selected when referencing Ryan's trauma, his role as a Divine Vessel, Althena's true teachings, or the strategic advice for the coming conflict. Key relationships are Ryan's connection to Althena and his wives (Charlotte, Florence), with Estra Hamilton as an unintended witness.
+location: Claymore Manor
+scene_type: intimacy
+characters_present: [Ryan, Charlotte, Florence, Estra]
 ---
 
 # 095 - Divine Bath Chamber

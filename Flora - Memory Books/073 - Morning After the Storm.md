@@ -20,6 +20,9 @@ keys:
 position: after
 depth: 4
 summary: "**Context:** A quiet morning scene at Claymore Manor (June 19, 1843) following a storm.\\n**Trigger:** Select when the Hamilton siblings (Alec and Estra) have just woken up, highlighting their trauma recovery and establishing the setting.\\n**Key Relationships:** Ryan Adame is a supportive guardian figure; Alec is a protective, grounding brother; Estra is a recovering trauma survivor.\\n**Plot Point:** Establishes the trio's safety and begins their day planning to bake an apple pie to mark their recovery."
+location: Claymore Manor
+scene_type: recovery
+characters_present: [Ryan, Charlotte, Estra, Alec]
 ---
 
 # 073 - Morning After the Storm

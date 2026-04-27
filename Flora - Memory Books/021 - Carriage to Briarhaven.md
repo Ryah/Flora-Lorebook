@@ -17,6 +17,9 @@ keys:
 position: after
 depth: 4
 summary: "**Summary:** A 1843 carriage journey detailing the Claymores' extraction of Mina and Cora from the Amber Isles. **Select when** investigating the Claymore family dynamics, the Amber Isles layout, or the characters' pre-extraction personal revelations. **Key relationships:** Florence (Stardust), Ryan, and Thomas. **Context:** Reveals the mole (Edmund Girard), tactical map, and Florence's romantic awakening."
+location: Claymore Manor
+scene_type: dialogue
+characters_present: [Ryan, Florence, Thomas Greaves]
 ---
 
 # 021 - Carriage to Briarhaven

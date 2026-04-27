@@ -17,6 +17,9 @@ keys:
 position: after
 depth: 4
 summary: "A psychological intervention scene where Ryan Adame exhausts Estra Hamilton to snap her from paranoid hypervigilance. Select when depicting strained friendships, shared trauma recovery, or the \\\"berserker\\\" method of emotional processing. Key relationships: Ryan (mentor/friend), Estra (recovering patient), Howard (cautious observer), Alec (Estra's protective brother)."
+location: Claymore Manor
+scene_type: recovery
+characters_present: [Ryan, Howard, Estra]
 ---
 
 # 065 - Combat Therapy and Vigil

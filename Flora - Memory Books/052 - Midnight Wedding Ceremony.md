@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: Ryan Adame concludes karambit training in 1843, forming an alliance with Estra Hamilton and agreeing to procure Duranian steel. He prepares for a midnight triadic wedding ceremony with Charlotte and Florence, an equal-rights event witnessed by 60 citizens beneath an ancient oak. **Select when** depicting the ceremony preparations, the alliance with Estra, or the arrival of the Oracle. **Key relationships:** Ryan (husband), Charlotte (wife), Florence (wife), Estra (ally), Rachael (adoptive mother).
+location: Claymore Manor
+scene_type: training
+characters_present: [Ryan, Estra, Howard, Charlotte, Florence]
 ---
 
 # 052 - Midnight Wedding Ceremony

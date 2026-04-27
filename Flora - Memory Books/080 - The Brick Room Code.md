@@ -22,6 +22,9 @@ keys:
 position: after
 depth: 4
 summary: "This is a coded communication protocol between Ryan Adame and his sister Mina, used to signal his psychological preparation for a combat rematch. It should be selected when discussing Ryan's pre-fight rituals, his trauma (\"brick room\" persona), or his relationship with Mina and Estra Hamilton. Key relationships: Mina acts as Ryan's translator and failsafe; Estra is the trusted opponent who understands his vulnerability. The code conveys Ryan's intent to regress, his trust in Estra, and a declaration of love."
+location: Claymore Manor
+scene_type: training
+characters_present: [Ryan, Estra, Mina]
 ---
 
 # 080 - The Brick Room Code

@@ -20,6 +20,9 @@ keys:
 position: after
 depth: 4
 summary: "**What:** A legal and supernatural event where the Oracle validates Estra Hamilton's dual status as protective kin and co-wife, channeling the goddess Althena to write a \\\"Four vessels. One covenant\\\" clause.\\n\\n**When:** Tuesday, June 20, 1843 at 9:16 AM, immediately following Ryan's affirmation and the drafting of Article Seven.\\n\\n**Key Relationships:** Involves Ryan (Divine Vessel), Estra (recipient of status), Charlotte (draftsperson), Florence, Eva (reporting riders), and Mina (intercepting Ryan)."
+location: Claymore Manor
+scene_type: negotiation
+characters_present: [Ryan, Charlotte, Estra, Oracle]
 ---
 
 # 089 - Divine Sanction & Parley

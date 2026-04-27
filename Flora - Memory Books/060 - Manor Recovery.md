@@ -20,6 +20,9 @@ keys:
 position: after
 depth: 4
 summary: This is a narrative scene (1843) depicting post-rescue recovery at Claymore Manor. Select it when depicting a moment of relief, found family bonding, or the aftermath of a major traumatic event. Key relationships include the Adames, Estra Hamilton, Rachael Blakeney, Florence Claymore, and Mrs. Marie.
+location: Claymore Manor
+scene_type: recovery
+characters_present: [Ryan, Charlotte, Florence, Estra, Alec, Howard, Rachael]
 ---
 
 # 060 - Manor Recovery

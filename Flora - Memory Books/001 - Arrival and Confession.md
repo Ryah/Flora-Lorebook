@@ -20,6 +20,9 @@ keys:
 position: after
 depth: 4
 summary: "**What:** Ryan, a Baronet rescued from abusive family captivity, meets his arranged wives Florence and Charlotte at Claymore Manor and confesses his traumatic past.\\\\n\\\\n**When:** Select during Ryan's arrival and initial recovery to establish his history, his arranged marriage to the Countesses, and his liberation from his mother's control.\\\\n\\\\n**Key Relationships:** Florence (wife, guilt-ridden), Charlotte (wife, investigator), Eleanor (mother, abuser), Rachael Blakeney (Florence's mother, matriarch)."
+location: Claymore Manor
+scene_type: confession
+characters_present: [Ryan, Florence, Charlotte, Rachael]
 ---
 
 # 001 - Arrival and Confession

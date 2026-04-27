@@ -20,6 +20,9 @@ keys:
 position: after
 depth: 4
 summary: A legal marriage contract binding the Claymore sisters and Ryan Adame (Baronet) in a triadic union, signed June 1843. It replaces a previous arrangement, explicitly granting all three parties absolute, irrevocable personal autonomy and refusal rights to prevent coercion. The agreement establishes a permanent union requiring mutual consent for dissolution.
+location: Claymore Manor
+scene_type: decision
+characters_present: [Ryan, Charlotte, Florence, Estra]
 ---
 
 # The Triad's Marriage Document

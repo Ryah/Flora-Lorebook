@@ -19,6 +19,9 @@ keys:
 position: after
 depth: 4
 summary: This is a lore entry detailing a private, sexually charged morning encounter between Ryan Adame and his three wives (Charlotte, Florence, Estra) at Claymore Manor. It should be selected for scenes involving their intimate dynamics, Ryan's vulnerability/sleep-talking, or the wives' complex relationships (Charlotte's manipulation, Florence's pity, Estra's protectiveness). Key relationships are the marital unit versus the external threat of Rachael's interruption, which creates a tense standoff. The entry establishes character motivations and a critical moment of near-discovery.
+location: Claymore Manor
+scene_type: intimacy
+characters_present: [Ryan, Charlotte, Florence, Estra]
 ---
 
 # 085 - Morning Awakening & Disruption

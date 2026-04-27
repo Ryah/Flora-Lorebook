@@ -27,6 +27,9 @@ keys:
 position: after
 depth: 4
 summary: "**What:** A 44-minute infiltration of the Amber Isles estate to rescue Mina and Cora Adame from a hidden basement chamber.\\n\\n**When:** June 15, 1843, 9:48–10:32 AM. Selected when Ryan must choose between a guarded path and a drainage channel, or when escaping a sealed room.\\n\\n**Key Relationships:** Ryan (leader/escape route), Florence (companion/picker), Mina/Cora (prisoners), Eleanor (antagonist/trapper), Fiona (intelligence source), Howard (backup force)."
+location: Amber Isles
+scene_type: combat
+characters_present: [Ryan, Florence, Mina, Cora]
 ---
 
 # 023 - Amber Extraction

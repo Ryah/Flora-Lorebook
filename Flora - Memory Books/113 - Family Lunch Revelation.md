@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: "**Entry: Family Lunch Revelation (ID: 113)**  \\n**What it is:** A narrative scene (June 21, 1843, 12:22–1:52 PM) where Ryan Adame reveals his full backstory to his biological mother, Queen Maya, in a private audience, followed by a formal family lunch with his wives and allies.  \\n\\n**Selection trigger:** Inject when Ryan is explaining his origin, trauma, or divine power to Maya; when Maya reflects on Althena's silence vs. Ryan's favor; during a family reconciliation or confrontation; or when Charlotte or Estra must justify their loyalty to Ryan over their blood families.  \\n\\n**Key relationships:**\\n- **Ryan & Maya:** Biological mother-son; Maya learns his torture, amnesia, rescue of sisters, triad marriage, Estra's defection, Loren's wounding, and divine wedding. She apologizes for absence and asks to join his life. \\n- **Ryan & Charlotte:** Charlotte chooses Ryan over her mother Loren (who tortured him).\\n- **Ryan & Estra:** Former Duranian assassin who defected and married Ryan; Maya questions her directly.\\n- **Supporting cast:** Sisters Mina & Cora, wives Florence & Estra, allies Alec, William, Howard, Rachael."
+location: Duran
+scene_type: revelation
+characters_present: [Ryan, Charlotte, Florence, Estra, Queen Maya]
 ---
 
 # 113 - Family Lunch Revelation

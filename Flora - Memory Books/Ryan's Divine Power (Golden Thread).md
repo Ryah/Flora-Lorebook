@@ -17,6 +17,9 @@ keys:
   - anchor-lock
 priority: 10
 summary: "**What:** Ryan's divine power from Althena, visualized as a golden thread he wraps around his mental self to control intensity. He can catch and pull materials (water, stone, steel) and share power with Charlotte through their sensory bond, granting her silver manifestation abilities. He can also project a non-physical 'shadow' to distant locations he has an emotional connection to. Recent discoveries include the knot (anchor-lock) technique, three-second vulnerability window during vessel injury, eyes-open power use, mid-catch adjustment, and disarm capability. **When to Select:** For any scene involving Ryan using, testing, or explaining his power; Charlotte using silver abilities; power sharing; projection (shadow form); material manipulation; combat applications; limits/rules of the thread; the knot technique; or tactical discussions about the three-second window. Also when discussing that no one else can share this power. **Key Relationships:** Ryan as the sole divine power wielder; Charlotte as the only possible recipient due to the sensory bond; Althena as the source; the brick room as mental anchor; hard limit against harming living flesh; Estra as the trusted wielder of the knife for injury tests."
+location: Duran
+scene_type: investigation
+characters_present: [Ryan, Charlotte]
 ---
 # Ryan's Divine Power (Golden Thread)
 Ryan was blessed by the goddess [[Culture - The Faith of Althena]] with divine power. No one else in the world has this power unless Althena gives it to them directly. Magic does not exist elsewhere – Ryan's power is unique.

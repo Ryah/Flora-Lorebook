@@ -15,6 +15,9 @@ keys:
 position: after
 depth: 4
 summary: This is a lore entry detailing the final pre-wedding preparations for Ryan and Charlotte's wedding at Claymore Manor. It should be selected when the narrative involves the immediate lead-up to the ceremony, the dynamics between the central trio (Ryan, Charlotte, Althena), or the activation of their new Sacred Bond. Key relationships are the playful, contractual marriage bond between Ryan and Charlotte, Althena's role as an observer and officiant, and Florence's involvement in the preparations. The entry establishes character dynamics, legalistic intimacy, and tactical planning for the upcoming
+location: Claymore Manor
+scene_type: dialogue
+characters_present: [Ryan, Charlotte, Florence, Estra]
 ---
 
 # 100 - Pre-Wedding Preparations

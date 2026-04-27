@@ -19,6 +19,9 @@ keys:
 position: after
 depth: 4
 summary: "**Summary:**\\n\\n**What:** A tense strategy session at Claymore Manor where Ryan, injured and facing a competency hearing, reveals a secret brick room, requests a delay for his physical exam, and receives a locket containing a photo of his mother and young Eleanor Adame.\\n\\n**When:** **Select when:** Ryan has suffered physical injuries, the legal competency hearing against him is imminent, the Amber Isles household is targeted, or a secret room entry mechanism is discovered.\\n\\n**Key Relationships:**\\n*   **Charlotte Claymore:** Mother figure, legal strategist, holds the locket.\\n*   **Eleanor Adame:**"
+location: Claymore Manor
+scene_type: investigation
+characters_present: [Ryan, Charlotte]
 ---
 
 # 007 - Locket and Legal Deadline

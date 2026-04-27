@@ -17,6 +17,9 @@ keys:
 position: after
 depth: 4
 summary: "This is a pivotal confrontation with Loren Claymore's supernatural ice manifestation. It occurs after the signing of the amended marriage contract. The entry should be selected when referencing the direct confrontation with Loren, Ryan's rejection of her psychological manipulation, the revelation of Eleanor's conditioning, or the decision to move the wedding to dawn. Key relationships: Ryan vs. Loren's manipulation; the solidarity of Ryan, Charlotte, and Florence; Rachael Blakeney's role as witness and planner."
+location: Claymore Manor
+scene_type: confrontation
+characters_present: [Ryan, Charlotte, Florence, Loren]
 ---
 
 # 048 - Ice Manifestation Confrontation

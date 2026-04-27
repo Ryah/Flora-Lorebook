@@ -19,6 +19,9 @@ keys:
 position: after
 depth: 4
 summary: "**Summary:** A divine ritual (Sacred Bond Consecration) formed through intense intimacy and Althena's intervention. It creates an empathic and sensory link between Ryan Adame and Charlotte Claymore. **Select when:** referencing their deep emotional/psychic connection, combat synchronization, or divine blessings on their relationship. **Key relationships:** Bond between Ryan and Charlotte; orchestrated/granted by the goddess Althena."
+location: Claymore Manor
+scene_type: consummation
+characters_present: [Ryan, Charlotte, Florence, Estra]
 ---
 
 # 099 - Sacred Bond Consecration

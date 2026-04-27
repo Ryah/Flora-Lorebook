@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: "**Summary:** A scene of domestic training and bonding in the Claymore Manor kitchen. Estra learns to peel apples under Alec and Mrs. Marie's guidance, achieving a personal milestone. Key relationships and character insights are revealed: Estra's growing comfort with Ryan (shown through physical contact), Alec declaring Ryan as family, and Florence revealing a household betting pool on Estra and Ryan's ongoing sparring rematch. **Select when:** referencing kitchen activities, apple peeling, character bonding, the Ryan/Estra dynamic, the household's betting, or Alec's views on patience and care."
+location: Claymore Manor
+scene_type: recovery
+characters_present: [Ryan, Estra, Alec, Florence]
 ---
 
 # 074 - Kitchen Garden Morning

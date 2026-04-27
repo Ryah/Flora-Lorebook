@@ -24,6 +24,9 @@ keys:
 position: after
 depth: 4
 summary: "Entry 079: A pivotal conversation between Ryan Adame and Estra Hamilton in Claymore Manor's Master Suite (June 19, 1843, 3:15-3:35 PM). Select this entry when depicting a character breakdown where two combat partners transition from enemies to equals, specifically to explore the psychological impact of mutual trauma and the decision to accept intimacy despite an impending lethal duel. Key relationships include Ryan and Estra (partners and lovers), Ryan and Alec (protector/protégé), and Mina (co-trainer). The entry establishes that Ryan's protection of Alec was planned long before Estra's debt,"
+location: Claymore Manor
+scene_type: confession
+characters_present: [Ryan, Estra]
 ---
 
 # 079 - The Ten Minutes

@@ -17,6 +17,9 @@ keys:
 position: after
 depth: 4
 summary: "**What is this?** A record of a late-night cryptographic session in 1843 involving a carrier pigeon message decoded using lemon juice and iron-gall ink. It reveals a multi-layered conspiracy orchestrated by Loren.\\n\\n**When should it be selected?** When analyzing the Claymore family's alliance, the psychological conditioning of Ryan Adame, or the political motivations of Loren.\\n\\n**Key relationships:** Charlotte Claymore and Ryan Adame (loyal partners); Cora Adame (cryptographer); Loren (antagonist/originator)."
+location: Claymore Manor
+scene_type: investigation
+characters_present: [Ryan, Charlotte, Cora]
 ---
 
 # 034 - The Lemon Cipher

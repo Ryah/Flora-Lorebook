@@ -18,6 +18,9 @@ keys:
 position: after
 depth: 4
 summary: "This is a strategic planning session for a wedding ceremony that doubles as a military defense. Select when characters discuss the wedding's dual purpose, legal vows, tactical integration, or family dynamics. Key relationships: Ryan (organizer), Estra (bride), Charlotte (legal), Florence (emotional tone), Alec (Estra's protector), and Priti/Cora (intelligence). The plan merges debt resolution, voluntary marriage, and a coordinated counterattack against Loren."
+location: Claymore Manor
+scene_type: negotiation
+characters_present: [Ryan, Charlotte, Florence, Estra, Howard, Cornelia, Eva]
 ---
 
 # 098 - Wedding and War Planning

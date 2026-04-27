@@ -19,6 +19,9 @@ keys:
 position: after
 depth: 4
 summary: This entry details a pre-mission briefing on June 15, 1843. It should be selected when preparing for the rescue mission to the Amber Isles. Key relationships include Ryan (patient), Mercer (clinician), Charlotte (mission planner), Florence (companion), and Howard (tactical advisor). The scene covers medical restrictions, sister Mina's combat capabilities, and a mole alert.
+location: Claymore Manor
+scene_type: recovery
+characters_present: [Ryan, Charlotte, Florence, Howard, Mercer]
 ---
 
 # 017 - Mercer's Clearance

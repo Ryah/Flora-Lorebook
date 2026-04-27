@@ -27,6 +27,9 @@ keys:
 position: after
 depth: 4
 summary: This is a lore entry documenting the immediate aftermath of a violent ritual (a "blood debt remittance") and the subsequent, emotionally charged acceptance of Estra Hamilton into the Adame/Claymore family. It should be selected when generating scenes involving family integration, post-conflict bonding, the group's dynamic after intense violence, or the specific cultural rituals of the Ragnar clan. Key relationships are Ryan Adame's new bond with Estra, the varied reactions of family members (Mina's fear, Cora's analysis, Florence's hysteria, Charlotte's controlled concern), and the overarching
+location: Claymore Manor
+scene_type: recovery
+characters_present: [Ryan, Estra, Charlotte, Florence, Howard]
 ---
 
 # 081 - The Bridal Carry

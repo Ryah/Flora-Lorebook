@@ -24,6 +24,9 @@ keys:
 position: after
 depth: 4
 summary: "This is a pivotal scene of psychological and sexual dominance within the triad (Charlotte, Ryan, Florence) at Claymore Manor. Select when referencing the group's power dynamics, Charlotte's sadistic training methods, or the moment Estra was forcibly integrated. Key relationships: Charlotte's dominance over Florence and Ryan; Ryan as the manipulative instigator; Estra's transition from observer to participant."
+location: Claymore Manor
+scene_type: intimacy
+characters_present: [Ryan, Charlotte, Florence, Estra]
 ---
 
 # 086 - Charlotte's Lesson
