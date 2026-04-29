@@ -9,13 +9,23 @@ keys:
   - divine bond
   - sensory link
   - Althena
-  - Ryan Adame
-  - Charlotte
   - Anchor
   - silence the bond
-  - Estra
   - Solarium
   - null state
+  - soul connection
+  - partial dampening
+  - full dampening
+  - emotional cost
+  - spectrum control
+  - dormant bond
+  - isolation
+  - internal distance
+  - skill mastery
+  - last resort
+  - Palace of Loth Logan
+  - June 1843
+  - projection pain
 position: after
 depth: 4
 location: Duran
@@ -28,14 +38,7 @@ character_present:
   - Mina
   - Cora
   - Claire
-summary: |-
-  Null State Aftermath and Ledger defines the mechanics and limitations of dampening the sensory link between Ryan Adame and Charlotte, following Althena's clarification on June 21, 1843, in the Palace of Loth Logan. It is selected when the AI needs to explain how the bond's connection can be intentionally reduced, the costs of permanent shutdown, or the requirements for mastering this skill.
-
-  *What it is:** The bond is a living soul-connection; dampening is a learnable skill of creating internal distance, not a toggle. Full dampening permanently silences the bond without severing it, leaving both in isolation. Partial dampening allows gradations from full connection to silence but is far harder to master.
-
-  - **When selected:** When discussing the bond's nature, training, or emotional regulation; when characters consider reducing Charlotte's pain during projection or Ryan's sensory overload.
-
-  - **Key relationships:** Ryan Adame (bond holder), Charlotte (Anchor), Althena (divine source providing explanation), Mina (categorizes as last resort), Estra (identifies partial dampening), Cora (recognizes emotional regulation implications), Claire (serves tea, minor), Florence (notes need to reopen door).
+summary: "**When selected:** When discussing the bond's nature, training, or emotional regulation; when characters consider reducing Charlotte's pain during projection or Ryan's sensory overload.,**Key relationships:** Ryan Adame (bond holder), Charlotte (Anchor), Althena (divine source providing explanation), Mina (categorizes as last resort), Estra (identifies partial dampening), Cora (recognizes emotional regulation implications), Claire (serves tea, minor), Florence (notes need to reopen door)."
 ---
 
 # 135 - Null State Aftermath and Ledger

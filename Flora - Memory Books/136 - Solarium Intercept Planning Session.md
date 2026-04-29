@@ -8,12 +8,8 @@ keys:
   - dampening
   - divine bond
   - sensory link
-  - Althena
-  - Ryan Adame
-  - Charlotte
   - Anchor
   - silence the bond
-  - Estra
   - Solarium
   - null state
 position: after

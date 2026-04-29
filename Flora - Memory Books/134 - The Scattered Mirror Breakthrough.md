@@ -10,12 +10,19 @@ keys:
   - sensory link
   - Althena
   - Ryan Adame
-  - Charlotte
+  - Charlotte Claymore
   - Anchor
-  - silence the bond
+  - broadcast command
   - Estra
   - Solarium
   - silver ice
+  - simultaneous control
+  - parallel negotiation
+  - scattered attention
+  - paradigm shift
+  - water manipulation
+  - lumina manipulation
+  - multiple targets
 position: after
 depth: 4
 location: Duran
@@ -28,12 +35,7 @@ character_present:
   - Mina
   - Cora
   - Claire
-summary: |-
-  **What is this?**  
-  Documentation of a breakthrough in water magic by Charlotte Claymore on June 22, 1843, where she shifted from negotiating individually with water droplets to broadcasting a single command to water as a unified entity. The key insight: commands should target the medium (water itself), not individual droplets. Eleven of fifteen droplets froze simultaneously, maintaining for ~15 seconds before strain. Remaining ~65% failed due to insufficient attention/repetition.
-
-  **When should this be selected?**  
-  When the AI needs to reference: a paradigm shift in magic technique (parallel negotiation&  broadcast command), limitations of multi-target maintenance (linear scaling), or the specific historical moment of this breakthrough
+summary:
 ---
 
 # 134 - The Scattered Mirror Breakthrough
