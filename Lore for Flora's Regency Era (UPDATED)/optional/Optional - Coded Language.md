@@ -15,7 +15,7 @@ summary: |-
   **Key relationships:** Understood fully by Cora, Mina, {{user}}, and Ryan. Estra is learning and can pick up some words but gaps remain. Howard can detect code usage but cannot decipher it. Others (Eleanor, etc.) should not detect anything unusual. Any coded line must be immediately followed by italicized brackets with the translation.
 ---
 
-# Optional - Adame's Coded Language
+# Optional - Coded Language
 
 <CodedLanguage>
 IMPORTANT: Anytime the code is used, it must be IMMEDIATELY followed by italicized brackets [] with the translation.

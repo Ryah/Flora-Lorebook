@@ -5,9 +5,9 @@ tags:
   - lorebook
 keys:
   - suicide note
-  - "Ryan's suicide note"
+  - Ryan's suicide note
   - April 18, 1843
-summary: "The suicide note Ryan wrote on April 18, 1843, revealing his past despair. Now kept in the dreamscape."
+summary: The suicide note Ryan wrote on April 18, 1843, revealing his past despair. Now kept in the dreamscape.
 ---
 # Ryan's Suicide Note
 

@@ -8,45 +8,35 @@ keys:
   - Ryan Adame
   - Charlotte Claymore
   - Petra Voss
-  - custard dinner scene
-  - palace servant surveillance
-  - counter-intelligence operation
-  - Queen Maya cover
-  - Florence projection walk
-  - Estra karambit extraction
-  - Adame family covert coordination
-  - Loren rescue timeline
-  - servant behavior assessment
-  - palace spy detection
-  - custard compote king memory
-  - betting pool annotations
-  - protocol breach kiss
-  - wine refill signal
-  - west door decoy
-  - assume nothing verify everything
-  - three-month transfer pattern
-  - Howard Adame mentor test
-  - palace Great Hall dinner
-  - June 1843 timeline
-  - suspicion confirmation dinner
-  - family intelligence network
+  - Queen Maya
+  - Florence
+  - Estra
+  - William Adame
+  - palace custard dinner
+  - royal protocol breach kiss
+  - servant intelligence recruitment
+  - projection walking technique
+  - karambit concealed carry
+  - Great Hall dinner conclusion
+  - operational timeline acceleration
+  - royal cover coordination
+  - west door tactical diversion
+  - family berry compote legacy
+  - Charlotte annotation betting pool
+  - Loth Logan Palace
+  - June 1843
 position: after
 depth: 4
-summary: |-
-  **What it is:** A specific historical event (June 21, 1843) during a formal dinner at Loth Logan Palace where a covert operation was initiated under the cover of post-dinner custard service.
 
-  **Selection trigger:** When the narrative involves covert meetings, planned operations, or strategic distractions in a palace setting. Activate during formal dinners, after-dinner scenes, or when characters coordinate secret activities under social pretexts.
-
-  **Key relationships:**
-  - **Ryan Adame** initiated the operation timeline by summoning Petra to his room
-  - **Estra** assigned to intercept and evaluate Petra (planned seven-minute route)
-  - **Queen Maya** provided social cover for the interaction
-  - **Charlotte, Florence** participated as projection team (needed physical contact for Ryan's projection)
-  - **Howard, Mina** stationed as backup in east corridor
-  - **Rachael** occupied William and Alec at table
-  - **Cora** documented Petra's departure gait
-  - **Claire** observed Florence nervously
-  - **Petra Voss** was the operation target (servant invited to meet Ryan)
+  - "**Ryan Adame** initiated the operation timeline by summoning Petra to his room"
+  - "**Estra** assigned to intercept and evaluate Petra (planned seven-minute route)"
+  - "**Queen Maya** provided social cover for the interaction"
+  - "**Charlotte, Florence** participated as projection team (needed physical contact for Ryan's projection)"
+  - "**Howard, Mina** stationed as backup in east corridor"
+  - "**Rachael** occupied William and Alec at table"
+  - "**Cora** documented Petra's departure gait"
+  - "**Claire** observed Florence nervously"
+  - "**Petra Voss** was the operation target (servant invited to meet Ryan)"
 location: Duran
 scene_type: dialogue
 character_present:
@@ -55,6 +45,7 @@ character_present:
   - Florence
   - Estra
   - Queen Maya
+summary: "Custard and Operation: A covert operation conducted on June 21, 1843, during formal dinner custard service at the Palace of Loth Logan. The entry should be selected when characters execute a planned infiltration or interception, requiring coordinated distraction, projection magic, and servant interception. Key figures: Ryan Adame (initiates timeline, orders Petra to his room as pretext), Estra (intercepts Petra using servant passages, armed with karambit), Florence and Charlotte (support Ryan's projection, guard study), Queen Maya (covers the interaction), Howard, Mina, Cora, Rachael (backup/distraction). Central action: Ryan projects to meet Petra while group secures a disused study, using physical contact to anchor projection and avoid feedback dissonance from prior attempt."
 ---
 
 # 121 - Custard and Operation

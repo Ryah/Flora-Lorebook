@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "857ae181fce2c886",
+        "id": "31f1a1e3e497f3c1",
         "type": "tabs",
         "children": [
           {
-            "id": "a429cbcca4a28626",
+            "id": "a01082bdeef89345",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flora - Memory Books/024 - Coastal Extraction.md",
+                "file": "Flora - Memory Books/128 - Dragon Secret.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "024 - Coastal Extraction"
+              "title": "128 - Dragon Secret"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "characters_present",
+                "query": "Greaves",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 312.5
   },
   "right": {
     "id": "c656e337ff8c5a54",
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Flora - Memory Books/024 - Coastal Extraction.md"
+                "file": "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Claire Whitehill.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 024 - Coastal Extraction"
+              "title": "File properties for Characters - Claire Whitehill"
             }
           },
           {
@@ -183,8 +183,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           }
         ],
@@ -203,42 +203,39 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
-      "copilot:Open Copilot Chat": false,
-      "notebook-navigator:Notebook Navigator": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Lookup: Open lookup view": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a429cbcca4a28626",
+  "active": "a01082bdeef89345",
   "lastOpenFiles": [
-    "Flora - Memory Books/025 - Ragnar Vessel Transfer.md",
-    "Flora - Memory Books/023 - Amber Extraction.md",
-    "Flora - Memory Books/022 - Sea Witch Departure.md",
-    "Flora - Memory Books/021 - Carriage to Briarhaven.md",
-    "Flora - Memory Books/020 - Tower Confession.md",
-    "Flora - Memory Books/019 - Culvert Intelligence and Brick Room.md",
-    "Flora - Memory Books/018 - Fiona's Bandaging.md",
-    "Flora - Memory Books/017 - Mercer's Clearance.md",
-    "Flora - Memory Books/016 - Breakfast Before the Examination.md",
-    "Flora - Memory Books/015 - Dawn Combat Assessment.md",
-    "Flora - Memory Books/014 - Dawn Combat Assessment.md",
-    "Flora - Memory Books/013 - The Closet Confession.md",
-    "Flora - Memory Books/011 - Coded Letter Drafting.md",
-    "Flora - Memory Books/010 - Dawn Extraction Plans.md",
-    "Flora - Memory Books/009 - Family Declaration.md",
-    "Flora - Memory Books/008 - Curtained Hall Investigation.md",
-    "Flora - Memory Books/007 - Locket and Legal Deadline.md",
-    "Flora - Memory Books/005 - The Trust Document.md",
-    "Flora - Memory Books/006 - The Courier's Warning.md",
-    "Flora - Memory Books/004 - Parlor Confession and Reconciliation.md",
-    "Flora - Memory Books/003 - Bathing Chamber Confessions.md",
-    "Flora - Memory Books/002 - Confession and Protection.md",
-    "Flora - Memory Books/001 - Arrival and Confession.md",
-    "Flora - Memory Books/120 - Testing Petra.md",
-    "Flora - Memory Books/107 - Homecoming at Loth Logan.md",
-    "Flora - Memory Books/114 - The Sealed Hall.md",
+    "Flora - Memory Books/133 - Dampening the Divine Bond.md",
+    "Your Wives Lorebook/Locations/Null State (The Between).md",
+    "Flora - Memory Books/136 - Solarium Intercept Planning Session.md",
+    "Flora - Memory Books/134 - The Scattered Mirror Breakthrough.md",
+    "Flora - Memory Books/135 - Null State Aftermath and Ledger.md",
+    "Flora - Memory Books/132 - Silver Queen Baseline Test.md",
+    "Lore for Flora's Regency Era (UPDATED)/characters/Characters - Claire Whitehill.md",
+    "Flora - Memory Books/130 - Dew and Bread.md",
+    "Flora - Memory Books/125 - Wooden Boat.md",
+    "Flora - Memory Books/118 - Cuddle Pile Decompression.md",
+    "Flora - Memory Books/119 - Preparing for the Royal Dinner.md",
+    "Flora - Memory Books/127 - Dragon and Fist Bump.md",
+    "Flora - Memory Books/131 - Carried & Crows.md",
+    "Flora - Memory Books/056 - Eastern Slope Descent and Sub-Cellar Ambush.md",
+    "Flora - Memory Books/055 - Bench Vigil and Departure.md",
+    "Flora - Memory Books/057 - Monastery Extraction.md",
+    "Your Wives Lorebook/meta/powers/Charlotte's Silver Manifestation (Shared Power).md",
+    "Your Wives Lorebook/meta/powers/The Sensory Link (Ryan & Charlotte).md",
+    "Your Wives Lorebook/meta/powers/The Dreamscape Labyrinth.md",
+    "Your Wives Lorebook/meta/powers/Ryan's Golden Thread – Projection.md",
+    "Your Wives Lorebook/meta/powers/Ryan's Golden Thread – Catch & Release.md",
+    "Your Wives Lorebook/Locations",
+    "Your Wives Lorebook/meta/powers",
+    "Your Wives Lorebook/meta/Ryan and Alec's Contract.md",
+    "Your Wives Lorebook/Alec's Dragon Drawing.md",
+    "Your Wives Lorebook/Thomas Greaves.md",
+    "Your Wives Lorebook/Marten Voss.md",
+    "Flora - Memory Books/Arcs/[ARC 001] - Arrival, Confession, and Rescue Plan.md",
     "Flora - Memory Books/Arcs",
     "Tags",
     "Untitled.canvas",
@@ -247,8 +244,6 @@
     "Flora - Memory Books/~syncthing~112 - Projection Discovery.md.tmp",
     "Flora - Memory Books/~syncthing~111 - Divine Practice.md.tmp",
     "Librarian",
-    "Lore for Flora's Regency Era (UPDATED)/_archived",
-    "Lore for Flora's Regency Era (UPDATED)/meta",
-    "Lore for Flora's Regency Era (UPDATED)/optional"
+    "Lore for Flora's Regency Era (UPDATED)/_archived"
   ]
 }

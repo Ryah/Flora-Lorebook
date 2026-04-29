@@ -1,6 +1,5 @@
 ---
 tags:
-  - lorebook-always
   - lorebook
 keys:
   - dreamscape labyrinth
@@ -16,6 +15,9 @@ keys:
 priority: 34
 summary: "**What:** A shared lucid dreamspace accessible only through the sensory bond during mutual sleep. Ryan's childhood mental labyrinth, now merging with Charlotte's conservatory. Time moves slower but stays synced. Items stay inside (only copies exit). Charlotte is more raw and vulnerable here. **When to Select:** For any shared dream scene, labyrinth exploration, emotional vulnerability, discovery of memories/artifacts, or private sanctuary moments. **Key Relationships:** Built by Ryan in brick room; accessed via bond; tethered by gold-silver thread; contains oasis, conservatory, library, observatory, boat garden. Field journal (32+ entries) and chalk arrows track exploration."
 location: Dreamscape
+character_present:
+  - Ryan
+  - Charlotte
 ---
 
 # The Dreamscape Labyrinth
@@ -85,4 +87,4 @@ Charlotte's conservatory is physically bleeding into Ryan's labyrinth. Botanical
 
 ## Linking Back
 
-This lorebook connects to [[The Sensory Link (Ryan & Charlotte)]](bond enabling access) and [[Ryan's Divine Power (Golden Thread)]] (golden thread, projection, knot technique). The dreamscape is unconscious convergence—not intentional projection.
+This lorebook connects to [[The Sensory Link (Ryan & Charlotte)]](bond enabling access) and [[Ryan's Golden Thread – Catch & Release]] (golden thread, projection, knot technique). The dreamscape is unconscious convergence—not intentional projection.

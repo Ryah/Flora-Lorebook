@@ -5,54 +5,35 @@ priority: 50
 tags:
   - lorebook
 keys:
-  - shared lucid dreaming
-  - oasis sanctuary
-  - mental labyrinth
-  - Ryan Adame
-  - Charlotte Claymore
+  - shared lucid dream
+  - mental oasis sanctuary
   - family drawing gift
-  - emotional vulnerability
-  - suicide letter revelation
+  - suicide letter disclosure
   - April 1843 trauma
-  - Eleanor abuse backstory
-  - Estra manipulation
-  - Florence protection
-  - near-death confession
-  - collateral promise
-  - Mrs. Silver nickname
-  - trust development
+  - Eleanor abuse history
+  - Florence protection motive
+  - Charlotte collateral promise
+  - Mrs. Silver nickname acceptance
   - holding space backpack
   - unmapped labyrinth exploration
-  - branching path choice
-  - rose carvings symbolism
-  - Loren control trauma
+  - rose carving symbolism
+  - Loren control resistance
   - childhood garden memory
   - botanical wall transformation
-  - therapeutic dream processing
-  - trauma healing
-  - spy-free mind space
-  - emotional breakthrough
-  - sanctuary creation
-  - masculine vulnerability
-  - found family bonding
+  - trauma healing journey
+  - emotional vulnerability exchange
+  - found family formation
+  - Ryan masculine vulnerability
+  - trust deepening moment
 position: after
 depth: 4
-summary: |-
-  **What this is:** A pivotal shared lucid dream event on June 21, 1843, where Ryan Adame gifts Charlotte Claymore a family drawing and reveals a suicide letter from April 18, 1843. Charlotte promises never to treat him as collateral, accepts the nickname "Mrs. Silver," and the dreamers' sensory landscapes begin merging (her glass conservatory fuses with his labyrinth). The entry also tracks Mina Adame observing Thomas Greaves at a dead drop.
 
-  **Selection trigger:** Select when the AI depicts the deepening emotional bond, trust, or physical landscape fusion between Charlotte and Ryan; when referencing Ryan's past suicide attempt, the family drawing, or Charlotte's promise to protect him; or when tracking Mina's surveillance of Thomas Greaves in the physical world on this same night.
-
-  **Key relationships:**
-  - Ryan Adame (dreamer, gift-giver, revealer of suicide letter)
-  - Charlotte Claymore (recipient, promise-maker, "Mrs. Silver")
-  - Mina Adame (observer of Thomas Greaves)
-  '- Thomas Greaves (observed at dead drop)
-  - Referenced but offscreen: Florence, Estra, Eleanor (abusive mother), Loren (Charlotte's mother)
 location: Dreamscape
 scene_type: dreamscape
 character_present:
   - Ryan
   - Charlotte
+summary: "**The Oasis Offering**  \nA shared lucid dream scene (June 21, 1843, ~10:40–10:50 PM) where Ryan Adame gives Charlotte Claymore a family drawing, reveals a suicide letter written April 18, 1843, and Charlotte promises not to treat him as collateral. Their dreamscapes physically merge (stone labyrinth sprouts botanical carvings), indicating deeper sensory bond integration. Also, in the physical world, Mina Adame observes Thomas Greaves completing a midnight crossing to a dead drop.\n\n**When selected:**  \nAny dream or memory retrieval scene where Ryan reveals traumatic past (suicide attempt), Charlotte makes emotional promises, or their bond deepens enough to merge mental landscapes. Also relevant when Mina monitors Greaves' movements.\n\n**Key relationships:**\n- Ryan Adame (giver, suicidal ideation survivor, ward of the Adames)\n- Charlotte Claymore (receiver, \"Mrs. Silver,\" emotional ally)\n- Florence & Estra (depicted in drawing; Estra stabbed Ryan per his goading) \n- Eleanor (Ryan's abusive mother, sent back would kill him)\n- Loren (Charlotte's controlling mother)"
 ---
 
 # 124 - The Oasis Offering

@@ -30,6 +30,11 @@ character_present:
   - William
   - Cornelia
   - Charlie
+  - Henry
+  - Priti
+  - Claire
+  - Fiona
+  - Eva
 ---
 
 # 105 - Escape to Duran
