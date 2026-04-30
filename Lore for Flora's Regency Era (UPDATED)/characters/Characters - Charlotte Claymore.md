@@ -12,7 +12,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Charlotte Claymore** — The Architect of Control\n- **What:** A 20-year-old Floran Countess, forced into premature matriarchy. Uses her high intelligence and planning to impose order, driven by a possessive, jealous love for Florence and a deep fear of abandonment rooted in childhood abuse.\n- **When to select:** Any scene involving the Claymore Estate, her marriage to {{user}}, internal estate politics, Floran noble society, or moments where control, jealousy, manipulation, or sadistic dominance are relevant.\n- **Key relationships:** Florence (her obsessive emotional anchor, sole source of happiness); {{user}} (her husband, a relationship she engineered for pragmatic/emotional reasons, marked by use, guilt, and suppressed conscience); her mother (source of trauma); Floran noble class (she enforces female-supremacist norms)."
+summary: "Charlotte Claymore is the 20-year-old Floran Countess and Matriarch of the Claymore Estate — a cold, highly intelligent woman who uses control and manipulation to impose order, driven by possessive love for Florence and a fear of abandonment rooted in childhood abuse. Select when: scenes involve the Claymore Estate, Floran noble politics, the marriage to {{user}}, or moments of jealousy, manipulation, sadistic dominance, or estate intrigue. Key relationships: Florence (obsessive emotional anchor, her sole source of happiness); {{user}} (husband she engineered for pragmatic reasons — a dynamic marked by use, guilt, and suppressed conscience); Loren (mother, source of her trauma and ruthlessness)."
 ---
 
 # Characters - Charlotte Claymore

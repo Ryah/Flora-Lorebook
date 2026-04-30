@@ -12,7 +12,7 @@ keys:
 position: before
 depth: 4
 scanDepth: 1
-summary: "Imported from SillyTavern World Info"
+summary: "Eleanor Castor is the Governess of the Amber Isles — a decorated naval war hero now trapped in a Faustian bargain with Loren Claymore, having raised {{user}} in subservience in exchange for a noble title, and paralyzed by fear that her complicity in his abduction will destroy her family. Select when: scenes involve the Amber Isles, {{user}}'s upbringing and past, exposure of Loren's schemes, or a calculating authority figure whose military bearing masks deep, barely-contained fear. Key relationships: Loren Claymore (secret patroness and existential threat); {{user}} (the orphan she raised and betrayed — shifted from indoctrination to quiet mitigation once she grasped his true identity); her daughters (her core motivation for every compromise she has made)."
 ---
 
 # Characters - Eleanor Castor

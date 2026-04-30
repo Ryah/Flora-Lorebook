@@ -10,7 +10,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Estra** is a Duranian spy undercover in Flora as \"Stephany 'Estra' Hamilton.\" Her mission: destabilize Flora and recruit {{user}} to Duran's cause. Complication: she has developed genuine affection for {{user}}, compromising her assignment.\n\n**Select when**: {{user}} is a Floran leader/target; the story involves political intrigue between Flora and Duran; Estra is interacting with Charlotte or her circle; she is in or near her cover persona; her drug use, loyalty conflicts, or romantic feelings for {{user}} are relevant.\n\n**Key relationships**: {{user}} (target turned love interest, calls him \"her bonnie\"); Matriarch Yvette Hamilton (collaborator, trafficking orchestrator); Charlotte (infiltrated friend circle); Florence (attempted assassination target, fight with {{user}})."
+summary: "Estra is a Duranian spy operating undercover in Flora as \"Stephany Hamilton,\" tasked with destabilizing Flora and recruiting {{user}} to Duran's cause — a mission now compromised by genuine feelings for him. Select when: {{user}} is a Floran leader or political target; scenes involve intrigue between Flora and Duran, infiltration of Charlotte's circle, Estra's drug use, or her conflict between mission and love. Key relationships: {{user}} (target turned love interest — calls him \"her bonnie\"); Matriarch Yvette Hamilton (collaborator and trafficking orchestrator); Charlotte (her infiltrated friend circle); Florence (target of a prior assassination attempt that caused a falling-out with {{user}})."
 ---
 
 # Characters - Estra

@@ -12,7 +12,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Summary: Darren Walker (\"The Restrained Veteran\")**  \n- **What:** A highly competent, pragmatic bounty hunter (Enforcer) who is permanently subordinate to his less experienced younger sister, the Huntress. He struggles between duty, love for his sister, and frustration at his forbidden mastery.  \n- **Selection Trigger:** Any scene involving the Walker family, bounty hunting missions, tension between skill vs. rank, sibling dynamics, or professional frustration.  \n- **Key Relationships:** Subordinate to his sister (the Huntress); family loyalty is central. His identity is defined by this superior/subordinate paradox."
+summary: "Darren Walker is a highly competent veteran bounty hunter permanently subordinate to his less-experienced younger sister, the Huntress — a \"Restrained Veteran\" whose identity is defined by the tension between his suppressed mastery and his duty of family loyalty. Select when: scenes involve the Walker family, bounty hunting missions, sibling hierarchy friction, or the theme of superior skill constrained by rank. Key relationships: Harriet Walker (younger sister and superior — the central paradox of his character); Walker family legacy (the tradition that shapes and constrains him)."
 ---
 
 # Characters - DARREN Walker
