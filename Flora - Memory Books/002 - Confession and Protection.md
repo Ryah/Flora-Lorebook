@@ -16,7 +16,7 @@ keys:
   - Financial Freeze
 position: after
 depth: 4
-summary: A pivotal scene in 1843 where Ryan confesses abuse to Rachael, triggering her fury. She retrieves his locket and orders Eleanor's capture. Select this when Rachael or Ryan demonstrates protection, resources in Tor Veiloth/Amber Isles, or Henry's history.
+summary: "Ryan confesses his abuse and captivity history to Rachael Blakeney at Claymore Manor, triggering her protective fury; she retrieves his locket and orders Eleanor's capture and financial freeze, June 1843. Select when Rachael demonstrates maternal protection, Ryan reveals abuse details to elders, the orange brick torture chamber is referenced, Mina's locket is discovered, Eleanor's assets are frozen, secret rooms are discussed, or Tor Veiloth and Amber Isles resources are invoked. Key participants: Ryan (abuse survivor, confessor), Rachael (matriarch, protector), Eleanor Adame (antagonist), Florence and Charlotte (witnesses), Henry Adame (historical context)."
 location: Claymore Manor
 scene_type: confession
 character_present:

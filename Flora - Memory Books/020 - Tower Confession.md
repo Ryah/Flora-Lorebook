@@ -19,7 +19,7 @@ keys:
   - Thomas Greaves
 position: after
 depth: 4
-summary: "**Summary:**\\nThis entry depicts a private moment between husband and wife on June 15, 1843. Select it to reveal the plot point that the mole is Edmund Girard, or when a secret has been revealed in family discussions. Florence accepts the secret plan and prepares extraction gear. Also select this when the topic of keeping secrets in the marriage is brought up."
+summary: "Ryan reveals the mole's identity (Edmund Girard) to Florence in Claymore Manor's North Tower on June 15, 1843, testing the no-secrets policy in their marriage before she prepares extraction gear. Select when Edmund Girard is disclosed as the mole, marriage trust and the no-secrets policy is tested, North Tower scenes occur, Florence prepares for the extraction mission, or intelligence secrets within the marriage are discussed. Key participants: Ryan (husband, secret-bearer), Florence (wife, accepts secret, mission-ready), Edmund Girard (named mole), Eleanor (antagonist context), Thomas Greaves (logistics)."
 location: Claymore Manor
 scene_type: confession
 character_present:

@@ -20,7 +20,7 @@ keys:
   - blanket code
 position: after
 depth: 4
-summary: A meeting on June 14, 1843, establishing a dawn extraction plan to rescue Ryan's sisters from the Amber Isles. Ragnar (Howard) outlines a rescue timeline, reveals his past service to Ryan's father, and suspects Eleanor orchestrated the father's death. Ryan accepts Ragnar's help after a formal dinner, where Charlotte modifies a coded letter for his sisters using a blanket signal. Select when detailing the rescue mission's logistics, Ragnar's history, or the coded letter's composition.
+summary: "Howard Ragnar presents the dawn extraction plan for rescuing Ryan's sisters Mina and Cora from the Amber Isles at Claymore Manor on June 14, 1843, revealing his past service to Ryan's father and suspicion that Eleanor orchestrated his death. Select when detailing Amber Isles rescue logistics, the Ragnar longship and cove anchorage, Howard's military history and Skaag campaign, Eleanor's suspected role in Henry's death, or the blanket signal coded letter to Mina and Cora. Key participants: Ryan (extraction leader), Howard Ragnar (tactical planner, father-in-law), Charlotte (letter modifier), Mina and Cora (rescue targets), Eleanor Adame (antagonist)."
 location: Claymore Manor
 scene_type: negotiation
 character_present:

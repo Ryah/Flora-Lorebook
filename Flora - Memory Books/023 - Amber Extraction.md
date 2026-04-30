@@ -26,7 +26,7 @@ keys:
   - Oil lantern
 position: after
 depth: 4
-summary: "**What:** A 44-minute infiltration of the Amber Isles estate to rescue Mina and Cora Adame from a hidden basement chamber.\\n\\n**When:** June 15, 1843, 9:48–10:32 AM. Selected when Ryan must choose between a guarded path and a drainage channel, or when escaping a sealed room.\\n\\n**Key Relationships:** Ryan (leader/escape route), Florence (companion/picker), Mina/Cora (prisoners), Eleanor (antagonist/trapper), Fiona (intelligence source), Howard (backup force)."
+summary: "A 44-minute infiltration of the Amber Isles estate on June 15, 1843 (9:48-10:32 AM), where Ryan and Florence breach via drainage channel to rescue Mina and Cora Adame from a sealed basement chamber. Select when Ryan infiltrates the Adame estate, the drainage channel vs. guarded path choice is made, the secret orange-red brick entrance or pneumatic mechanism is triggered, Mina or Cora are found imprisoned, or escape from Eleanor's sealed room is attempted. Key participants: Ryan (infiltration leader), Florence (companion, lock picker), Mina and Cora (prisoners), Eleanor (antagonist/trapper), Fiona (intelligence source), Howard (backup force)."
 location: Amber Isles
 scene_type: combat
 character_present:

@@ -18,7 +18,7 @@ keys:
   - herb-stained apron
 position: after
 depth: 4
-summary: A servant at Claymore Manor treating a knife wound before a mission. Select when Ryan requires bandaging for climbing or needs Fiona's local tactical intelligence regarding a hidden culvert near the Amber Isles. She provides a secure figure-eight wrap and a secret path for infiltration.
+summary: "Fiona bandages Ryan's knife wound with a figure-eight shoulder-anchor-to-hip-lock wrap at Claymore Manor before the Amber Isles extraction, and shares intelligence about a hidden drainage culvert for infiltration, 1843. Select when Ryan requires pre-mission wound care or bandaging suitable for climbing, the drainage culvert entry route to the Adame estate is discussed, Fiona's local herbalist knowledge is needed, or comfrey salve and pre-mission preparations are referenced. Key participants: Ryan (wounded patient, infiltration leader), Fiona (bandager, culvert intelligence source)."
 location: Claymore Manor
 scene_type: recovery
 character_present:

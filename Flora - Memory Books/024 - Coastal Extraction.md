@@ -22,7 +22,7 @@ keys:
   - reopened wound
 position: after
 depth: 4
-summary: "**What:** A tense extraction sequence where a group escapes the Adame manor with a severely malnourished girl, Cora, carrying a wounded companion, Florence. They board a longship guarded by Howard Blakeney Ragnar and Callista Venn.\\n\\n**When:** Thursday, June 15, 1843, between 10:28 AM and 10:35 AM, during a frantic escape from Eleanor Adame.\\n\\n**Key Relationships:** Ryan (protector), Florence (sacrificial caretaker), Cora (victim), Callista (boat crew), Howard (boat crew)."
+summary: "A frantic escape from the Adame manor on June 15, 1843 (10:28-10:35 AM), where Ryan carries a malnourished Cora and wounded Florence from the root cellar tunnel to Howard and Callista's longship at the coastal cove. Select when the group escapes the Adame estate under Eleanor's pursuit, Cora's severe malnourishment is portrayed, Florence sustains injury while protecting others, the shoulder carry scene occurs, a reopened wound complicates escape, or the longship rendezvous is described. Key participants: Ryan (protector, carrier), Florence (injured, sacrificial caretaker), Cora (malnourished victim), Callista Venn (longship crew), Howard Blakeney Ragnar (longship crew), Eleanor (pursuer)."
 location: Amber Isles
 scene_type: combat
 character_present:

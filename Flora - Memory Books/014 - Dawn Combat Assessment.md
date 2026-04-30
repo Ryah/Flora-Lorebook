@@ -17,7 +17,7 @@ keys:
   - wooden practice swords
 position: after
 depth: 4
-summary: A dawn sparring assessment on June 15, 1843. Select when Ryan wakes at Claymore Manor to prepare for an extraction mission. Key relationships include Howard (training with father William's sword), Captain Eva Riensdauter (challenging Howard's assessment and expressing professional skepticism about Ryan's readiness), and Florence (gratitude for her company). Ryan's back wound limits his left rotation to 70%, creating a hesitation that Howard and Eva identify as a combat vulnerability.
+summary: "A dawn sparring assessment at Claymore Manor on June 15, 1843, where Howard trains Ryan using his father William Adame's sword before the extraction mission, and Captain Eva challenges Howard's approval of Ryan's readiness. Select when Ryan prepares for the Amber Isles extraction, combat readiness assessments occur, Howard's training role is referenced, William Adame's Duranian sword appears, or Ryan's back wound creating a 70% left-rotation combat limitation is discussed. Key participants: Ryan (assessed, back-wounded), Howard (trainer, approver), Eva Riensdauter (skeptic challenger), Florence (grateful witness)."
 location: Claymore Manor
 scene_type: training
 character_present:

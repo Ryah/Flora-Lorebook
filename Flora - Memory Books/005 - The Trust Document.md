@@ -22,7 +22,7 @@ keys:
   - raven hair
 position: after
 depth: 4
-summary: '**What:** A legal trust document (May 1843) granting Ryan autonomy and financial security, and a record of their trauma bond.\n\n**When to Select:** When discussing post-assassination events, the \"Personal Autonomy Clause,\" or the \"Amber Isles\" courier interruption.\n\n**Key Relationships:** Defines a partnership where Charlotte accepts legal constraints to manage her trauma, and Ryan asserts agency over his own life to avoid being viewed as a victim.'
+summary: "A legal trust document scene in Claymore Manor's blue drawing room where Charlotte presents Ryan with an irrevocable trust granting financial security and a Personal Autonomy Clause following the assassination attempt, May 1843. Select when discussing post-assassination legal arrangements, Article V, the Personal Autonomy Clause, the restraining clause limiting Charlotte, Ryan's stipend or life estate terms, irrevocable trust structure, or when the Amber Isles courier interruption is referenced. Key participants: Ryan (beneficiary, asserting agency against victim framing), Charlotte (grantor, managing survivor trauma through legal structure)."
 location: Claymore Manor
 scene_type: reflection
 character_present:

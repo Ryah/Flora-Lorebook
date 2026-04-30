@@ -16,7 +16,7 @@ keys:
   - tarnished locket
 position: after
 depth: 4
-summary: "A confidential dialogue between Ryan and Claire (maid) in Claymore Manor, occurring June 14, 1843. Select when exploring Ryan's trauma, his past abuse, or his relationship with the staff. Key relationships: Ryan (patient/confidant), Claire (devoted caretaker/ally). Reveals Ryan's suppressed memory of a suicide attempt and Claire's enduring hope that he survived her vigil."
+summary: "Ryan and Claire share a private confession in a Claymore Manor closet on June 14, 1843, where Ryan's suppressed memory of a past suicide attempt surfaces and Claire reveals she kept a three-week vigil hoping he survived. Select when exploring Ryan's trauma and suicidal ideation history, his bonds with household staff, closet or Lord's Quarters settings, the tarnished locket is present, or intimate disclosures between Ryan and a maid occur. Key participants: Ryan (trauma survivor, suicide attempt history), Claire (devoted maid, three-week vigil keeper, emotional ally and caretaker)."
 location: Claymore Manor
 scene_type: confession
 character_present:

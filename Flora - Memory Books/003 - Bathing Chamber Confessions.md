@@ -20,7 +20,7 @@ keys:
   - Henry counsels
 position: after
 depth: 4
-summary: "A 1843 interaction in Claymore Manor between Ryan and servants Fiona and Claire. Select when Ryan is healing from a recent assassination attempt, reflecting on his failures, or discussing his relationship with Florence's family. Key relationships: Fiona (servant seeking dominance), Claire (maid), and Howard Ragnar (father-in-law, military ally)."
+summary: "Ryan receives medical treatment for scar tissue and wounds in Claymore Manor's bathing chamber from servants Fiona and Claire, following an assassination attempt, 1843. Select when Ryan is healing post-assassination, receiving medical care from staff, reflecting on personal failures, discussing the Ashcroft estate connection, or establishing Ryan's relationship with household servants and Howard Ragnar's family. Key participants: Ryan (patient, recovering), Fiona (servant, assigned nightly salve treatment by Henry), Claire (maid, caretaker), Henry (advisor, counsels Ryan through mental wounds)."
 location: Claymore Manor
 scene_type: recovery
 character_present:

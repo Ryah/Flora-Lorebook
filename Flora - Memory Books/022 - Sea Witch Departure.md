@@ -23,7 +23,7 @@ keys:
   - Basement Lock
 position: after
 depth: 4
-summary: "This is a mission departure log. Select when referencing the Sea Witch vessel, the Amber Isles extraction plan, or characters Ryan, Florence, or Callista Venn. Key details: Ryan and Florence are infiltrating the Amber Isles to retrieve Mina and Cora, with a noon invasion contingency. Ryan offered Callista a permanent retainer. They use codenames 'Stardust and the Baron'."
+summary: "Ryan and Florence board the Sea Witch at Briarhaven Dock with Callista Venn for the Amber Isles extraction mission to rescue Mina and Cora, establishing codenames and a noon invasion contingency, 1843. Select when the Sea Witch vessel is referenced, the Amber Isles extraction departure is described, codenames Stardust and the Baron (or Starfall) are used, the noon contingency plan is invoked, Ryan offers Callista a permanent retainer, or the basement lock at the Adame estate is discussed. Key participants: Ryan (\"The Baron,\" mission leader), Florence (\"Stardust,\" companion), Callista Venn (captain/informant, offered retainer), Howard (backup force), Mina and Cora (rescue targets)."
 location: Briarhaven
 scene_type: investigation
 character_present:

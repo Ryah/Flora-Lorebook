@@ -16,7 +16,7 @@ keys:
   - Ryan and Florence
 position: after
 depth: 4
-summary: This entry depicts a pivotal reconciliation scene on June 14, 1843, between Ryan Claymore and his wife Florence. It should be selected when exploring the aftermath of the assassination attempt or when deepening the Claymore family’s internal conflicts. Key relationships include the arranged marriage with Florence (who secretly loves Charlotte) and the strained bonds with his sisters Mina and Cora. Ryan reveals his hidden trauma from the attack and Florence vows to secure his legal standing and emotional security.
+summary: "Ryan and Florence reconcile in the Claymore Manor parlor on June 14, 1843, as Ryan reveals trauma from the assassination attempt and Florence confesses guilt over the arranged marriage. Select when exploring the assassination attempt aftermath, Ryan and Florence's emotional reconciliation, Florence's guilt about being a procurement tool, closet-hiding scenes, trembling confessions, fear of Eleanor, or the sisters Mina and Cora are referenced. Key participants: Ryan (trauma survivor, confessor), Florence (wife, guilt-ridden over arrangement, secretly loves Charlotte), Charlotte (background figure)."
 location: Claymore Manor
 scene_type: confession
 character_present:
