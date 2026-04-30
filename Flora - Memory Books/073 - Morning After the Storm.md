@@ -19,7 +19,7 @@ keys:
   - grounding
 position: after
 depth: 4
-summary: "**Context:** A quiet morning scene at Claymore Manor (June 19, 1843) following a storm.\\n**Trigger:** Select when the Hamilton siblings (Alec and Estra) have just woken up, highlighting their trauma recovery and establishing the setting.\\n**Key Relationships:** Ryan Adame is a supportive guardian figure; Alec is a protective, grounding brother; Estra is a recovering trauma survivor.\\n**Plot Point:** Establishes the trio's safety and begins their day planning to bake an apple pie to mark their recovery."
+summary: "Quiet morning recovery scene at Claymore Manor's West Wing Guest Room (June 19, 1843) where Ryan wakes and grounds the Hamilton siblings after a storm and monastery trauma. Select when depicting post-storm atmosphere, grounding rituals, the morning transition from trauma to routine, or the kitchen garden pie outing as a therapeutic anchor. Key participants: Ryan (guardian), Estra and Alec (trauma recovery), Charlotte (support). Tags: 62 degrees Fahrenheit, clear skies, monastery aftermath, grounding."
 location: Claymore Manor
 scene_type: recovery
 character_present:

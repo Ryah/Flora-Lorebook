@@ -17,7 +17,7 @@ keys:
   - long unbroken spiral
 position: after
 depth: 4
-summary: "**Summary:** A scene of domestic training and bonding in the Claymore Manor kitchen. Estra learns to peel apples under Alec and Mrs. Marie's guidance, achieving a personal milestone. Key relationships and character insights are revealed: Estra's growing comfort with Ryan (shown through physical contact), Alec declaring Ryan as family, and Florence revealing a household betting pool on Estra and Ryan's ongoing sparring rematch. **Select when:** referencing kitchen activities, apple peeling, character bonding, the Ryan/Estra dynamic, the household's betting, or Alec's views on patience and care."
+summary: "Domestic bonding scene in Claymore Manor's kitchen (1843) where Estra learns to peel apples under Alec and Mrs. Marie's guidance, achieving a personal milestone as her comfort with Ryan deepens. Select when depicting Estra's growing domestic ease, assassin's patience applied to mundane tasks, or Ryan/Estra trust development. Also relevant for rematch wagering banter. Key participants: Ryan (observer), Estra (milestone moment), Alec (instructor), Mrs. Marie (guide), Florence (present). Tags: long unbroken spiral, kitchen garden pie."
 location: Claymore Manor
 scene_type: recovery
 character_present:

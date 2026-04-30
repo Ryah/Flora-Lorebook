@@ -16,7 +16,7 @@ keys:
   - survivor's guilt
 position: after
 depth: 4
-summary: "AI Search Summary:\\n**Entry 059: Corridor Vigil** depicts a post-rescue scene at Claymore Manor (June 17, 1843) where Ryan Adame and Estra Hamilton tend to rescued boy Alec. **Select this** to depict recovery from trauma, trust-building after escape, or the dynamic between the wives and their husbands. **Key relationships** include Ryan as an emotional anchor, Estra as traumatized and hypervigilant, and Rachael as the maternal protector who facilitates the transition to rest. The entry focuses on emotional processing and the resolution of crisis."
+summary: "Post-rescue corridor vigil at Claymore Manor (June 17, 1843) where Ryan and Estra jointly tend to Alec during his recovery from Valheim imprisonment. Select when depicting dromamine withdrawal, blood vigil duties, survivor's guilt dialogue, sleep deprivation, or trust-building between Ryan and Estra. Key participants: Ryan (caretaker), Estra (vigil partner), Alec (recovering). Thematic tags: norse mythology references, Logan's Run, damp camisole, extraction aftermath."
 location: Claymore Manor
 scene_type: dialogue
 character_present:

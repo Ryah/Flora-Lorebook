@@ -17,7 +17,7 @@ keys:
   - Scattered Little Flock
 position: after
 depth: 4
-summary: "On June 18, 1843, the Claymore group holds a recovery luncheon post-extraction. Select when Estra seeks to prove herself against Florence. Key relationships: Rachael (maternal protector), Howard (paternal), Charlotte (romantic), Ryan (jester/ally). The event centers on a competitive eating wager (Estra vs. Florence) to prove superiority, with high emotional stakes for Alec."
+summary: "Post-extraction recovery luncheon at Claymore Manor (June 18, 1843) featuring the group sharing venison stew and honey cake, with Estra challenging Florence to a competitive eating wager. Select when depicting found-family bonding, recovery celebration, adoption paper discussions, or blood-sister dynamics. Key participants: Ryan (jester), Charlotte (romantic), Rachael (maternal), Howard (paternal), Estra and Florence (rivals), Alec (sibling). Tags: butter sculptures, scattered little flock, thick cushion."
 location: Claymore Manor
 scene_type: recovery
 character_present:

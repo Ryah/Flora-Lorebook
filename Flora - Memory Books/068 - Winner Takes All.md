@@ -18,7 +18,7 @@ keys:
   - front row seating
 position: after
 depth: 4
-summary: This entry details a high-stakes rematch challenge and wager between Ryan Adame and Estra Hamilton on June 18, 1843. Select it when the narrative involves **upcoming combat**, **household intrigue**, or **high-stakes negotiations**. Key relationships include **Charlotte Claymore** (organizer), **Howard Ragnar** (judge), and **Mina Adame** (trainer). The entry focuses on the \"winner takes all\" stipulations, including labor duties, training schedules, and a blood debt.
+summary: "High-stakes rematch challenge between Ryan Adame and Estra Hamilton at Claymore Manor's dining room (June 18, 1843), with Charlotte organizing terms involving Duranian fish market access and Ragnar rules. Select when depicting upcoming unarmed combat, household high-stakes wagers, blood debt resolution, or hostage-situation negotiations. Key participants: Ryan (challenger), Estra (responding), Charlotte (organizer). Tags: Alec Hamilton stakes, front row seating, Ragnar rules, Duranian fish market."
 location: Claymore Manor
 scene_type: negotiation
 character_present:

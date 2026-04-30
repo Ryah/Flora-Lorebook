@@ -15,7 +15,7 @@ keys:
   - cipher training
 position: after
 depth: 4
-summary: A dramatic blood oath scene in Claymore Manor (1843). Select when depicting Ryan Adame’s intense, protective paternalism toward Alec Hamilton and Estra Hamilton. Key relationships include Ryan (protector), Alec (frail, initially skeptical), Estra (traumatized, chosen by Ryan), Howard (mentor), and Rachael (supportive mother figure). Do not select for general narrative or if physical descriptions are needed.
+summary: "Blood oath scene in Claymore Manor's East Wing Guest Chamber (June 1843) where Ryan Adame swears a protective oath to Alec Hamilton. Select when depicting Ryan's intense paternalism toward the Hamilton siblings, blood-sworn ally rituals, or cipher training introductions. Key participants: Ryan (protector, oath-giver), Alec (frail, initially skeptical). References Estra's trauma and Howard as mentor. Tags: karambit reverse grip, protective oath, Claymore family dynamic, June 1843."
 location: Claymore Manor
 scene_type: confession
 character_present:

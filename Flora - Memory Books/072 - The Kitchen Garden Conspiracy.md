@@ -18,7 +18,7 @@ keys:
   - theatrical villain
 position: after
 depth: 4
-summary: "This is a pivotal memory where Alec and Estra secretly share their mother's forbidden apple pie recipe with Ryan. Select when characters discuss family history, recipes, or defying Loren's control. Key relationships: Alec/Estra's shared trauma, Ryan's integration into their trust, and their collective act of preserving memory against Loren. The \"Kitchen Garden Pie\" becomes a symbol of rebellion and healing."
+summary: "Conspiratorial scene in Claymore Manor's kitchen garden (1843) where Alec and Estra share their mother's forbidden apple pie recipe with Ryan, defying Loren's prohibition. Select when depicting family history secrets, recipe-based trust bonding, or defiance of Loren's control. Key participants: Ryan (trusted with the secret), Estra and Alec (sharing forbidden memory), Charlotte and Florence (peripheral). Tags: cinnamon secret, theatrical villain framing, evil master plan, mother's recipe."
 location: Claymore Manor
 scene_type: dialogue
 character_present:

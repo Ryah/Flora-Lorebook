@@ -17,7 +17,7 @@ keys:
   - Sion Quarter
 position: after
 depth: 4
-summary: 'This is a pivotal character moment for Estra, Alec, and Ryan, establishing their shared history and evolving bonds. Select when the AI needs to understand their past as fugitives, their current struggle to build a "civilized" life, or the symbolic significance of their rituals (like the cinnamon blessing). Key relationships are the protective sibling bond between Estra and Alec, and the developing trust and partnership between Estra and Ryan. The scene defines their core conflict: transitioning from survival to belonging.'
+summary: "Pivotal bonding scene at Claymore Manor (1843) establishing shared history between Ryan, Estra, and Alec as former Sion Quarter fugitives now building a civilized life together. Select when exploring the cinnamon blessing ritual, the three-taps gesture, survival-to-belonging themes, or the Hamilton siblings' past as survival stealers. Key participants: Ryan (anchor), Estra (transitioning from survival to trust), Alec (sibling witness), Florence (present). Tags: The Dragon's Apple Pie, Sion Quarter, civilized people."
 location: Claymore Manor
 scene_type: recovery
 character_present:

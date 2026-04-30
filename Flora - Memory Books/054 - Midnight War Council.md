@@ -19,7 +19,7 @@ keys:
   - triaadic marriage
 position: after
 depth: 4
-summary: "A 1843 intelligence briefing where the Hamilton trio (Ryan, Charlotte, Estra) learns Alec is imprisoned at a Valheim monastery. Select when the team plans a dawn extraction to exploit security gaps and a midnight window of vulnerability. Key relationships: Ryan (leader/sketcher), Charlotte (decisive), Florence (determined despite injury), Estra (source)."
+summary: "Midnight intelligence briefing in Claymore Manor's kitchen (1843) where Ryan, Charlotte, and Estra learn Alec Hamilton is imprisoned at a Valheim monastery. Select when planning a dawn extraction mission, discussing the seventeen-minute vulnerability window, Loren's communion schedule, or the chapel crypt entry point. Key participants: Ryan (leader, sketcher), Charlotte (decisive), Florence (support), Estra (intelligence source). Tags: Frostwater River, abandoned monastery, shattered mirror, blood vigil, war council."
 location: Claymore Manor
 scene_type: investigation
 character_present:

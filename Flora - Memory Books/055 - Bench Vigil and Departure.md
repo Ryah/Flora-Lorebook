@@ -18,7 +18,7 @@ keys:
   - Thomas Greaves
 position: after
 depth: 4
-summary: '**What is this?**\nA pre-mission vigil and extraction preparation scene for a rescue operation in 1843.\n\n**When should it be selected?**\nSelect during late-night planning or pre-departure preparations before a mission to Valheim Monastery.\n\n**Key relationships?**\n*   **Ryan Adame:** On sentry duty, sleeping on a bench to protect Charlotte and Florence.\n*   **Charlotte Claymore:** Leading the operation; warns the group she will leave anyone behind.\n*   **Estra Hamilton:** Reluctantly included as \"blood-sister\" for tactical knowledge of Alec and Loren.\n*   **Florence Claymore:** Conceals a splint'
+summary: "Pre-mission vigil at Claymore Manor (1843) where Ryan Adame keeps solitary watch on a hard oak bench before the Valheim monastery rescue. Select when depicting pre-departure tension, sentry duty, cold mist atmosphere, or Ryan's protective resolve before a dangerous operation. References Thomas Greaves and extraction team coordination. Key participants: Ryan (solo vigil, mission leader). Thematic tags: pre-mission dread, scar tissue, wool blanket, departure ritual."
 location: Claymore Manor
 scene_type: reflection
 character_present:

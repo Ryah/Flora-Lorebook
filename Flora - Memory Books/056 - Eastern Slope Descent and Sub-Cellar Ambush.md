@@ -18,7 +18,7 @@ keys:
   - Charlotte Claymore
 position: after
 depth: 4
-summary: "**Entry 056:** **Eastern Slope Descent and Sub-Cellar Ambush**\\n\\n**What is this?**\\nA historical narrative log detailing a rescue party's infiltration of Valheim Monastery via a drainage pipe, culminating in the first combat kills for Ryan Adame and Estra Hamilton.\\n\\n**When should it be selected?**\\nSelect this entry when the narrative requires establishing the group's infiltration of the monastery, the psychological toll of their first kills, or the dynamic between Ryan and Charlotte after violence.\\n\\n**Key Relationships?**\\n**Charlotte:** Rigid command, fearful of Ryan's instability and the group'"
+summary: "Combat infiltration at Valheim Monastery (pre-dawn, 1843) where the rescue party descends the Eastern Ridge scree slope and enters through a drainage pipe, culminating in first combat kills for Ryan and Estra. Select when depicting monastery infiltration, tactical disagreements, Valheimr patrol encounters, or first-kill thresholds. Key participants: Ryan (leader), Estra (first kill), Charlotte (support), Howard and Eva (flanking). Tags: splinted ankle, drainage pipe, sub-cellar ambush."
 location: Valheim Monastery
 scene_type: combat
 character_present:
