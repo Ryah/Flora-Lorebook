@@ -23,7 +23,7 @@ keys:
   - Silk sash
 position: after
 depth: 4
-summary: "This is a pivotal scene of psychological and sexual dominance within the triad (Charlotte, Ryan, Florence) at Claymore Manor. Select when referencing the group's power dynamics, Charlotte's sadistic training methods, or the moment Estra was forcibly integrated. Key relationships: Charlotte's dominance over Florence and Ryan; Ryan as the manipulative instigator; Estra's transition from observer to participant."
+summary: "A dominance and power-dynamic scene in Claymore Manor's Master Bedroom (June 20, 1843) where Charlotte Claymore reasserts hierarchy within the triad following a post-coital conflict and Florence's bite to her wrist. Select when referencing Charlotte's edging and orgasm-denial technique on Florence, Ryan (wrists bound by Estra) goading Charlotte by calling her soft, Florence begging for release and confessing she is owned, or the pivot to commanding Estra to release Ryan and surrender. Charlotte transitions Estra from armed observer to full triad participant. Key participants: Ryan Adame, Charlotte Claymore, Florence Claymore, Estra Hamilton."
 location: Claymore Manor
 scene_type: intimacy
 character_present:

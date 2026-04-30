@@ -20,7 +20,7 @@ keys:
   - Divine Blessing
 position: after
 depth: 4
-summary: This is a pivotal character moment for Estra Hamilton, revealing her core fear of conditional worth. It occurs during a private, vulnerable conversation with her fiancé Ryan Adame and the goddess Althena. Key relationships are Estra's bond with her protective brother Alec, her engagement to Ryan, and Althena's divine mentorship. Select when the narrative focuses on Estra's self-doubt, her relationship dynamics, or the immediate prelude to the war council against Loren Claymore. The entry establishes critical emotional context and character motivations.
+summary: "A private reassurance scene in Claymore Manor's Lord's Quarters Bathing Chamber (June 20, 1843, 12:53–1:12 PM) where Ryan comforts Estra Hamilton's fear of conditional worth in the presence of the goddess Althena. Select when referencing Estra's fear of uselessness without strength, Alec visiting Estra while she was unconscious after training, Althena's counsel that love is allowed not earned, Ryan calling Estra \"Estie\" and joking about Althena officiating for banner sponsorship, Mina's interruption for the war council, or Alec drawing escape routes in the Blue Drawing Room and whispering \"she came back.\" Key participants: Ryan Adame, Estra Hamilton, Althena, Mina Adame, Alec Hamilton."
 location: Claymore Manor
 scene_type: recovery
 character_present:

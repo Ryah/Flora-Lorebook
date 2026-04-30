@@ -26,7 +26,7 @@ keys:
   - beef stew
 position: after
 depth: 4
-summary: This is a lore entry documenting the immediate aftermath of a violent ritual (a "blood debt remittance") and the subsequent, emotionally charged acceptance of Estra Hamilton into the Adame/Claymore family. It should be selected when generating scenes involving family integration, post-conflict bonding, the group's dynamic after intense violence, or the specific cultural rituals of the Ragnar clan. Key relationships are Ryan Adame's new bond with Estra, the varied reactions of family members (Mina's fear, Cora's analysis, Florence's hysteria, Charlotte's controlled concern), and the overarching
+summary: "Post-rematch family integration scene in Claymore Manor's Eastern Courtyard and Dining Hall (June 19, 1843, ~6:15–6:45 PM), where Ryan Adame carries Estra Hamilton bridal-style into the household despite her assassin protests. Select when referencing the bridal carry, Howard's Ragnar blood-then-meat-then-mead ceremony, Florence's blue silk and ivory lace wedding dress plans, Charlotte's hypovolemia comment, Rachael toasting Ryan and Estra at the head table, or Alec asking if they get to stay forever. Mina hovers protectively; Cora calculates dropping probability; Mrs. Marie threatens rolling pins. Key participants: Ryan, Estra, Mina, Cora, Florence, Charlotte, Howard Blakeney Ragnar, Alec, Rachael Blakeney."
 location: Claymore Manor
 scene_type: recovery
 character_present:

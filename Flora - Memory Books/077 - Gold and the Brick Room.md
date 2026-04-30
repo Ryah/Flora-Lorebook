@@ -24,7 +24,7 @@ keys:
   - Countess Charlotte
 position: after
 depth: 4
-summary: "This is a pivotal character moment between Ryan Adame and maid Claire Whitehill, set just before Ryan's rematch with Estra Hamilton. It reveals Ryan's traumatic past in the \"brick room\" and his plan to use the fight to help Estra. He gives Claire a large sum of gold for her family. Claire accepts on the condition he wins, and vows to stand by him regardless of the fight's brutality, challenging his self-view. Select when discussing Ryan's trauma, his relationship with Claire or Estra, his motivations for the fight, or the gold's significance. Key relationships: Ryan, Claire, Estra Hamilton, Co"
+summary: "A private confession scene between Ryan Adame and maid Claire Whitehill in Claymore Manor's Master Suite (June 19, 1843, 9:42–9:55 AM), following stitch removal from Ryan's healed back wound. Select when referencing the fifty-eight gold gift, Claire's family backstory (mill accident, father's amputation, sister's bookkeeper education), the brick room trauma persona, Ryan's pre-fight psychological preparation, or his motivation to give Estra permission to remove her own mask. Ryan warns Claire he must mentally regress to a primal state; Claire vows to call him by name regardless of what emerges. Key participants: Ryan Adame, Claire Whitehill."
 location: Claymore Manor
 scene_type: confession
 character_present:

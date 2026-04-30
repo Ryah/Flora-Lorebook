@@ -18,7 +18,7 @@ keys:
   - interrogation
 position: after
 depth: 4
-summary: "**Summary:** A divine ritual (Sacred Bond Consecration) formed through intense intimacy and Althena's intervention. It creates an empathic and sensory link between Ryan Adame and Charlotte Claymore. **Select when:** referencing their deep emotional/psychic connection, combat synchronization, or divine blessings on their relationship. **Key relationships:** Bond between Ryan and Charlotte; orchestrated/granted by the goddess Althena."
+summary: "An intimate BDSM and divine bonding scene in Claymore Manor's Lord's Quarters (June 20, 1843, 4:05–7:35 PM) where Charlotte Claymore dominates Ryan Adame using silk wrist cords and hemp ankle ropes, culminating in Althena consecrating a Sacred Bond that shares emotions and sensations between them. Select when referencing the safeword \"silver,\" Charlotte binding Ryan spread-eagle, the bite-mark silver light and sensory link activation, Charlotte moved by Ryan's sleep-talk about colors and safety, Althena's bell system for divine requests, or the 10 PM church gathering countdown. Althena observes from the adjacent bathroom throughout. Key participants: Ryan Adame, Charlotte Claymore, Althena."
 location: Claymore Manor
 scene_type: consummation
 character_present:

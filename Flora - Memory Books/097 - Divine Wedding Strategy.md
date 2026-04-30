@@ -18,7 +18,7 @@ keys:
   - Blue Silk Wedding Dress
 position: after
 depth: 4
-summary: This is a strategic plan (the "Divine Wedding Strategy") devised during a crisis meeting at Claymore Manor. It should be selected when the narrative involves the characters' tactical planning, the integration of the wedding into their defense, or the handling of the prisoner Priti. Key relationships include Ryan Adame's protective leadership, Charlotte Claymore's tactical approval, William Adame's emotional return, and the group's shift from skepticism to utilizing divine intervention (Althena's involvement) and Priti's potential as a double agent against the antagonist Loren.
+summary: "A strategic planning session in Claymore Manor's Blue Drawing Room (June 20, 1843, 1:08–2:05 PM) where Ryan reveals Althena will officiate the wedding as cover for the defense plan against Loren's midnight assault. Select when referencing the Divine Wedding Strategy, William walking Estra down the aisle as a public survival reveal, Alec as ring bearer with Florence's blue dragon-embroidered pillow, the 10 PM church gathering as evacuation cover via north tower tunnel, Priti's dead drop at the thornless pink rose bush, or Cornelia confined in the west solarium. Ryan comforts Priti with food and sympathy; group prepares counter-deception. Key participants: Ryan, Charlotte, Florence, Estra, William, Alec, Mina, Cora, Priti, Howard, Rachael."
 location: Claymore Manor
 scene_type: negotiation
 character_present:

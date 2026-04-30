@@ -21,7 +21,7 @@ keys:
   - regression
 position: after
 depth: 4
-summary: "This is a coded communication protocol between Ryan Adame and his sister Mina, used to signal his psychological preparation for a combat rematch. It should be selected when discussing Ryan's pre-fight rituals, his trauma (\"brick room\" persona), or his relationship with Mina and Estra Hamilton. Key relationships: Mina acts as Ryan's translator and failsafe; Estra is the trusted opponent who understands his vulnerability. The code conveys Ryan's intent to regress, his trust in Estra, and a declaration of love."
+summary: "A coded pre-fight ritual between Ryan Adame and Mina Adame in Claymore Manor's Eastern Courtyard (June 19, 1843, ~4:47–6:00 PM), signaling Ryan's psychological regression into the brick room persona before the rematch with Estra Hamilton. Select when referencing the bread-in-the-oven failsafe metaphor language, Mina's translator and stop-signal role, Ryan's love declaration encoded through cold-water and lantern metaphors, Estra accepting the role of \"wall\" to catch him, or the record-setting 300+ gold betting pool. Mina translates: Ryan trusts Estra completely and is drowning under psychological weight. Key participants: Ryan Adame, Mina Adame, Estra Hamilton."
 location: Claymore Manor
 scene_type: training
 character_present:

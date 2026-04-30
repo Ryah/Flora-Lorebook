@@ -21,7 +21,7 @@ keys:
   - vulnerability
 position: after
 depth: 4
-summary: "**Entry 082: Bath Confessions (June 19, 1843)**\\n\\nA post-fight intimacy scene between Ryan Adame and Estra Hamilton at Claymore Manor. Select this when depicting the aftermath of their blood debt rematch, their relationship deepening through vulnerability and shared trauma. Key relationships: Romantic (intended marriage), Frenemies (mutual respect, holding back during fights)."
+summary: "A post-fight intimate scene between Ryan Adame and Estra Hamilton in Claymore Manor's Lord's Bath (June 19, 1843, 7:25–7:35 PM), following their blood debt rematch. Select when referencing Estra's confession about holding back from hurting him, her blue silk dress choice as something solid and steady, Ryan's marriage intention, Estra's scar map and history as Loren's weapon, or her request to be claimed rather than healed. Both undress bearing injuries; Ryan calls her beautiful; Estra confesses her past as a killer and her desire to be worth keeping. Key participants: Ryan Adame, Estra Hamilton."
 location: Claymore Manor
 scene_type: intimacy
 character_present:

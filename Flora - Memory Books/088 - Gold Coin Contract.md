@@ -17,7 +17,7 @@ keys:
   - Claymore Manor
 position: after
 depth: 4
-summary: A pre-ceremony ritual at Claymore Manor where Ryan Adame seals a modified contract with Alec Hamilton. Select when Alec offers his \"pocket nife\" for protection. Key relationships involve Ryan (lender), Alec (borrower), and Estra (witness). Crucially, the contract's modification (500-year loan) resolves the Oracle's conflict regarding Estra's status as wife vs. sister.
+summary: "A pre-ceremony bonding ritual in Claymore Manor's Small Sitting Room (June 20, 1843, 9:12 AM) where Ryan amends Alec Hamilton's crayon \"pocket nife\" protection offer into a 500-year, 0% interest loan sealed by a single gold coin. Select when referencing Alec's protection contract, the crayon-to-charcoal amendment, Ryan signing the modified document, the gold coin seal, or the Oracle's dual-designation challenge in the Blue Drawing Room where Estra must assert she is wife by oath not merely protective sister by blood. Estra and Claire are visibly moved; Alec's guarded demeanor relaxes. Key participants: Ryan Adame, Alec Hamilton, Estra Hamilton, Claire Whitehill."
 location: Claymore Manor
 scene_type: dialogue
 character_present:

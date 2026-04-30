@@ -16,7 +16,7 @@ keys:
   - Extraction at midnight
 position: after
 depth: 4
-summary: "**Summary:**\\nEntry 090 covers the Tuesday, June 20, 1843 event where Ryan Adame reveals he is the Divine Vessel, divinely blessed by Althena. Select this when the narrative reaches Ryan's public disclosure of his divinity or when the wives and enemies react to the goddess's physical manifestation. Key relationships include Ryan (Vessel), Althena (Manifestor), and the Claymore wives (Charlotte, Florence, Eva, Mina)."
+summary: "A short revelation scene in Claymore Manor's hallway (June 20, 1843, 9:32 AM) where Ryan Adame publicly discloses his Divine Vessel status to his wives and Eva Riensdauter following Althena's physical manifestation. Select when referencing Ryan's monologue about rain falling upward and the marriage contract being rewritten in gold, his kidnapped Duran Prince identity revelation, or the white parley banner riders bearing Crown Princess colors demanding to speak to the Divine Vessel. Eva identifies the riders; the wives rally in protective formation around Ryan. Key participants: Ryan Adame, Eva Riensdauter, Charlotte Claymore, Mina Adame, Estra Hamilton, Florence Claymore, Crown Princess Cornelia vi Relani."
 location: Claymore Manor
 scene_type: revelation
 character_present:

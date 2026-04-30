@@ -23,7 +23,7 @@ keys:
   - invisible waiting
 position: after
 depth: 4
-summary: "Entry 079: A pivotal conversation between Ryan Adame and Estra Hamilton in Claymore Manor's Master Suite (June 19, 1843, 3:15-3:35 PM). Select this entry when depicting a character breakdown where two combat partners transition from enemies to equals, specifically to explore the psychological impact of mutual trauma and the decision to accept intimacy despite an impending lethal duel. Key relationships include Ryan and Estra (partners and lovers), Ryan and Alec (protector/protégé), and Mina (co-trainer). The entry establishes that Ryan's protection of Alec was planned long before Estra's debt,"
+summary: "A pivotal pre-fight confession between Ryan Adame and Estra Hamilton in Claymore Manor's Master Suite (June 19, 1843, 3:15–3:35 PM), where Ryan reveals he always planned to train Alec in self-defense independent of the blood debt. Select when referencing Ryan and Estra's shift from enemies to equals, the monastery ambush memory, the scarred-palm blood vigil gesture, Estra's difficulty accepting care without price, or the 50-50 pre-fight psychological dynamic. Ryan names Estra his wife and partner; Estra slowly accepts his hand and agrees to learn how to be cared for. Key participants: Ryan Adame, Estra Hamilton; Alec Hamilton and Mina Adame referenced."
 location: Claymore Manor
 scene_type: confession
 character_present:

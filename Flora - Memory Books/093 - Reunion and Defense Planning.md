@@ -20,7 +20,7 @@ keys:
   - Amber Isles
 position: after
 depth: 4
-summary: "This is a pivotal family and tactical planning session in Claymore Manor. Select when referencing the Adame family's response to the Loren threat, their escape planning, or William's hidden intelligence. Key elements: William reveals secret escape tunnels; tasks are assigned for defense; Charlotte shows her long-term contingency plans. Central relationships: Ryan, William, and Charlotte's alliance; Estra's protective suspicion; the family uniting against Loren."
+summary: "A combined family reunion and tactical planning session in Claymore Manor's War Room and North Tower Secret Room (June 20, 1843, 11:12–11:40 AM) where William Adame presents three charcoal-mapped escape tunnels and Charlotte reveals her twelve-year private defense project. Select when referencing the tunnel routes (wine cellar to smuggler's cove, north garden to Briarhaven, north tower to Amber Isles path), Charlotte's secret room with thread-mapped manor model, task assignments for midnight defense, Estra's protective suspicion of William, Ryan defending his father's hidden survival, or Alec and Estra's arrival for William's introduction. Key participants: Ryan, Charlotte, Florence, Estra, William, Howard, Rachael, Alec, Cornelia."
 location: Claymore Manor
 scene_type: investigation
 character_present:

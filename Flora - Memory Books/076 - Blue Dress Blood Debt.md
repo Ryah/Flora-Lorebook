@@ -17,7 +17,7 @@ keys:
   - sky after storm
 position: after
 depth: 4
-summary: "This is a blood debt contract signing between Ryan Adame and Estra Hamilton, setting the terms for a 6 PM rematch. Select when referencing the wager, the match rules, or the characters' psychological stakes. Key relationships: Ryan and Estra's pact of mutual witness; Howard as rule-setter; Mina as witness; group betting pool. It establishes the match's legal and emotional framework."
+summary: "A blood debt contract signing between Ryan Adame and Estra Hamilton in Claymore Manor's dining room (June 19, 1843, 9:05–9:20 AM), establishing a 6 PM rematch under Ragnar rules. Select when referencing the wager terms, match rules, betting pool odds, Estie nickname first use, or the \"sky after storm\" blue dress significance. Howard Blakeney Ragnar sets combat parameters; Charlotte seals the parchment with blue wax; Mina declares herself witness not seconds. A household betting pool forms among Rachael, Florence, Ryan, and Alec. Key participants: Ryan Adame, Estra Hamilton, Howard Blakeney Ragnar, Charlotte Claymore, Mina Adame."
 location: Claymore Manor
 scene_type: negotiation
 character_present:

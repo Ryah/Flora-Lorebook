@@ -22,7 +22,7 @@ keys:
   - Amber Isles
 position: after
 depth: 4
-summary: Entry 094 is a strategic meeting on June 20, 1843, where William Adame reveals Vanessa’s weakness (her lost twin) and proposes a plan to use a religious gathering to contact her. Select when the group is planning to exploit Vanessa to counter Loren's upcoming midnight assault. Key relationships include Ryan and Charlotte's partnership, William’s re-emergence, and Mina's tension with him.
+summary: "A strategic debrief in Claymore Manor's North Tower Secret Room and War Room (June 20, 1843, 11:45 AM–12:15 PM) where William Adame reveals Vanessa's critical weakness—her lost twin Ethan taken by Valheimr raiders—and the group plans to exploit the 10 PM religious gathering to contact her safely. Select when referencing Vanessa's Ethan vulnerability, the 10 PM gathering rendezvous, Howard's armed-pilgrim crowd cover, Cornelia's unarmed attendance offer, Charlotte's breakdown confession in the secret room, evacuation routes through tunnels to Briarhaven docks, or Mina's tension with William. Key participants: Ryan, Charlotte, William Adame, Mina, Howard Blakeney Ragnar, Cornelia vi Relani, Florence, Estra."
 location: Claymore Manor
 scene_type: investigation
 character_present:
