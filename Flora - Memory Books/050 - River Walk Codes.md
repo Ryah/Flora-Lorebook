@@ -17,7 +17,7 @@ keys:
   - loren claymore
 position: after
 depth: 4
-summary: "Cryptographic code created by Cora Adame for ambiguous communication. Select when the group needs to convey specific hidden meanings in public or during tense exchanges. Key relationships: Ryan Adame (creator's brother), Estra Hamilton (user), Loren Claymore (threat). Confirms Estra's defection and impending rescue timeline for Alec."
+summary: "An alliance and escape scene at the River Walk Embarcadère and Claymore Manor (June 16, 1843, evening) where Ryan shares Cora's doublespeak code with Estra, recounts the wine cellar ice manifestation, and the pair flee paramilitary agents through a stew shop before returning to find Charlotte threatening Estra—and the family using live doublespeak to confirm unity and threat levels. Select when: the doublespeak code phrases ("bread is fresh," "water is clear," "kitchen is crowded"), Estra's formal defection, the paramilitary ambush, Loren's Sanctum Matrice operatives, the 11-day Alec deadline, or the accelerated midnight wedding are referenced. Key participants: Ryan (code-sharer), Estra (defector), Charlotte (threatening), Mina/Cora (live code users), Rachael (enforcer). Tags: doublespeak code, Embarcadère, stew shop escape, paramilitary agents, midnight wedding, karambit courtyard training, Althena Oracle, 20-day countdown."
 location: Tor Veiloth
 scene_type: investigation
 character_present:

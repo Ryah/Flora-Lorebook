@@ -19,7 +19,7 @@ keys:
   - Lord's Quarters
 position: after
 depth: 4
-summary: This entry details Ryan Adame's emotional breakdown and subsequent private conversation with the goddess Althena. It should be selected when referencing Ryan's trauma, his role as a Divine Vessel, Althena's true teachings, or the strategic advice for the coming conflict. Key relationships are Ryan's connection to Althena and his wives (Charlotte, Florence), with Estra Hamilton as an unintended witness.
+summary: "A two-part scene at Claymore Manor (June 20, 1843, 12:18–12:55 PM): Ryan Adame's existential breakdown at lunch followed by private counsel from the goddess Althena in the Lord's Bath copper tub. Select when referencing Ryan's emotional collapse over his Divine Vessel burden and violated physical laws, Althena's counsel on surviving Loren through unpredictable human chaos, her clarification that her true teachings are partnership not female supremacy, her odds assessment that Loren's preparation favors her but Ryan's gathered souls are strong, or Estra secretly listening outside the door. Key participants: Ryan Adame, Althena, Estra Hamilton (witness), Charlotte Claymore, Florence Claymore, Crown Princess Cornelia vi Relani."
 location: Claymore Manor
 scene_type: intimacy
 character_present:

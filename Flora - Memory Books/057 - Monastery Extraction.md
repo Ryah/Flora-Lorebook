@@ -20,7 +20,7 @@ keys:
   - splinted ankle
 position: after
 depth: 4
-summary: "**Summary:**\\nThis entry depicts the 1843 monastery extraction of Ryan Adame's group, featuring Charlotte Claymore’s psychological regression and Florence’s injury. Select it when the AI needs to show the resolution of a chase sequence, the arrival at safety, or the group's emotional/physical recovery. Key relationships include Ryan as the protector and Florence as the injured, competitive ally. Do not select for atmospheric descriptions of the shaft, but for the arrival at Claymore Manor and the revelation that Loren orchestrated the trap."
+summary: "Extraction sequence at Valheim Monastery (1843) where the rescue party escapes via the escape shaft to a coastal ridge and longship, complicated by Charlotte's psychological regression and Florence's injury. Select when depicting chase resolution, Charlotte's fragmented mental state, or post-extraction emotional and physical recovery. Key participants: Ryan, Charlotte (regression), Alec (rescued), Howard, Florence (injured), Estra, Eva. Tags: Loren pursuit, dagger strike, splinted ankle, longship."
 location: Valheim Monastery
 scene_type: recovery
 character_present:

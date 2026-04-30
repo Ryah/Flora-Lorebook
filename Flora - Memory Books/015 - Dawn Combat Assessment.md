@@ -19,7 +19,7 @@ keys:
   - suicidal ideation history
 position: after
 depth: 4
-summary: "**Search Summary:**\\n\\nA combat assessment of Ryan and Florence in June 1843. Select when Ryan and Florence are assigned to an extraction team or when evaluating their combat synergy and readiness. Key relationships: Eva (Captain, skeptic), Ryan (excellent footwork, superior unarmed combat), Florence (Ragnar temper, reckless aggression), Howard (father, previously assessed). Eva approves them for the mission but notes Ryan's telegraphing and Florence's defensive gaps."
+summary: "Captain Eva Riensdauter conducts a full combat assessment of Ryan and Florence at Claymore Manor in June 1843, evaluating their mission readiness for the Amber Isles extraction. Select when Ryan and Florence are being assigned to an extraction team, their combat synergy is evaluated, Eva's professional skepticism is relevant, unarmed combat demonstrations or darkness and confined-space training occur, or Mina's techniques are discussed. Key participants: Eva Riensdauter (Captain, assessor), Ryan (superior unarmed combat, excellent footwork, telegraphing flaw), Florence (Ragnar temper, reckless aggression, defensive gaps), Howard (father, previously assessed)."
 location: Claymore Manor
 scene_type: training
 character_present:

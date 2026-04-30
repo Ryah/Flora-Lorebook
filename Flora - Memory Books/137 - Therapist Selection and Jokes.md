@@ -22,7 +22,7 @@ character_present:
   - Charlotte
   - Florence
   - Claire
-summary: ""
+summary: "Therapist assignment finalization and humorous intake document scene in the East Sitting Room of the Palace of Loth Logan, June 22, 1843 at 12:42-12:52 PM. Select when: therapist assignments or candidates are discussed; Charlotte admits needing her own therapy; Claire's Therapist Intake Supplement for Ryan (divine vessel, triadic marriage, brick room) is referenced; Ryan adds the null state as a therapist candidate; or post-ordeal wind-down and sleep scheduling are relevant. Key participants: Ryan (jokes about Althena as therapist, adds \"Null State Abyss\" to chart, heads to nap at 5 PM), Charlotte (finalizes three therapist assignments, admits needing Lady Keane, snaps portfolio shut), Florence (celebrates Charlotte's admission, declares best family), Claire (drafts humorous intake supplement, drafts formal void inquiry), Estra (sets 5 PM wake for Ryan)."
 ---
 
 # 137 - Therapist Selection and Jokes

@@ -12,7 +12,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Harriet Walker** is a young, prodigious Huntress from the Walker family line on Andrea's Cross. She is defined by her supernatural tracking gifts, outwardly confident and boy-crazy personality, but inwardly driven by insecurity and pressure to match her mother's and grandmother's legendary status.\n\n**Select this entry** when a character is a Floran Human female (late teens/early 20s) from Andrea's Cross, is a Huntress or bounty hunter, or when the narrative involves tracking, proving oneself in a legacy family, or Crossgal culture dynamics.\n\n**Key relationships:** Walker family matriarchs (mother, grandmother) as legacy benchmarks; likely has a brother whose experience she sometimes overrules. Rooted in Andrea's Cross traditions and the Huntress code."
+summary: "Harriet Walker is a young, prodigiously gifted Huntress from Andrea's Cross — outwardly confident and boy-crazy, inwardly driven by insecurity and pressure to equal her mother's and grandmother's legendary status in the Walker family line. Select when: scenes involve a Huntress or bounty hunter from Andrea's Cross, supernatural tracking gifts, proving oneself within a legacy family, or Crossgal culture dynamics. Key relationships: Walker family matriarchs (mother and grandmother as the legacy benchmarks she measures herself against); Darren Walker (brother, whom she outranks and sometimes overrules despite his greater experience)."
 ---
 
 # Characters - Harriet Walker

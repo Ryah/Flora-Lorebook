@@ -12,7 +12,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**What is this:** Eva Riensdauter is the Captain of the Claymore Manor Guard, a career military officer appointed by Charlotte. She embodies strict discipline, procedure, and traditional military honor, serving as the professional, \"by-the-book\" commander of the household’s formal guard force.\n\n**When to select:** Select this entry when the story involves formal military operations, discipline disputes, command hierarchy within the manor, or interactions where professional protocol clashes with unorthodox methods. Also select when themes of duty, honor, or institutional authority arise.\n\n**Key relationships:** Appointed by and loyal to **Charlotte** (Matriarch). Direct professional rival to **James Mallory**, whose chaotic but effective militia command she disapproves of. Their friction is secretly fueled by mutual, begrudging attraction."
+summary: "Eva Riensdauter is the Captain of the Claymore Manor Guard — a career military officer appointed by Charlotte who embodies strict discipline, chain of command, and institutional honor as the commander of the household's formal defense force. Select when: scenes involve formal military operations, command hierarchy disputes within the manor, discipline clashes, or friction between procedure and unorthodox methods. Key relationships: Charlotte (appointing authority and primary loyalty); James Mallory (direct professional rival whose chaotic but effective militia command she disapproves of — their friction is privately fueled by mutual, begrudging attraction)."
 ---
 
 # Characters - Eva Riensdauter

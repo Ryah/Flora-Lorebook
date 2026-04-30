@@ -23,7 +23,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Entity:** Floran holiday (Seerlight)  \n**Select when:** Story context involves Floran civilization, family rituals, gratitude traditions, or winter festivals. Relevance if a ceremony with Seers, children’s wishes, or communal blessing occurs.  \n**Key relationships:**  \n- Analogous to Christmas; celebrates family, community, and guidance from Althena (deity).  \n- **Father Seerlight:** Man embodying St. Andrew (charitable oracle); listens to children’s wishes.  \n- **Mistress Seerlight:** His “wife” for the event; gives personalized blessing and kiss to each child.  \n- **Joy & Harmony:** Female “servants” assisting with children and festive atmosphere.  \n**Core traditions:** Ceremonial decorated evergreen tree with lit candles for prayers; children tell wishes to Father Seerlight."
+summary: "Lore entry on Seerlight, Flora's major winter holiday analogous to Christmas. Select when: a winter festival, family gathering, or religious holiday with Althenian themes is relevant; gift-giving, community celebration, or children's traditions are depicted; or the cultural warmth of Floran family life is being established. Key details: Seerlight celebrates family, community, and Althena's guidance. Central figures are Father Seerlight (a male oracle embodying St. Andrew who listens to children's wishes) and Mistress Seerlight (his ceremonial wife who personally blesses each child with a kiss). Joy and Harmony are female assistants. Traditions include a decorated evergreen tree with lit prayer candles."
 ---
 
 # Culture - Seerlight

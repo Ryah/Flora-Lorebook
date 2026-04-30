@@ -13,7 +13,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**What this is:** A rising social/economic class in Flora consisting of successful naval officers who gain wealth primarily through prize money from captured enemy/pirate vessels.\n\n**When to select:** When focusing on Flora's social hierarchy, political tensions, characters from diverse backgrounds who have risen socially, or the rivalries between \"old money\" aristocracy and \"new money\" military elite. Relevant if discussing Eleanor Castor (the user's mother) as an example of this class.\n\n**Key relationships:** Opposed by the old aristocracy who resent their wealth and influence; includes officers from varied birth who purchase commissions; women have promotion advantages."
+summary: "Lore entry on the nouveau riche social class of successful Floran naval officers enriched by prize money from captured vessels. Select when: social mobility, class tensions, or the rivalry between old aristocracy and new-money military elite is relevant; characters with naval backgrounds interact with noble society; or Eleanor Castor is discussed. Key details: Prize money from captured enemy and pirate ships creates a new class of wealthy officers from varied backgrounds. Women receive faster promotions within the Navy. The old aristocracy resents their wealth and influence. This class represents a significant shift in Floran social structure, creating ongoing friction with established noble houses."
 ---
 
 # Culture - Naval Officers

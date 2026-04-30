@@ -16,7 +16,7 @@ keys:
   - fainting spell
 position: after
 depth: 4
-summary: "**Summary:**\\nThis entry depicts the immediate aftermath of Alec Hamilton's rescue on June 17, 1843. It should be selected to simulate post-extraction care, resource distribution, and the emotional aftermath for the rescued and rescuers. Key relationships include Ryan Adame caring for his sisters (Mina, Cora) and Charlotte Claymore; Florence Claymore recovering from a leg injury; and Estra Hamilton's tense but cooperative arrival. The narrative establishes Loren Claymore's presence and the return of the Adame sisters, who inspect Ryan's spinal injury."
+summary: "Immediate post-extraction scene at Claymore Manor (June 17, 1843) following Alec Hamilton's rescue from Valheim. Select when depicting exhausted reunions, physician Mercer's triage, resource distribution after a mission, or Charlotte's fainting spell. Key participants: Ryan (caretaker), Charlotte (recovering), Alec (rescued, weak), Estra (relieved), Howard (coordinating), Florence (injured), Eva. Tags: linen ankle splint, burgundy riding habit, post-rescue triage."
 location: Claymore Manor
 scene_type: recovery
 character_present:

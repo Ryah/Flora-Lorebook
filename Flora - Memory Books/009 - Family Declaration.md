@@ -16,7 +16,7 @@ keys:
   - Charlotte
 position: after
 depth: 4
-summary: "**What is this:** A pivotal emotional scene where Ryan declares Florence \\\"family\\\" despite knowing her briefly and her role in his procurement, validating her insecurity about being merely a tool.\\n\\n**When to select:** Use when Florence expresses insecurity about her value or when Ryan and Florence deepen their emotional bond; specifically during or after the extraction mission planning.\\n\\n**Key relationships:** Florence Claymore and Ryan. Clarifies Florence's role as the emotional anchor/homemaker in contrast to Charlotte (confidant), Rachael (protector), and Howard (instructor)."
+summary: "Ryan declares Florence \"family\" in an oak-paneled corridor at Claymore Manor, directly validating her fear of being merely a transactional tool in their arranged marriage, June 1843. Select when Florence expresses insecurity about her value or role, Ryan and Florence deepen their emotional bond, the silver locket is present, family roles within the group are being defined, or the scene follows extraction mission planning. Key participants: Ryan (emotional declarer, family builder), Florence (emotional anchor, fears being a tool, homemaker role), Charlotte (confidant, contrasting role), Rachael (protector role), Howard (instructor role)."
 location: Claymore Manor
 scene_type: confession
 character_present:

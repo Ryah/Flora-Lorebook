@@ -14,7 +14,7 @@ keys:
   - Tuesday sensitivity
 position: after
 depth: 4
-summary: This is a lore entry detailing the final pre-wedding preparations for Ryan and Charlotte's wedding at Claymore Manor. It should be selected when the narrative involves the immediate lead-up to the ceremony, the dynamics between the central trio (Ryan, Charlotte, Althena), or the activation of their new Sacred Bond. Key relationships are the playful, contractual marriage bond between Ryan and Charlotte, Althena's role as an observer and officiant, and Florence's involvement in the preparations. The entry establishes character dynamics, legalistic intimacy, and tactical planning for the upcoming
+summary: "Final pre-wedding preparations in Claymore Manor's Lord's Quarters and East Wing (June 20, 1843, 7:30–8:40 PM) with 85 minutes until church elders arrive. Select when referencing Ryan exploiting Article 3 marriage contract autonomy to tease Charlotte via their Sacred Bond, Charlotte's \"Tuesday sensitivity\" snort vulnerability, Althena manifesting as golden radiance rather than fabric to officiate, Estra's panic about fighting in the blue dress, Alec's hand-carved wooden ring gift, or Charlotte feeling Ryan's affection for Estra through the bond. Florence relays Althena's agreement to officiate; Howard, Mina, and Rachael coordinate hall security. Key participants: Ryan, Charlotte, Florence, Estra, Alec, Althena, Howard, Mina, Rachael."
 location: Claymore Manor
 scene_type: dialogue
 character_present:

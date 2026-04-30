@@ -18,7 +18,7 @@ keys:
   - chariot carriage
 position: after
 depth: 4
-summary: This entry details a pre-mission briefing on June 15, 1843. It should be selected when preparing for the rescue mission to the Amber Isles. Key relationships include Ryan (patient), Mercer (clinician), Charlotte (mission planner), Florence (companion), and Howard (tactical advisor). The scene covers medical restrictions, sister Mina's combat capabilities, and a mole alert.
+summary: "Doctor Thaddeus Mercer grants Ryan conditional medical clearance for the Amber Isles extraction at Claymore Manor on June 15, 1843, noting a tissue regeneration anomaly and rotational torque restriction. Select when Ryan needs pre-mission medical approval, tissue regeneration anomaly is discussed, the nine-thirty departure is referenced, Mina's combat capabilities are assessed, or a mole alert within Claymore Manor is relevant. Key participants: Ryan (patient, conditionally cleared), Mercer (clinician), Charlotte (mission planner), Florence (companion), Howard (tactical advisor)."
 location: Claymore Manor
 scene_type: recovery
 character_present:

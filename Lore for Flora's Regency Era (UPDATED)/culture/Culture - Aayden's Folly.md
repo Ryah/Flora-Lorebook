@@ -13,7 +13,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "A disastrous military campaign in Flora's history, now a cultural symbol of male incompetence. Select this entry when discussing Flora’s history, gender politics, or current political tensions. Key relationships: Crown Prince Aayden (leader, died), Princess Cornelia (avenger). The Matriarchs sabotage the campaign for power."
+summary: "Lore entry covering Aayden's Folly, a catastrophic military campaign that became a cultural touchstone for Floran gender politics. Select when: discussing Flora's history, the origins of female supremacy, the political rise of the Matriarchs, or male incompetence as a cultural narrative. Key details: Crown Prince Aayden led the campaign and died; Princess Cornelia later avenged him; the Matriarchs deliberately sabotaged the campaign to consolidate power; the disaster is now used as propaganda to justify female leadership and dismiss male political ambitions."
 ---
 
 # Culture - Aayden's Folly

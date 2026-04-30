@@ -17,7 +17,7 @@ keys:
   - Guardian dragons
 position: after
 depth: 4
-summary: "**AI Search Summary:** This is a key character moment for Charlotte Claymore, Ryan Adame, and Florence Claymore, establishing their intimate support dynamic. Select when referencing Charlotte's trauma, dissociation, or vulnerability; Ryan's protective devotion and physical comfort; Florence's nurturing role; or the group's collective grounding. Central relationships are Ryan/Charlotte's anchoring bond, Florence's maternal presence, and the group's shared, fragile safety."
+summary: "A grounding and recovery scene in Claymore Manor's parlor (June 19, 1843, ~8:30 PM) where Charlotte Claymore suffers a dissociation episode triggered by a fire-related sound and Ryan Adame anchors her by sitting in her lap. Select when referencing Charlotte's fire-pop dissociation trigger, Ryan's physical weight-and-touch grounding method, the protective triangle formed by Ryan and Florence, Charlotte allowing herself to feel safe for the first time, or Estra quietly joining the circle on the floor after putting Alec to bed. Alec's guardian-dragon drawings noted. Key participants: Ryan Adame, Charlotte Claymore, Florence Claymore, Estra Hamilton."
 location: Claymore Manor
 scene_type: recovery
 character_present:

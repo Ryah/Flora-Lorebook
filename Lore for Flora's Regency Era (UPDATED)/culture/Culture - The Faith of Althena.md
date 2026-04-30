@@ -14,8 +14,7 @@ keys:
 position: after
 depth: 4
 scanDepth: 1
-summary: |-
-  **What it is:** The central religion of Flora, based on worship of the Mother Goddess Althena. It establishes a female-led society where women lead due to inherent empathy, and men have a sacred duty to support and protect.
+summary: "Lore entry on the Faith of Althena, the central religion of Flora. Select when: any scene involves Flora's laws, gender roles, family structures, religious ceremonies, oracles, or theological debate. Key details: Althena is the Mother Goddess; her faith establishes women as natural leaders due to inherent empathy, and men have a sacred duty to support and protect their families. The entire legal and social framework of Flora derives from her teachings as revealed by prophet Jonathan Harper. Doctrine includes a mysterious unnamed divine warrior consort. The church depicts Althena as a gentle pregnant housewife; the aristocracy views her as a distant queen. Her will is interpreted by male oracles called Seers."
 
   **When selected:** Any scene involving Flora's laws, gender roles, family structures, religious ceremonies, or oracles (Seers). Also when characters discuss divine feminine worship, marriage/household duties, or the prophet Jonathan Harper.
 

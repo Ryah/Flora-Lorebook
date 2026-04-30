@@ -13,7 +13,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Culture - Rape of Domremy**: A historic massacre 20 years ago in the town of Domremy, Amaran. Skaagi forces committed mass atrocities (skull-piling, rape, impalement) as a terror tactic, exploiting Floran naval unpreparedness. **Select** when discussing: modern Floran politics, Imperialist faction origins, Floran militarization, Floran-Duran hostility, or female supremacist ideology. **Key relationships**: Catalyst for Imperialist rise; fuels Floran hatred of Skaagi/Duran; cited by female supremacists as proof of male brutality."
+summary: "Lore entry on the Rape of Domremy, a defining historical atrocity that shaped modern Floran politics and ideology. Select when: Floran imperialism, anti-Skaagi sentiment, anti-Duran hostility, female supremacist rhetoric, or the origins of the Imperialist political faction are discussed. Key details: Twenty years ago, Skaagi forces massacred the town of Domremy in Amaran, committing mass rape, impalement, and skull-piling as deliberate terror tactics while exploiting Floran naval unpreparedness. The event catalyzed the Imperialist faction's rise. It is routinely cited by female supremacists as proof of male brutality and used to justify militarization and ongoing hostility toward both Skaagi and Duranian men."
 ---
 
 # Culture - Rape of Domremy

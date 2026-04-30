@@ -18,7 +18,7 @@ keys:
   - William's carving
 position: after
 depth: 4
-summary: 1843 arrival at Claymore Manor. Select when Ryan, Callista, and the Adame sisters disembark, Cora discovers the father's anchor point symbol on the dock, and Ryan delegates authority to Charlotte and Rachael. Key relationships include Ryan and Florence (partners), Mina and Cora (rescued sisters), and Charlotte/Rachael (allies).
+summary: "A discovery scene at Claymore Manor dock (June 15, 1843) where Cora identifies William Adame's personal anchor-point symbol—a bisected circle with three dots—carved into a dock support post, linking the manor to his planned Duran escape route carved fifteen years before his death. Select when: William's death, the anchor symbol, Adame family history, Charlotte and Rachael meeting Mina and Cora, or Ryan delegating authority post-extraction are referenced. Key participants: Cora (symbol recognition), Ryan (injured, returning), Charlotte (legal ally, blushing), Howard (confirming William's prior visit), Rachael (medical authority). Tags: anchor point symbol, foundation stones, Claymore Manor dock, compass drop, William's carving, escape route, Duran, Ragnar vessel."
 location: Claymore Manor
 scene_type: discovery
 character_present:

@@ -19,7 +19,7 @@ keys:
   - Sion Quarter
 position: after
 depth: 4
-summary: "A pivotal confession scene in Claymore Manor (June 16, 1843) where Ryan Adame rejects extraction and commits to a triadic wedding with his sisters, while Charlotte Claymore reveals Estra is a Duranian defector. Select this entry when characters discuss: accepting familial healing, strategic wedding planning, or the revelation of a double-agent defector. Key relationships involve the sisters (Mina, Cora, Charlotte) and Ryan as a protective unit."
+summary: "A confession and accord scene in Claymore Manor's East Wing Library (June 16, 1843) where Ryan discloses his closet suicide attempt, Charlotte confesses her guilt over purchasing him, Mina accepts the wives' penitent guilt, and Charlotte reveals Estra is Duranian Intelligence defecting at 8 PM in the Sion Quarter with intelligence on Loren's network. Select when: Mina and Cora's acceptance of Charlotte and Florence, Estra's deep-cover Duranian operative reveal, secrecy oaths, Florence's jealousy over the Estra meeting, or Mina and Cora's wedding preparation roles are referenced. Key participants: Ryan (confessing), Charlotte (guilt, revealing Estra), Mina (protective assessor), Cora (mathematical deducer), Florence (jealous but accepting). Tags: closet suicide attempt, Duranian Intelligence, 8 PM Sion Quarter, Alec hostage, secrecy oath, Mina/Cora security roles, west solarium wedding planning, parallel dynamics."
 location: Claymore Manor
 scene_type: confession
 character_present:

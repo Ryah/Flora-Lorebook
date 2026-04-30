@@ -13,7 +13,7 @@ keys:
   - Custom Wax Seal
 position: after
 depth: 4
-summary: "Entry: Curtained Hall Investigation (June 14, 1843)\\n**Context:** Ryan and Charlotte identify a memory restoration as a plot by Ryan’s mother, Eleanor, executed through a defective carriage driven by her compromised agent, Edmund Girard.\\n**Strategy:** They execute a counter-intelligence plan by leaking the existence of a rescue mission to distract Eleanor, while concealing the true threat from Florence to prevent her from alerting the mole.\\n**Key Relationships:** Unites Ryan and Charlotte against Eleanor; defines Ryan and Charlotte's bond based on \\\"strategic omission\\\" and shared survival tactic."
+summary: "Ryan and Charlotte investigate the curtained hall at Claymore Manor, identifying Edmund Girard as Eleanor's agent behind the carriage sabotage and memory-restoration plot, June 14, 1843. Select when investigating the carriage sabotage, identifying Edmund Girard as the mole, the fraudulent timeline is questioned, counter-intelligence planning involves leaking false information to distract Eleanor, or Ryan and Charlotte form their strategic bond. Key participants: Ryan (survivor, co-investigator), Charlotte (strategist, counter-intelligence planner), Edmund Girard (mole), Eleanor Adame (orchestrator), Florence (excluded from intelligence to prevent compromise)."
 location: Claymore Manor
 scene_type: investigation
 character_present:

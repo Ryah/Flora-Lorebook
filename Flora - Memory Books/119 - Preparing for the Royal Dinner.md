@@ -19,7 +19,7 @@ keys:
   - weapon narrative control
 position: after
 depth: 4
-summary: "Lore entry for the family’s preparation and entrance to the formal royal dinner on June 21, 1843. Inject when the scene reaches the West Wing Suite just before the dinner or when the family needs to enter the great hall. Covers the decision to openly wear Estra’s karambit, Ryan’s public-visibility strategy against Loren’s threat, dressing in Duranian formal wear, Charlotte’s tactical seating chart, and the family’s procession to the high table where Queen Maya emotionally acknowledges Ryan as “my son.” Key family members present: Mina, Cora, Alec, Rachael, Howard, William Adame."
+summary: "Preparation and procession to the formal royal dinner on June 21, 1843 (7:34–7:46 PM), Palace of Loth Logan Great Hall. Select when referencing pre-dinner preparations, Estra's karambit worn openly as narrative strategy, or Ryan's public visibility plan against Loren. Key participants: Ryan Adame (Duranian formal wear, family-as-weapon strategy), Estra Hamilton (karambit openly worn, tactical route options), Charlotte Claymore (seating chart: Ryan at Queen's right, Charlotte observes entrances), Florence Claymore (insists on main corridor), Queen Maya (acknowledges Ryan as \"my son,\" voice cracking). Triggers: visible karambit, weapon narrative control, tactical seating, court assembly, Florence announces family, Charlie punctuality joke."
 location: Duran
 scene_type: dialogue
 character_present:

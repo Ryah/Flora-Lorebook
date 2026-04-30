@@ -17,7 +17,7 @@ keys:
   - reopened wound
 position: after
 depth: 4
-summary: This is a strategic alliance negotiation scene (June 1843) where Ryan accepts a wager with assassin Estra Hamilton to prove his birthright and secure intelligence on the Sea Witch. **Select when:** The AI needs to establish Ryan's combat competence, his relationship with Charlotte, or the immediate plot regarding Florence's assassination. **Key relationships:** Ryan & Charlotte (romantic, trusting), Ryan & Estra (amiable rivalry/alliance), Charlotte & Florence (protective). **Outcome:** Ryan wins the spar, receives Florence's manifest, and secures a whistle for extraction.
+summary: "A combat and alliance scene in Claymore Manor's eastern courtyard (June 16, 1843, morning) where Ryan defeats assassin Estra Hamilton in an unarmed submission match via chokehold, earning the Sea Witch manifest and intelligence on why Loren ordered Florence's assassination, then receives Charlotte's brass whistle for the evening alliance meeting. Select when: Ryan's combat competence, Estra's initial defection, the Sea Witch manifest, the karambit, the reason Florence was targeted, or the brass whistle extraction signal are referenced. Key participants: Ryan (winner/bleeding), Estra (yielding defector), Charlotte (furious then trusting), Florence (spectating). Tags: chokehold, karambit, dromamine, blood-red eyes, Prince Darian, Sea Witch manifest, Florence assassination motive, brass whistle, reopened stitches, unarmed combat."
 location: Claymore Manor
 scene_type: combat
 character_present:

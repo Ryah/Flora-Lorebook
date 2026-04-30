@@ -20,7 +20,7 @@ keys:
   - burgundy velvet gown
 position: after
 depth: 4
-summary: "**Context:** Post-combat medical treatment and legal asylum negotiations (June 1843).\\n\\n**When to Select:** When Ryan is wounded, recovering, or during critical legal/intel discussions regarding asylum and betrayal.\\n\\n**Key Relationships:**\\n*   **Ryan:** Patient and subject of the triad bath.\\n*   **Charlotte:** Legal authority managing asylum; caretaker.\\n*   **Florence:** Protective caretaker, romantic partner.\\n*   **Estra:** Defecting assassin, ex-lover; currently holds leverage over Loren via hostage Alec.\\n*   **Loren:** Estra's captor/abuser; threatening Alec.\\n\\n**Key Plot:** Estra interrupts"
+summary: "A medical treatment and asylum negotiation scene at Claymore Manor (June 16, 1843, morning) where Dr. Mercer sutures Ryan's back wound while Charlotte drafts irrevocable Cassia County asylum papers for Estra, who interrupts the triad bath to reveal Loren holds her brother Alec hostage—delivering a severed finger as threat—and pledges full defection. Select when: Estra's defection terms, Alec's kidnapping, the Cassia County asylum filing, the Blakeney-Ragnar alliance treaty, the triad bath dynamic, or the 11-day mutilation deadline are referenced. Key participants: Ryan (patient), Charlotte (legal authority), Florence (protective), Estra (desperate defector), Dr. Mercer (surgeon). Tags: irrevocable asylum, Cassia County, Blakeney-Ragnar alliance, Alec hostage, severed finger, copper tub, lavender oil, 11-day deadline, Duranian citizenship renouncement."
 location: Claymore Manor
 scene_type: negotiation
 character_present:

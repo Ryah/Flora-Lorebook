@@ -17,7 +17,7 @@ keys:
   - blue drawing room
 position: after
 depth: 4
-summary: "This is a strategic planning meeting between Ryan Adame and his wives, Rachael and Mina. It should be selected when generating dialogue or decisions about confronting the antagonist Loren, managing the spy network, or discussing the emotional state of allies (Charlotte, Alec, Estra). Key elements include: a list of Loren's assets (agents, ships, finances), a 10-day deadline, and Ryan's decision to delay action to preserve ally morale. The core relationships are the marital alliance between Ryan, Rachael, and Mina, and their shared opposition to Loren and Eleanor."
+summary: "Strategic planning meeting in Claymore Manor's blue drawing room (1843) between Ryan Adame, his wives, Rachael, and Mina to confront Loren via the spy network and exploit financial transaction weak points. Select when depicting intelligence gathering, agent network discussions, sealed list protocols, or coalition decision-making against Loren. Key participants: Ryan (strategist), Charlotte and Florence (wives), Rachael (network contact), Mina (adviser). Tags: financial channels, transaction weak point, blue drawing room."
 location: Claymore Manor
 scene_type: negotiation
 character_present:

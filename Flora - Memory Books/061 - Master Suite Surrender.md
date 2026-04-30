@@ -23,7 +23,7 @@ keys:
   - Valheim monastery
 position: after
 depth: 4
-summary: "**What:** Post-extraction intimacy in the Master Suite where Ryan relieves Charlotte of duty and offers healing, culminating in consensual, dominant intercourse.\\n\\n**When:** Selected after Alec's rescue (June 17, 1843) when Charlotte is exhausted, fragmented, and seeking relief from trauma.\\n\\n**Relationships:** Intimate alliance between Ryan Adame and Countess Charlotte Claymore; involves Florence, Alec, and the Claymore family dynamics."
+summary: "Post-extraction intimacy in Claymore Manor's Master Suite (June 17, 1843) where Ryan relieves Charlotte of her leadership burden through consensual dominant intercourse. Select when Charlotte is post-trauma, fragmented, or seeking to surrender control after a high-stakes mission. Also relevant for marriage contract amendments or \"broken pieces\" identity themes. Key participants: Ryan (dominant, healing), Charlotte (surrendering, exhausted). Tags: violet silk chemise, mating press, pinned wrists, trauma processing."
 location: Claymore Manor
 scene_type: intimacy
 character_present:

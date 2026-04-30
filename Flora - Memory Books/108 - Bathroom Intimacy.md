@@ -20,11 +20,7 @@ keys:
   - silver thread
 position: after
 depth: 4
-summary: |-
-  **Bathroom Intimacy**  
-  **What it is:** A pivotal domestic scene on June 21, 1843 (1:05–1:38 AM) in the Duranian Palace's West Wing Bathing Room. Ryan Adame and his three wives share a bathtub, discussing belonging, home, and Ryan's nascent divine power. Key events: Ryan demonstrates power via "golden thread," Charlotte accesses it through their sensory link (manifesting silver light), and the family banter reinforces their chosen-family bond.
-
-  **When to select:** Any scene involving Ryan, Charlotte, Florence, or Estra together in an intimate, private setting; discussions of Ryan's divine powe
+summary: "Intimate post-escape scene on June 21, 1843 (1:05–1:38 AM) in the Duranian Palace copper bathtub, West Wing. Select when referencing chosen family bonds, divine power sharing, or sensory link mechanics between Ryan and Charlotte. Key participants: Ryan Adame (reassures Estra with wedding ring, demonstrates golden thread water lift), Charlotte Claymore (accesses power via sensory link, glows silver), Florence Claymore (playful mediator), Estra Hamilton (fears it is a dream). Triggers: golden thread water manipulation, silver light manifestation, chosen family home, sensory link power-sharing, copper bathtub, Charlotte structural resonance, Althena hiding, dirt couch joke."
 location: Duran
 scene_type: intimacy
 character_present:

@@ -44,7 +44,7 @@ character_present:
   - Charlotte
   - Florence
   - Estra
-summary: "Morning Wrestling is a specific family ritual moment: a tickle-fight and playful physical scuffle between Charlotte, Florence, Ryan, Estra, and Mina. It occurs on Wednesday, June 21, 1843, at 5:06 AM in the West Wing Bedroom of the Palace of Loth Logan, 55 minutes before a Marten meeting (at 6:00 AM). Key relationships: Ryan initiates, Charlotte joins, Florence is the target, Mina reveals a ticklish weak spot, Estra participates without context. It should be selected when an AI needs to depict familial bonding, physical play, pre-meeting tension release, or ritualized affection among the group."
+summary: "Playful group wrestling and tickle-fight scene between Ryan, Charlotte, Florence, Estra, and Mina in the West Wing Bedroom of the Palace of Loth Logan, June 22, 1843 at 5:06 AM, 50 minutes before the Marten meeting. Select when: familial bonding, physical play, pre-meeting tension release, or morning affection among the group; Charlotte keeps secrets like spare blankets; or Estra joins a new experience without framework. Key participants: Ryan (initiates tackle), Charlotte (tactical attacker, pins Florence's shoulder), Florence (target, collapses into helpless laughter), Mina (reveals ticklish weak spot from corridor), Estra (joins without context, lands across Florence's legs and presses the spot)."
 ---
 
 # 126 - Morning Wrestling

@@ -21,12 +21,7 @@ keys:
   - assume nothing verify everything
 position: after
 depth: 4
-summary: |-
-  **What is this:** An entry for a specific timeline event—a formal dinner at the Palace of Loth Logan on June 21, 1843, where Ryan Adame spots a suspicious servant (Petra Voss) and the family tests his observation training. The scene establishes that Petra is likely an agent of Loren, planted before Ryan's escape, and initiates a counterintelligence plan to feed her misinformation.
-
-  **When selected:** Any scene involving court intrigue, surveillance, counter-spying, or family strategic planning after Ryan's return to Duran. Use when the narrative moves toward manipulating Loren's spy network or when characters discuss Loren's long-term planning.
-
-  **Key relationships:** Petra Voss (Loren's agent; observed by Ryan; planted months before escape); Howard Adame (tests Ryan); Estra (identifies Petra, obtains schedule); Charlotte (plans misinformation framework); Florence (provides alibi; creates distraction); Queen Maya (guilt-ridden; provides study location); Ryan (winks to test her trained response; plans projection into study).
+summary: "Counterintelligence operation during the formal dinner on June 21, 1843 (7:52–8:20 PM), Great Hall, Palace of Loth Logan. Select when referencing palace spy detection, Petra Voss's surveillance, Loren's long-term planning, or the family's misinformation strategy. Key participants: Ryan Adame (spots Petra, winks as test), Howard Adame (assessment mentor), Petra Voss (Loren's plant, three-month transfer), Charlotte Claymore (misinformation framework), Queen Maya (guilt over recommending Petra, calls Ryan \"mom\"), Estra Hamilton (obtains Petra's schedule). Triggers: Petra Voss, three-month transfer pattern, trained response, assume nothing verify everything, dead drop, projection into study plan, custard service, Queen Maya emotional moment."
 location: Duran
 scene_type: investigation
 character_present:

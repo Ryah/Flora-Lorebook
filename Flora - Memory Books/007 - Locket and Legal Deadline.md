@@ -18,7 +18,7 @@ keys:
   - supply delivery window
 position: after
 depth: 4
-summary: "**Summary:**\\n\\n**What:** A tense strategy session at Claymore Manor where Ryan, injured and facing a competency hearing, reveals a secret brick room, requests a delay for his physical exam, and receives a locket containing a photo of his mother and young Eleanor Adame.\\n\\n**When:** **Select when:** Ryan has suffered physical injuries, the legal competency hearing against him is imminent, the Amber Isles household is targeted, or a secret room entry mechanism is discovered.\\n\\n**Key Relationships:**\\n*   **Charlotte Claymore:** Mother figure, legal strategist, holds the locket.\\n*   **Eleanor Adame:**"
+summary: "A strategy session at Claymore Manor where Ryan, injured and facing an imminent competency hearing, reveals the secret brick room entrance mechanism and receives a locket containing photos of his mother and young Eleanor Adame, June 14, 1843. Select when Ryan has recent injuries, a legal competency petition is threatened, the Amber Isles extraction is being planned, the hidden brick room or entry mechanism is discovered, the smuggler's path is referenced, or the supply delivery window is discussed. Key participants: Ryan (injured strategist), Charlotte (legal strategist, mother figure, locket holder), Eleanor Adame (antagonist, locket subject)."
 location: Claymore Manor
 scene_type: investigation
 character_present:

@@ -20,7 +20,7 @@ keys:
   - June 21 1843
 position: after
 depth: 4
-summary: "**What:** Historical record of Ryan Adame's first documented divine power practice session (June 21, 1843), including three water manipulation attempts and one test with stone. Documents mechanics of \\\"golden thread\\\" resonance, partner synchronization, and material resistance.\\n\\n**Selection trigger:** Mentions of divine practice, golden thread mechanics, element manipulation (water/ice/stone), Althena's direct instruction, Charlotte's silver glow, or Claire Whitehill's first exposure to divine power. Also triggered by scenes requiring divine power mechanics explanation.\\n\\n**Key relationships:** R"
+summary: "Ryan Adame's first structured divine power practice session on June 21, 1843 (10:08–10:38 AM) in the Solarium, Palace of Loth Logan. Select when referencing golden thread mechanics, partner synchronization, material resistance, or Althena's training guidance. Key participants: Ryan Adame (golden thread manipulation), Charlotte Claymore (silver light, ice pillars), Claire Whitehill (first exposed to divine power), Cora Adame (proposes matched loops), Estra Hamilton (provides stone), Althena (explains material will). Triggers: water column, ice pillar, harmonic overflow, resonance amplification, stone resistance, matched loops, living flesh weight, three water attempts, stone catch."
 location: Duran
 scene_type: training
 character_present:

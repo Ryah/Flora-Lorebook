@@ -25,7 +25,7 @@ character_present:
   - Cora
   - Claire
   - Cornelia
-summary: ""
+summary: "Tactical planning session and intelligence reveal in the Solarium of the Palace of Loth Logan, June 22, 1843 at 7:41-7:48 AM, where the group debates killing vs. capturing spy Thomas Greaves and Crown Princess Cornelia vi Relani provides critical intelligence. Select when: the Greaves intercept or 8 PM dead drop is planned; Cornelia confesses her Loren recruitment at age 10; Thomas Greaves's surveillance of Queen Maya since April 1843 is referenced; tactical roles for the evening are assigned; or the decision to kill vs. capture a true-believer agent is weighed. Key participants: Ryan (proposes killing, volunteers to confront Greaves personally), Charlotte (insists legitimacy framing, assigns tactical roles), Estra (sets kill thresholds), Mina (true believer assessment), Cornelia (reveals 8 PM dead drop pattern, confesses childhood Loren recruitment), Althena (reframes killing as protecting)."
 ---
 
 # 136 - Solarium Intercept Planning Session

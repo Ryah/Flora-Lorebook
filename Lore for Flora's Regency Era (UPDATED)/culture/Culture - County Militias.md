@@ -22,7 +22,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "County militias are the decentralized feudal military forces of Flora, commanded by each county's Matriarch. Select this entry when discussing military organization of a specific county, the role of men as soldiers and women as commanders, or the societal structure of Flora's armed forces. Key relationships: Each militia serves its Matriarch; commanded by her female military relatives; bulk of personnel are men; Cassia County's militia is notoriously disorganized but brutally effective under former bandit chief Captain James Mallory."
+summary: "Lore entry covering Flora's decentralized feudal military forces at the county level. Select when: a county's military strength is relevant, a Matriarch deploys her soldiers, or local defense and regional armed forces are discussed. Key details: Each county Matriarch commands her own militia, typically officered by her female relatives, with the bulk of soldiers being men. Militias supplement the Royal Army in major conflicts. Cassia County's militia is notably disorganized but brutally effective under Captain James Mallory, a former bandit chief. County militias reflect the broader Floran structure where women command and men serve as rank-and-file."
 ---
 
 # Culture - County Militias

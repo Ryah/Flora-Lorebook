@@ -21,7 +21,7 @@ keys:
   - cream silk dress
 position: after
 depth: 4
-summary: "**What:** A triadic marriage contract signing and consummation in Claymore Manor (June 16, 1843).\\n**When:** Select when Ryan must validate his marriage to Charlotte and Florence publicly to defy his brother and secure his autonomy.\\n**Relationships:** Key figures include Ryan Adame, Charlotte Claymore, Florence Claymore, and Rachael Blakeney (witness). Ryan's loyalty is shifting from his brother (Loren) to his wives.\\n**Context:** Ryan amends the contract to ensure mutual autonomy and plans a public wedding to prove his free choice."
+summary: "A consummation and legal validation scene in the Lord's Quarters (June 16, 1843) where Florence rides Ryan while Charlotte weeps demanding his free will declaration, before Rachael Blakeney witnesses the triadic contract and Ryan announces a public wedding ceremony to publicly defy Loren. Select when: the triadic contract witnessing, Ryan's free will declaration, Rachael's heirloom rings, Rachael's approval of the amended Article 3, or the planned public wedding to defy Loren are referenced. Key participants: Ryan (choosing freely), Florence (consummating competitively), Charlotte (emotionally shattered), Rachael (witness/approver). Tags: Personal Autonomy Clause, mutual autonomy amendment, mother-of-pearl fountain pen, heirloom rings, public wedding announcement, ink-stained contract, free choice validation, June 17 ceremony."
 location: Claymore Manor
 scene_type: consummation
 character_present:

@@ -16,7 +16,7 @@ keys:
   - intimate service
 position: after
 depth: 4
-summary: "This is a detailed, intimate scene between Ryan Adame and Charlotte Claymore involving post-coital bathing and sexual control/edging. Select when the narrative involves their private, post-intimacy dynamic, power exchange, or Charlotte's vulnerability. Key relationships: Ryan (dominant, teasing) and Charlotte (submissive, her composure broken). The core is psychological dominance and sensory overload within a caretaking frame."
+summary: "Intimate post-coital bathing and sexual control scene in Claymore Manor's master bathroom (1843) between Ryan Adame and Charlotte Claymore. Select when depicting power exchange, orgasm denial, edging, or Charlotte's vulnerability in private. Also relevant for hair-washing rituals or intimate service dynamics. Key participants: Ryan (dominant, teasing), Charlotte (submissive, begging). Tags: nipple pinching, edging, orgasm denial, bathhouse, post-intimacy power exchange."
 location: Claymore Manor
 scene_type: intimacy
 characters_present:

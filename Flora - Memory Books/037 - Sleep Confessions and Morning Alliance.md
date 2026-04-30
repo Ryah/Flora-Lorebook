@@ -16,7 +16,7 @@ keys:
   - tactical intelligence
 position: after
 depth: 4
-summary: "**What is this?** A diary entry chronicling a late-night confrontation and a subsequent sleep-interrogation where Ryan Adame confesses genuine love for Charlotte and Florence, revealing desires for a polyamorous dynamic and tactical preference for Charlotte over Cora.\\n\\n**When should it be selected?** Select this entry when a user query involves themes of polyamorous relationships, sleep-talk confessions, or the characters' romantic dynamics and tactical comparisons between Charlotte and Cora.\\n\\n**Key relationships:** Ryan Adame (husband/partner), Charlotte (wife), Florence (wife), Howard (ally)"
+summary: "A confession and war council scene spanning June 15 evening through June 16 morning at Claymore Manor, where Charlotte and Florence conduct a sleep-interrogation of Ryan—documenting his unfiltered love confessions and the verdict that his feelings are genuine—before Howard arrives for the war council and reopened stitches require fresh dressing. Select when: Ryan's genuine versus conditioned love is questioned, the sleep-talking leather notebook is referenced, the sunlight-and-moonlight comparison arises, Howard's war council begins, or Ryan's reopened stitches are treated. Key participants: Ryan (truthful sleeper), Charlotte (documenting/anxious), Florence (advocating), Howard (war council opener). Tags: charcoal notebook, sleep interrogation, moonlight and sunlight, Duranian prince renunciation, reopened stitches, Howard alliance, 21-day countdown."
 location: Claymore Manor
 scene_type: confession
 character_present:

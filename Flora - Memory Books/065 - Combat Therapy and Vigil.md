@@ -16,7 +16,7 @@ keys:
   - 24 hour hypervigilance
 position: after
 depth: 4
-summary: "A psychological intervention scene where Ryan Adame exhausts Estra Hamilton to snap her from paranoid hypervigilance. Select when depicting strained friendships, shared trauma recovery, or the \\\"berserker\\\" method of emotional processing. Key relationships: Ryan (mentor/friend), Estra (recovering patient), Howard (cautious observer), Alec (Estra's protective brother)."
+summary: "Psychological intervention at Claymore Manor (1843) where Ryan Adame uses the Ragnar methodology to exhaust Estra Hamilton out of 24-hour hypervigilance, forcing her to collapse and rest. Select when depicting the \"berserker\" exhaustion method, Estra's paranoid hypervigilance, strained friendships, or Howard Blakeney Ragnar's therapeutic framework. Key participants: Ryan (intervening mentor), Estra (collapsing, recovering), Howard (methodology source). Tags: blinding rage, kindred spirits, exhaustion collapse."
 location: Claymore Manor
 scene_type: recovery
 character_present:

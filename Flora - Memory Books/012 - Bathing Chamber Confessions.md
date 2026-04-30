@@ -16,7 +16,7 @@ keys:
   - healing salve
 position: after
 depth: 4
-summary: "**Entry: 012 - Bathing Chamber Confessions**\\n\\n**What:** A scene where Ryan seeks Fiona's help treating a back wound and opens up about past trauma, leading to an emotional bond. **When:** Select when Ryan is injured and needs assistance, or during intimate dialogue with Fiona. **Key Relationships:** Fiona (maid, emotional support), Ryan (patient, confidant). Fiona reveals loneliness and trauma regarding her ex-lover Harry. Ryan shares trauma about his mother. **Context:** Henry assigns Fiona to apply healing salve nightly, despite political risks from other nobles."
+summary: "Ryan seeks Fiona's help in the Lord's Quarters bathing chamber to treat a back wound with comfrey salve before a mission, sharing trauma about his mother while Fiona confides about her ex-lover Harry, Claymore Manor 1843. Select when Ryan is injured and receiving pre-mission wound care, intimate dialogue with Fiona occurs, the 5:30 AM early-morning recovery routine is referenced, granulation tissue or beeswax salve treatment is mentioned, or Henry's assignment of Fiona to Ryan's nightly care is relevant. Key participants: Ryan (patient, trauma confessor), Fiona (maid, emotional support, assigned caretaker), Henry (assigns Fiona despite political risk), Claire (witness)."
 location: Claymore Manor
 scene_type: recovery
 character_present:

@@ -16,7 +16,7 @@ keys:
   - bloodline bridge
 position: after
 depth: 4
-summary: "**What is this?** A record of a late-night cryptographic session in 1843 involving a carrier pigeon message decoded using lemon juice and iron-gall ink. It reveals a multi-layered conspiracy orchestrated by Loren.\\n\\n**When should it be selected?** When analyzing the Claymore family's alliance, the psychological conditioning of Ryan Adame, or the political motivations of Loren.\\n\\n**Key relationships:** Charlotte Claymore and Ryan Adame (loyal partners); Cora Adame (cryptographer); Loren (antagonist/originator)."
+summary: "A cryptographic investigation scene in Claymore Manor's Blue Drawing Room (June 15, 1843) where Charlotte and Cora decode Loren's carrier pigeon message using lemon juice and iron-gall ink, revealing Ryan's 15-year psychological conditioning—gratitude-based loyalty engineered through abuse—and Loren's Sea Witch extraction plan with a 21-day deadline on June 30. Select when: Ryan's conditioned loyalty, the lemon juice cipher method, Cora's cryptographic authority, the Sea Witch timeline, or Charlotte demanding proof that Ryan's love is genuine are referenced. Key participants: Cora (decoder), Charlotte (vulnerable/demanding), Ryan (confronting conditioned identity). Tags: iron gall ink, geometric substitution, Duranian script, gratitude-based loyalty, bloodline bridge, Sea Witch, June 30 extraction, collective defense framework."
 location: Claymore Manor
 scene_type: investigation
 character_present:

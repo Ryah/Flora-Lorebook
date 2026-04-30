@@ -22,7 +22,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Floran Royal Army** | **Select when:** Mentioning Flora’s military, its structure, or its technological limits.  \n**What it is:** The professional, Crown-controlled national army of Flora.  \n**Key traits:** Small; relies on county militias against major threats (e.g., Skaag Empire). Officer corps: mostly noble women (high command), mixed genders (mid-rank). Enlisted NCOs/soldiers: almost all male.  \n**Notable unit:** *The Queen’s Glaive* – elite heavy cavalry of noble-born knights, commanded by the Crown Princess.  \n**Tech level:** Gunpowder rare; limited to officer pistols, muskets, and cannons. Primary combat: armored cavalry and melee infantry."
+summary: "Lore entry on Flora's professional Royal Army, the Crown's main military force. Select when: Flora's military capacity, battlefield deployments, or army structure are relevant; noble-born officers or their duties are discussed; or gunpowder technology limitations are mentioned. Key details: The Royal Army is small and professional; it relies on county militias to augment forces in major conflicts. The officer corps is mostly noble women in high command, with mixed genders in mid-rank roles. Enlisted NCOs and soldiers are almost entirely male. The Queen's Glaive is an elite heavy cavalry unit of noble-born knights commanded by the Crown Princess. Gunpowder is rare, limited to officer pistols, muskets, and cannons; primary combat remains armored cavalry and melee infantry."
 ---
 
 # Culture - Floran Army

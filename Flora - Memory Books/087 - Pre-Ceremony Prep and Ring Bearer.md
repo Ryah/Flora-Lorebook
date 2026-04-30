@@ -22,7 +22,7 @@ keys:
   - Legal portfolio
 position: after
 depth: 4
-summary: This entry depicts the pre-ceremony preparations at Claymore Manor. Select it when the narrative involves preparing for the Oracle ceremony, family dynamics, or Estra’s internal struggle with her identity. Key relationships include Charlotte as the strategic Countess, Florence as the nurturing advisor, and Ryan as the supportive husband. Alec is introduced as the chosen ring bearer.
+summary: "Pre-Oracle ceremony preparations in Claymore Manor's Master Bedroom (June 20, 1843, 8:40 AM) where the triad readies for the Oracle's arrival and Alec Hamilton is named ring bearer. Select when referencing the Oracle's blood debt clause inquiry, the equal-rights triad marriage contract, beneficiary and guardianship amendments, Alec's dragon-embroidered blue pillow, Claire's household observations, or Estra's identity crisis about being a wife versus a killer. Charlotte declares Estra's worth lies in her choices; Ryan insists Alec attend; Florence designs the ring pillow. Key participants: Ryan Adame, Charlotte Claymore, Florence Claymore, Estra Hamilton, Alec Hamilton, Claire Whitehill."
 location: Claymore Manor
 scene_type: dialogue
 character_present:

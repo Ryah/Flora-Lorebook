@@ -13,7 +13,7 @@ keys:
   - Claymore Manor East Wing Library
 position: after
 depth: 4
-summary: A June 1843 scene at Claymore Manor where Ryan integrates into a triadic marriage with Charlotte and Florence, securing their autonomy through a new contract and wedding vows. He reveals his past suicide attempt and the identity of his sparring partner, Estra Hamilton, a Duranian operative. Select when discussing the family's alliance, the triadic marriage structure, and the imminent defection of Estra Hamilton.
+summary: "A family truth scene in Claymore Manor's East Wing Library (June 16, 1843) where Ryan presents the triadic marriage contract with reciprocal autonomy clauses to sisters Mina and Cora, announces the June 17 wedding, confesses his three-day closet suicide attempt, and Cora deduces that Estra is the assassin from three weeks prior. Select when: Ryan's suicide attempt confession, the triadic contract presentation to his sisters, the June 17 wedding announcement, Estra's identity revealed as Duranian operative, or wedding preparation assignments (Mina security, Cora logistics) are referenced. Key participants: Ryan (confessing), Mina (military assessor), Cora (deducing Estra), Charlotte and Florence (swearing oaths). Tags: closet suicide attempt, Article III reciprocal autonomy, Estra as Duranian operative, Mina security perimeter, Cora logistics, June 17 wedding, 8 PM Sion Quarter defection."
 location: Claymore Manor
 scene_type: dialogue
 character_present:

@@ -17,9 +17,7 @@ keys:
   - Great Hall
 position: after
 depth: 4
-summary: |-
-  **AI Search Summary:**  
-  This entry details the immediate post-wedding events for Ryan, Charlotte, and Florence at Claymore Manor. It includes two key scenes: 1) The "Hamilton Blood Vigil," a ritual binding Estra Hamilton as a blood-sister to the marriage for protection from Loren. 2) The wedding night's intimate power dynamic, where Charlotte takes dominant command. Select for queries about the wedding's aftermath, the ritual's purpose, marital dynamics, or character interactions involving Ryan, his wives, Estra, or the threat from Loren.
+summary: "Post-wedding vigil at Claymore Manor (1843) featuring the Hamilton Blood Vigil ritual, where Estra binds herself as blood-sister to the marriage for protection against Loren. Select when depicting blood-sister oaths, triadic marriage aftermath, the eleven-day deadline, Valheim prison intelligence, or the pearl-handled knife ritual. Key participants: Ryan (husband, protector), Estra (blood-sister, vigilant guard). Symbolic objects: rosemary cake, karambit, pearl-handled knife."
 location: Claymore Manor
 scene_type: dialogue
 character_present:

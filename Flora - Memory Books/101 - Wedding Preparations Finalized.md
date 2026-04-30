@@ -16,7 +16,7 @@ keys:
   - tunnel routes
 position: after
 depth: 4
-summary: This is a pivotal planning session for a wedding and evacuation at Claymore Manor. Select when referencing the final preparations, security details, or character interactions leading to the ceremony. Key relationships include Ryan and Estra's emotional bond, the Sacred Combat Link with Charlotte, Florence's artistic contribution, and the strategic inclusion of the Oracle and Princess Cornelia as assets against Loren.
+summary: "Wedding planning and evacuation prep at Claymore Manor on June 20, 1843 (8:40–9:15 PM). Select when referencing final ceremony logistics, tunnel escape routes, security arrangements, or pre-wedding character interactions. Key participants: Ryan Adame (groom), Estra Hamilton (bride, blue wedding dress), Charlotte Claymore (security briefing via Sacred Combat Bond), Florence Claymore (decorative banners), the Oracle (awakened by Althena), Crown Princess Cornelia vi Relani (strategic inclusion). Triggers: wedding preparations, chapel processional, Sacred Combat Bond sensory distraction, Oracle awakening, tunnel routes, security layout."
 location: Claymore Manor
 scene_type: dialogue
 character_present:

@@ -20,7 +20,7 @@ keys:
   - Morning Sunlight
 position: after
 depth: 4
-summary: "**What:** A post-rescue recovery scene where Ryan and Charlotte retreat to the Master Bathroom and Bed to find intimacy and security after rescuing Alec.\\n\\n**When:** Immediately following the successful rescue of Alec Hamilton from the Valheim monastery (Saturday to Sunday, 1843).\\n\\n**Key Relationships:** Deepens the bond between Ryan and Charlotte. Charlotte drops her commanding persona to accept vulnerability, while Ryan reaffirms his devotion. Ryan serves as her emotional anchor and sedative, and she manages the household delegation to Rachael and Florence."
+summary: "Post-rescue intimacy and emotional reconnection scene in Claymore Manor's Master Suite (Saturday-Sunday, 1843) where Ryan and Charlotte find closeness after rescuing Alec Hamilton. Select when depicting the morning-after emotional decompression, spooning, or the transition from mission exhaustion to tender intimacy. Key participants: Ryan, Charlotte. Tags: four-poster bed, silk sheets, rose-gold flush, gooseflesh, damp linen towel, morning sunlight, post-Valheim recovery."
 location: Claymore Manor
 scene_type: intimacy
 character_present:

@@ -16,7 +16,7 @@ keys:
   - renewed oath
 position: after
 depth: 4
-summary: "**Summary:** A 1843 carriage journey detailing the Claymores' extraction of Mina and Cora from the Amber Isles. **Select when** investigating the Claymore family dynamics, the Amber Isles layout, or the characters' pre-extraction personal revelations. **Key relationships:** Florence (Stardust), Ryan, and Thomas. **Context:** Reveals the mole (Edmund Girard), tactical map, and Florence's romantic awakening."
+summary: "Ryan and Florence travel by carriage to Briarhaven docks with driver Thomas Greaves, sharing pre-mission intimacy and discussing extraction tactics including the mole Edmund Girard and Eleanor's intelligence network, 1843. Select when the carriage journey to Briarhaven is referenced, Edmund Girard or Eleanor's intelligence network is disclosed during transit, the secret brick room or basement stairs are mentioned, Florence's romantic awakening is depicted, or tactile intimacy precedes a combat mission. Key participants: Ryan (strategist, emotional partner), Florence (codename Stardust, romantically awakening), Thomas Greaves (driver)."
 location: Claymore Manor
 scene_type: dialogue
 character_present:

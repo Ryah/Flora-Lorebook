@@ -20,11 +20,7 @@ keys:
   - silver thread
 position: after
 depth: 4
-summary: |-
-  **Divine Resonance Discovery**  
-  *Select when the AI describes: novel divine power mechanics, sensory bilocation, or harmonic divine threads (post-June 1843).*
-
-  **What it is:** A breakthrough in divine power mechanics occurring June 21, 1843, in the Palace of Loth Logan. Ryan Adame and his wives discovered that divine power operates via harmonic resonance (not amplification), manifesting as crystalline lattices in water, sensory bilocation, and feedback dissonance upon self-contact. Althena clarified Ryan's bilocation as "resonant projection" and Charlotte's silver power as a unique harmonic a
+summary: "Breakthrough in divine power mechanics on June 21, 1843 (1:38–2:25 AM) in the West Wing Bathing Room, Palace of Loth Logan. Select when referencing harmonic resonance, Charlotte's silver crystallization ability, bilocation, or Althena's correction of projection terminology. Key participants: Ryan Adame (discovers resonant projection), Charlotte Claymore (flash-freezes water into hexagonal ice column), Florence Claymore (demands to know her power color), Estra Hamilton (tactical analysis), Althena (corrects bilocation as resonant shadow). Triggers: harmonic resonance, crystalline lattice, bilocation, feedback dissonance, silver power, recombination displacement, resonant projection, Cora documentation."
 location: Duran
 scene_type: revelation
 character_present:

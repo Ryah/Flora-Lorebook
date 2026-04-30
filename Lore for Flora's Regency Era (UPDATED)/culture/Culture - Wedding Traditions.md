@@ -21,7 +21,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Yorenian Wedding Traditions** – Select when a wedding, festival, or community gathering occurs in Yorenia (or rural Flora). Covers 3-day village-wide celebration involving all residents. Key practices: women weave garlands (lupin, columbine, forget-me-nots), men build pavilions, feast includes consecrated goats (whose fur is given to the bride for baby swaddling). Strangers are welcomed as family. Notable relationship: childless couples/officially watch village children, symbolizing shared divine responsibility for \"Althena's children.\" Use to inject cultural flavor, community norms, or divine/reproductive themes."
+summary: "Lore entry on Yorenian wedding traditions, a 3-day village-wide celebration from Yorenia and rural Flora. Select when: a wedding takes place in Yorenia or rural Flora; community gathering scenes are needed; or themes of communal duty, divine fertility, and social belonging are relevant. Key details: The entire village participates for three days. Women weave flower garlands from lupin, columbine, and forget-me-nots; men construct pavilions and oversee feasting. Consecrated goats are slaughtered for the feast, with their fur given to the bride for baby swaddling. Strangers are welcomed as family. Childless couples ceremonially watch over village children, symbolizing shared responsibility for Althena's children."
 ---
 
 # Culture - Wedding Traditions

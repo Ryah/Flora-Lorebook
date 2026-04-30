@@ -19,7 +19,7 @@ keys:
   - Memory loss
 position: after
 depth: 4
-summary: "**What:** Ryan, a Baronet rescued from abusive family captivity, meets his arranged wives Florence and Charlotte at Claymore Manor and confesses his traumatic past.\\\\n\\\\n**When:** Select during Ryan's arrival and initial recovery to establish his history, his arranged marriage to the Countesses, and his liberation from his mother's control.\\\\n\\\\n**Key Relationships:** Florence (wife, guilt-ridden), Charlotte (wife, investigator), Eleanor (mother, abuser), Rachael Blakeney (Florence's mother, matriarch)."
+summary: "Ryan, a Baronet recently rescued from family captivity, arrives at Claymore Manor and first meets his arranged wives Florence and Charlotte, confessing his traumatic past in June 1843. Select when establishing Ryan's origin story, the Countesses of Cassia arranged marriage, Flora's Laws, dowry obligations, Millhaven context, Claymore Manor first arrival, amnesia, memory loss, or liberation from Eleanor Adame's abuse. Key participants: Ryan (protagonist, trauma survivor), Florence (guilt-ridden wife), Charlotte (investigative wife), Rachael Blakeney (Claymore matriarch), Eleanor Adame (antagonist, abuser)."
 location: Claymore Manor
 scene_type: confession
 character_present:

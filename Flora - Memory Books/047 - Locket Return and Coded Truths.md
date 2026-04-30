@@ -21,7 +21,7 @@ keys:
   - Duranian heritage
 position: after
 depth: 4
-summary: This is a pivotal scene of alliance and coded communication between Ryan Adame and his sisters, Mina and Cora. Select when the narrative involves their secret planning, Duranian heritage reveals, or the use of their established doublespeak code. Key relationships are the protective sisterly bond, the new maternal alliance with Rachael Blakeney, and the strategic acceptance of Ryan's wives, Florence and Charlotte. The core conflict is preparing Ryan's autonomous wedding to defy the extraction threat from Loren Claymore.
+summary: "An alliance and coded communication scene at Claymore Manor (June 16, 1843) where Ryan returns a brass locket to Cora, Mina recounts Eleanor's erasure of Ryan after his wedding, Rachael claims the sisters as daughters, and the siblings establish a doublespeak code in the kitchen to secretly communicate about Ryan's Duranian heritage and the 20-day extraction threat. Select when: the brass locket return, Eleanor's post-wedding erasure of Ryan, Rachael's maternal adoption of the sisters, the doublespeak code phrases, or June 17 sunset wedding planning with Oracle blessing are referenced. Key participants: Cora (locket recipient, code architect), Mina (confirming erasure), Ryan (code dispatcher), Rachael (maternal ally). Tags: brass locket, doublespeak code, Eleanor erasure, Duranian heritage secret, Oracle blessing, June 17 wedding, Sanctum Matrice, Article 4 contract, west solarium."
 location: Claymore Manor
 scene_type: confession
 character_present:

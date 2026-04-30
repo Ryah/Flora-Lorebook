@@ -29,12 +29,7 @@ keys:
   - touch exploration
 position: after
 depth: 4
-summary: |-
-  **What:** Sensory bond experiment revealing a critical flaw—it transmits all sexual sensations except orgasm, leaving Charlotte stranded at the edge. Part of the Two Hours of Softness period.
-
-  **When to use:** When Charlotte experiences the sensory bond or when characters reference its orgasm-denial limitation. Also relevant during sexually charged group scenes at the Palace.
-
-  **Key relationships:** Charlotte, Ryan, Florence, and Estra—with Ryan discovering the bond's limitation and laughing at Charlotte's torment, Florence delightedly teasing her desperation, and Estra confused but present.
+summary: "Intimate scene revealing the sensory bond's orgasm-denial flaw on June 21, 1843 (~5:45–6:10 PM), West Wing Suite, Palace of Loth Logan. Select when referencing the bond's orgasm cut-off limitation, restraint dynamics, or Estra's first intimate experience within the polycule. Key participants: Ryan Adame (bound with velvet cords), Charlotte Claymore (commands via bond, stranded at orgasm edge), Florence Claymore (straddles Ryan, teases Charlotte's desperation), Estra Hamilton (guided through first penetrative experience). Triggers: sensory bond orgasm denial, velvet cords restraint, sympathetic arousal, bond transmits sensations not orgasm, Charlotte loses composure, Estra's first time, Florence teasing."
 location: Duran
 scene_type: intimacy
 character_present:

@@ -17,7 +17,7 @@ keys:
   - tunnel evacuation
 position: after
 depth: 4
-summary: "**AI Summary:** This is a pivotal escape sequence where Ryan Adame's family flees to Duran. **Select when** referencing the escape from Loren, arrival in Duran, Ryan's divine pact with Althena, or key character bonds. **Key relationships:** Ryan's brotherly bond with Alec; his pardon of Estra; his confrontation and alliance with his brother, Regent Charlie; and his marital vows to Charlotte, Florence, and Estra. The entry establishes Ryan's divine authority and Duran's role as a sanctuary."
+summary: "Flight through William's Tunnel to Duran on June 20, 1843 (11:04–11:48 PM), with Loren's midnight assault deadline closing in. Select when referencing the tunnel evacuation, Althena's wave intervention, Ryan's pardon of Estra, or arrival aboard the Relani's Crown. Key participants: Ryan Adame (pardons Estra, invokes Althena), Estra Hamilton-Claymore (formally pardoned, fears Duranian execution), Alec Hamilton (bonded as brothers), Charlie (Bonnie Prince, grants royal sanctuary), Cornelia vi Relani (confirms ship). Triggers: Althena wave, Duranian longboats, smuggler's cave, divine golden light, escape deadline, royal sanctuary, Sea Witch pursuit, Charlie rum offer."
 location: Claymore Manor
 scene_type: decision
 character_present:

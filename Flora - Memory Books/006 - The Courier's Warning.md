@@ -17,7 +17,7 @@ keys:
   - Mina's bruises
 position: after
 depth: 4
-summary: "Delivered June 14, 1843, this entry details a critical intelligence drop from Courier Callista Venn regarding the Adame estate. Select when the user has confirmed the arrival of external intelligence or is planning a high-risk extraction of Cora and Mina. Key relationships include Callista as a trusted informant and Florence as a resource for the extraction. The entry outlines a specific extraction plan: a surgical strike via a narrow fisherman's path on Thursday during the distraction of the weekly supply delivery."
+summary: "Courier Callista Venn delivers intelligence at Claymore Manor on June 14, 1843, revealing Mina's coded warning and Cora's secret note about conditions at the Adame estate, triggering extraction planning. Select when external intelligence arrives about the Amber Isles, Mina or Cora's captivity conditions are discussed, Callista Venn acts as informant, the Durant diplomatic seal is referenced, or a surgical extraction via the fisherman's path during Thursday's supply delivery window is being planned. Key participants: Ryan (extraction planner), Florence (resource coordinator), Callista Venn (courier/informant), Mina and Cora (captive, messaging), Eleanor (antagonist)."
 location: Claymore Manor
 scene_type: investigation
 character_present:

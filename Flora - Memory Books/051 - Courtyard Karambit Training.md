@@ -17,7 +17,7 @@ keys:
   - Mina's teachings
 position: after
 depth: 4
-summary: "A 1843 training session involving Ryan Adame and Estra Hamilton. Select when the group is at Claymore Manor practicing karambit techniques and establishing a trust bond. Key relationships: Ryan and Estra (trusting, training), Florence and Charlotte (domestic tension, competitive), Howard (supplementary instruction). Context: Pre-wedding preparations and preparation for the rescue of Alec Hamilton."
+summary: "Karambit training session at Claymore Manor (1843) between Ryan Adame and Estra Hamilton, establishing their combat partnership. Select when depicting blade technique instruction, hip rotation mechanics, arterial targeting, or the early Ryan/Estra trust dynamic. Also relevant for Mina's teachings, dromamine withdrawal symptoms, or the Andrea's Cross disguise context. Key participants: Ryan (instructor), Estra (student, building trust), Charlotte and Florence (observers), Howard (supplementary)."
 location: Claymore Manor
 scene_type: training
 character_present:

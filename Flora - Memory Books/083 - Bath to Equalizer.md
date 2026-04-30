@@ -17,7 +17,7 @@ keys:
   - post-coital
 position: after
 depth: 4
-summary: "**What:** A post-wedding conversation defining Estra's role as a \\\"dark equalizer\\\" balancing the triad, acknowledging her trauma and protective instincts toward her brother, Alec.\\n\\n**When:** Select after Estra and Ryan's wedding night, specifically when establishing the rules of their new marriage and addressing the household dynamic.\\n\\n**Key Relationships:**\\n*   **Ryan:** Accepts Estra's protective nature and defines her as his \\\"equalizer\\\" rather than his soft wife.\\n*   **Alec:** Estra's brother, whom she tends due to PTSD from captivity; he is beginning to trust Ryan as \\\"brother.\\\"\\n*   **Charlotte & Florence:** Potential victims of Estra's trauma; Estra vows not to hurt them.\\n*   **Rachael:** Helper using psychological positioning to soothe Alec.'"
+summary: "A post-consummation conversation between Ryan Adame and Estra Hamilton in Claymore Manor's Lord's Bath (June 19, 1843, evening), where Ryan defines Estra's role in the marriage triad as the dark equalizer rather than a soft wife. Select when referencing Estra's need to guard Alec through nightmares, Alec first calling Ryan \"brother,\" Estra's warning that she is functionally controlled not healed, the storm-cloud blue wedding dress choice, Rachael's corner-positioning technique for Alec's anxiety, or Estra bringing Alec to their bed on the wedding night. Ryan accepts unconditionally; Estra acknowledges Charlotte's wariness. Key participants: Ryan Adame, Estra Hamilton; Alec Hamilton and Rachael Blakeney referenced."
 location: Claymore Manor
 scene_type: intimacy
 character_present:

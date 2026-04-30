@@ -17,7 +17,7 @@ keys:
   - golden beacon
 position: after
 depth: 4
-summary: This is a pivotal reunion scene between Ryan Adame and his birth mother, Queen Maya of Duran, after 15 years. Select when the narrative focuses on Ryan's return to his homeland, the emotional resolution of his royal identity, or the integration of his found family into the palace. Key relationships are Ryan/Queen Maya (mother/son), Ryan/Charlotte (wives, sensory link), and the collective 'family' unit (including Cornelia, Charlie, Estra). It establishes sanctuary, royal recognition, and the formal adoption of Ryan's companions into the royal household.
+summary: "Ryan Adame's reunion with his biological mother Queen Maya of Duran at the Palace of Loth Logan on June 21, 1843 (12:12–1:02 AM). Select when referencing Ryan's return to Duran, royal recognition of his found family, or sanctuary establishment. Key participants: Ryan Adame (birth name Darian revealed), Queen Maya (emotional reunion, kneeling on dock), Charlie (announces arrival), Cornelia vi Relani (declared family), Charlotte, Florence, and Estra (introduced as wives), Rachael, Alec, William. Triggers: Queen Maya reunion, birth name Darian, found family declaration, Cornelia accepted, palace west wing suite, staff integration east wing, Althena bathtub."
 location: Duran
 scene_type: revelation
 character_present:

@@ -19,7 +19,7 @@ keys:
   - white flag riders
 position: after
 depth: 4
-summary: "**What:** A legal and supernatural event where the Oracle validates Estra Hamilton's dual status as protective kin and co-wife, channeling the goddess Althena to write a \\\"Four vessels. One covenant\\\" clause.\\n\\n**When:** Tuesday, June 20, 1843 at 9:16 AM, immediately following Ryan's affirmation and the drafting of Article Seven.\\n\\n**Key Relationships:** Involves Ryan (Divine Vessel), Estra (recipient of status), Charlotte (draftsperson), Florence, Eva (reporting riders), and Mina (intercepting Ryan)."
+summary: "A supernatural legal event in Claymore Manor's Blue Drawing Room (June 20, 1843, 9:16 AM) where the Oracle channels the goddess Althena to validate Estra Hamilton's unprecedented dual designation as both protective kin and equal co-wife. Select when referencing Article Seven Dual Designation Clause, Althena's physical manifestation (rain falling upward, ink floating and rearranging into gold leaf), the \"Four vessels. One covenant\" inscription, the divinely irrevocable contract, or riders arriving under a white parley banner identifying Ryan as the Divine Vessel. Charlotte drafts the clause; Oracle collapses after channeling. Key participants: Ryan Adame, Charlotte Claymore, Estra Hamilton, Oracle, Mina Adame, Eva Riensdauter."
 location: Claymore Manor
 scene_type: negotiation
 character_present:

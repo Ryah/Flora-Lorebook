@@ -18,7 +18,7 @@ keys:
   - Reach Advantage
 position: after
 depth: 4
-summary: This is a private conversation between Ryan Adame and Florence Claymore before a scheduled blood debt rematch. Select when referencing Ryan's hidden combat abilities, his psychological preparation for the fight, or the household's dynamics and betting pool. Key relationships are Ryan's vow to fight Estra Hamilton at full strength, Florence's support and recognition of his "old friend" darker self, and the reactions of other household members (Charlotte, Howard, Mrs. Marie).
+summary: "A pre-match intimate conversation between Ryan Adame and Florence Claymore in Claymore Manor's Master Suite (June 19, 1843, ~2:45–3:15 PM), where Ryan declares his intent to fight Estra Hamilton at full capacity for the first time. Select when referencing Ryan's hidden combat power, the brick room \"old friend\" persona, Florence's tactical analysis of Estra's reach disadvantage and left-side overextension, household betting pool chaos, or Ryan's vow to fight without restraint. Florence expresses competitive faith where Charlotte shows analytical fear; both acknowledge the weapon Loren conditioned Ryan to become. Key participants: Ryan Adame, Florence Claymore."
 location: Claymore Manor
 scene_type: intimacy
 character_present:

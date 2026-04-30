@@ -17,7 +17,7 @@ keys:
   - Mrs. Marie
 position: after
 depth: 4
-summary: A narrative sequence (1843) depicting Estra's psychological breakdown and acceptance of her past identity, Stephany. Select when Estra is vulnerable or accepting Ryan's care. Key relationships include Ryan (emotional support), Alec (brother figure), and Loren (past oppressor).
+summary: "Identity recovery scene at Claymore Manor (1843) where Estra Hamilton breaks down and accepts her birth name Stephany, guided by Ryan through a dragon allegory about survival versus kindness. Select when Estra is psychologically fragile, accepting comfort, reclaiming her past identity, or transitioning from survival mode. Key participants: Ryan (emotional anchor), Estra/Stephany (breakthrough), Alec (referenced). Tags: purple-eyed princess, hot apple cider, dragon allegory, flooding, Mrs. Marie, birth name."
 location: Claymore Manor
 scene_type: confession
 character_present:

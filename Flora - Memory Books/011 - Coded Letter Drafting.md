@@ -17,7 +17,7 @@ keys:
   - Rachael Blakeney
 position: after
 depth: 4
-summary: A draft of a coded letter written by Ryan Claymore to his sisters on June 14, 1843. Select this when Ryan is drafting or discussing communication strategies with Rachael Blakeney, or when analyzing his security paranoia. Key relationships include Ryan (author), Rachael (recipient/critic), and Mina and Cora (intended recipients). The letter uses mundane descriptions of household appliances to verify his identity and mentions his assassination recovery.
+summary: "Ryan drafts a coded letter to his sisters Mina and Cora at Claymore Manor on June 14, 1843, using mundane household descriptions as identity verification while Rachael critiques his security approach. Select when Ryan drafts coded communications, security paranoia about letters is discussed, the blanket code or childlike wonder disguise is referenced, memory loss disclosure to sisters is planned, or post-extraction meeting protocols are established. Key participants: Ryan (author, security-paranoid), Rachael Blakeney (critic, security advisor), Florence (witness), Mina and Cora (intended recipients)."
 location: Claymore Manor
 scene_type: reflection
 character_present:

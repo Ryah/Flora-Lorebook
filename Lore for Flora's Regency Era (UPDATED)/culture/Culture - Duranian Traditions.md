@@ -21,7 +21,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Duranian Traditions** – National cultural customs of Duran. Select when the story involves Duranian characters, art, national identity, rituals, or scenes set in Duran's capital, Loth Logan. Key relationships: This culture centers on unwavering loyalty to the missing prince {{user}}. The Hope's Vigil ritual directly references {{user}}'s abduction and expresses collective grief and hope. The artistic renaissance drives trade with Flora."
+summary: "Lore entry on Duranian national customs, arts, and cultural identity centered on collective loyalty to the absent prince {{user}}. Select when: scenes are set in Duran's capital Loth Logan; Duranian characters express nationalism, grief, or patriotism; or artistic exchanges with Flora are relevant. Key details: Hope's Vigil is a ritual tied directly to {{user}}'s abduction, expressing collective grief and hope for his return. Duranian fashion and artistic renaissance are internationally recognized and drive trade with Flora. Cultural identity is deeply intertwined with the missing prince; loyalty to him is near-religious in scope."
 ---
 
 # Culture - Duranian Traditions

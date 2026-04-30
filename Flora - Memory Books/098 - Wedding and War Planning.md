@@ -17,7 +17,7 @@ keys:
   - Loren's network
 position: after
 depth: 4
-summary: "This is a strategic planning session for a wedding ceremony that doubles as a military defense. Select when characters discuss the wedding's dual purpose, legal vows, tactical integration, or family dynamics. Key relationships: Ryan (organizer), Estra (bride), Charlotte (legal), Florence (emotional tone), Alec (Estra's protector), and Priti/Cora (intelligence). The plan merges debt resolution, voluntary marriage, and a coordinated counterattack against Loren."
+summary: "A combined wedding vow drafting and war room planning session in Claymore Manor's War Room (June 20, 1843, 2:35–3:35 PM) where Estra Hamilton demands her vows explicitly close the blood debt before her free-choice marriage. Select when referencing Estra's closed-ledger vow language, Charlotte's legal autonomous-commitment framing, Priti's Crown cryptography breakthrough enabling Loren's network decryption, Alec's fourth escape route validated by William and Howard, Ryan's permission for bullet-point and profanity vows, the family group embrace, or the operational timeline (10 PM guests, 11 PM wedding, midnight evacuation). Key participants: Ryan, Estra, Charlotte, Florence, William, Alec, Howard, Priti, Cora, Cornelia."
 location: Claymore Manor
 scene_type: negotiation
 character_present:

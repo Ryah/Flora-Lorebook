@@ -16,7 +16,7 @@ keys:
   - Blue Drawing Room
 position: after
 depth: 4
-summary: "**What:** A scene at Claymore Manor where Ryan Adame (revealed as the missing Prince of Duran) identifies the assassin Estra Hamilton hiding in the Blue Parlor and devises a plan to recruit her as a double agent.\\n\\n**When:** Thursday, June 15, 1843, evening (following a strategy session and prior to a planned library encounter).\\n\\n**Key Relationships:**\\n*   **Ryan Adame:** The target of the assassination and the Prince of Duran.\\n*   **Estra Hamilton:** The servant assassin (target for recruitment).\\n*   **Charlotte Claymore:** Strategic partner who receives the signal.\\n*   **Loren:** The antagoni"
+summary: "A tactical intelligence scene at Claymore Manor (June 15, 1843, evening) where Ryan identifies assassin Estra Hamilton among household staff by her position near the grandfather clock, signals Charlotte via a left-ear touch, and reveals to the inner circle his identity as the kidnapped Prince of Duran missing for fifteen years. Select when: Estra is first identified, Ryan's princely identity is disclosed to allies, the double agent recruitment plan is formed, Henry's east wing library tip, or the Sea Witch 21-day deadline is established. Key participants: Ryan (identifying/disclosing), Charlotte (strategic partner), Estra (identified spy), Howard, Henry Whitmore, Rachael. Tags: Prince of Duran, Estra Hamilton, grandfather clock signal, double agent recruitment, Sea Witch, 21-day deadline, east wing library, Prince Charles."
 location: Claymore Manor
 scene_type: investigation
 character_present:

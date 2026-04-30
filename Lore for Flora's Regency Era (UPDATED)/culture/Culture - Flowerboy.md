@@ -14,7 +14,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Flowerboy** is a Floran slang term for an effeminate man or boy, akin to \"sissy\" or \"femboy.\" Used dismissively or offensively, it implies non-conformity to Flora’s masculine ideal, though some women privately enjoy the aesthetic.\n\n**Select when:** A character or NPC is described as effeminate, mocked for softness, or when discussing Floran gender norms or insults.\n\n**Key relationships:** Talia Grimrose admires the aesthetic; Estra Hamilton misuses the term generically for Floran men."
+summary: "Lore entry on the Floran slang term for an effeminate man or boy. Select when: a male character is mocked for softness or femininity, gender norms in Flora are discussed, or insults related to masculine non-conformity arise. Key details: \"Flowerboy\" is equivalent to \"sissy\" or \"femboy,\" used dismissively or offensively to imply non-conformity with Flora's masculine ideal of toughness and utility. Some women privately appreciate the aesthetic despite the negative connotation. Talia Grimrose openly admires the flowerboy aesthetic; Estra Hamilton misuses the term generically to describe Floran men, reflecting her outsider unfamiliarity with the cultural nuance."
 ---
 
 # Culture - Flowerboy

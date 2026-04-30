@@ -17,7 +17,7 @@ keys:
   - mutual consent
 position: after
 depth: 4
-summary: "**What:** An impromptu triadic marriage ceremony where Rachael gifts Ryan and his sisters heirloom gold bands to sanctify a modified contract, immediately followed by a sexual dominance scene and strategic planning.\\n\\n**When:** Friday, June 16, 1843, between 11:00 AM and 11:20 AM in the Lord's Quarters of Claymore Manor, prior to the 8 PM meeting with Estra.\\n\\n**Key Relationships:** Rachael (giver of bands), Ryan (sincere suitor), Charlotte (immediate dominant partner), Flora (intended public wife), and Estra (trusted ally)."
+summary: "A matrimonial and dominance scene in the Lord's Quarters (June 16, 1843) where Rachael gifts three grandmother's gold bands from a velvet box to sanctify the triadic union, the trio exchange will-binding vows, and Charlotte immediately asserts silk-cord dominance over Ryan before transitioning to tactical planning for the 8 PM Estra meeting and June 17 wedding. Select when: the gold band exchange, Charlotte's dominant submission ritual, Ryan addressing Charlotte as "Mistress," Rachael's wedding planning role, or the tactical objectives for Alec and Estra are referenced. Key participants: Rachael (ring-giver/planner), Charlotte (dominant Mistress), Ryan (submissive), Florence (witness). Tags: grandmother's gold bands, velvet box, silk cord restraints, bedpost bindings, Mistress address, June 17 wedding, 11-day Alec deadline, Sea Witch manifest verification, mutual consent vows."
 location: Claymore Manor
 scene_type: consummation
 character_present:

@@ -11,7 +11,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Entry: Dorian (The Gilded Cage's Architect)**  \n\n**What it is:** Dorian is the Consort to the Duchess of Luna's Ferry, a psychologically manipulative male who uses his beauty, holy past as a Seer/Oracle, and cold mystique to dominate his powerful wife from a socially subordinate position. He withholds intimacy and belittles her to maintain control.  \n\n**When to select:** When the narrative involves psychological manipulation, marital power struggles, gender dynamics in a female-dominated society, or characters with a holy/seer background who wield authority through mystique rather than force.  \n\n**Key relationships:**  \n- **Duchess of Luna's Ferry** (his wife): Target of his psychological domination. He forces her to seek his approval.  \n- **The Church/his past as a Seer**: Source of his tactics and aesthetic; he perverts his former holy role for personal gain."
+summary: "Dorian is the Consort to the Duchess of Luna's Ferry — a psychologically manipulative man who leverages his beauty, cold mystique, and former life as a holy Seer/Oracle to dominate his powerful wife from a socially subordinate position through emotional withholding and belittlement. Select when: scenes involve psychological manipulation, marital power struggles, gender dynamics in a female-dominated society, or authority wielded through mystique and denial rather than force. Key relationships: Duchess of Luna's Ferry (wife and target of his psychological domination — he forces her to seek his approval); his Church past (the source of his aesthetic and tactics, which he perverts for personal control)."
 ---
 
 # Characters - Dorian

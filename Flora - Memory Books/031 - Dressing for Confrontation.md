@@ -18,7 +18,7 @@ keys:
   - Edmund Girard exposure
 position: after
 depth: 4
-summary: "**What:** An intimate post-coital dressing scene between Florence Claymore and Ryan. **When:** June 15, 1843, evening, preceding a confrontation with Charlotte and the assembly. **Key Relationships:** Florence (naked/injured), Ryan (caretaker/partner), Charlotte (awaiting antagonist). Florence asserts her agency and commitment to the triad, vowing to face Charlotte as an equal partner."
+summary: "An intimate post-coital dressing scene in the Lord's Quarters (June 15, 1843) where Ryan assists an injured Florence to dress before facing Charlotte and the evening assembly, and Florence affirms her triad commitment by declaring she chooses both Ryan and Charlotte without apology. Select when: Florence's ankle injury and care dynamic, triad commitment reaffirmation, the couple's walk toward the Edmund Girard assembly, or Florence's agency as Ryan's equal partner are relevant. Key participants: Ryan (caretaker), Florence (injured, asserting triad choice). Tags: linen splint, swollen ankle, damp linen shirt, grey wool trousers, golden ponytail, leather cord, candlelit corridor, triad vow, Edmund Girard exposure."
 location: Claymore Manor
 scene_type: intimacy
 character_present:

@@ -18,7 +18,7 @@ keys:
   - Oracle
 position: after
 depth: 4
-summary: This is a lore entry detailing a private, sexually charged morning encounter between Ryan Adame and his three wives (Charlotte, Florence, Estra) at Claymore Manor. It should be selected for scenes involving their intimate dynamics, Ryan's vulnerability/sleep-talking, or the wives' complex relationships (Charlotte's manipulation, Florence's pity, Estra's protectiveness). Key relationships are the marital unit versus the external threat of Rachael's interruption, which creates a tense standoff. The entry establishes character motivations and a critical moment of near-discovery.
+summary: "A charged morning scene in Claymore Manor's Master Bedroom (June 20, 1843, 6:15 AM) where Charlotte and Florence engage in intimate play while Ryan sleeps, with Estra as reluctant observer and eventual protector. Select when referencing Ryan's sleep-talk revealing brick room trauma, Charlotte's psychological probing during Ryan's vulnerability, Estra's protective instinct overriding her discomfort, or the high-stakes interruption by Rachael announcing the Oracle's noon arrival. Charlotte covers Ryan; Estra physically pins him and muffles potential sounds; scene ends in standoff with Rachael waiting outside. Key participants: Ryan Adame, Charlotte Claymore, Florence Claymore, Estra Hamilton, Rachael Blakeney."
 location: Claymore Manor
 scene_type: intimacy
 character_present:

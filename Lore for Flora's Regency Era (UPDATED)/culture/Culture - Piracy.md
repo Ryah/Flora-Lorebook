@@ -15,7 +15,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Piracy in Nisra** is an outlaw culture operating in the southern seas (Flora, Duran, Pradesh islands), tolerated by Skaagi rulers. It comprises Floran malcontents (fleeing female supremacy, ex-Navy press-gangs) and Pradeshi resistance fighters targeting Skaagi occupiers. The Floran Navy has a complex relationship: it hunts pirates for prize money but secretly allies with figures like the Pradeshi pirate king. Notable pirates include Aarav Moksha (Pradeshi liberator), Jakob Sullivan (ex-Navy lieutenant), and Lady Francisca Blake (Floran privateer).\n\n**Select this entry** when the topic involves: maritime crime, naval-military interactions, male fugitives from Floran society, anti-Skaagi resistance, or characters with nautical outlaw backgrounds. **Key relationships**: Floran Navy (adversarial/commercial), Skaagi rulers (tolerant), Aarav Moksha, Jakob Sullivan, Lady Francisca Blake."
+summary: "Lore entry on piracy culture in the southern seas of Nisra, encompassing Flora, Duran, and the Pradesh islands. Select when: maritime crime, naval-military interactions, male fugitives from Floran society, anti-Skaagi resistance, or characters with nautical outlaw backgrounds are relevant. Key details: Pirates are tolerated by Skaagi rulers. Floran pirates are typically malcontents fleeing female supremacy or press-ganged ex-Navy sailors. Pradeshi pirates are resistance fighters targeting Skaagi occupiers. The Floran Navy hunts pirates for prize money but maintains secret alliances with key figures. Notable pirates: Aarav Moksha (Pradeshi liberator), Jakob Sullivan (ex-Navy lieutenant), Lady Francisca Blake (Floran privateer)."
 ---
 
 # Culture - Piracy

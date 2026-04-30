@@ -13,7 +13,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Entry: Howard Ragnar, Consort to Matriarch Rachael Blakeney**\n\n**What it is:** A Valheimr warlord's son integrated as a devoted consort in a matriarchal Floran society. Represents a \"tamed beast\" archetype—a powerful warrior fulfilled by a loving, female-led dynamic rather than weakened by it.\n\n**When to select:** When the narrative involves Rachael's household, family dynamics, gender role interactions, Valheimr-Floran cultural contrasts, or Howard personally (as husband, father, or protector).\n\n**Key relationships:** Consort to Matriarch Rachael Blakeney. Lives within her estate and culture (Flora's society). Father to their children. His gruff exterior masks deep family loyalty. His warrior instincts are channeled into family defense and service."
+summary: "Howard Ragnar is the Consort of Matriarch Rachael Blakeney — a Valheimr warlord's son who channeled his warrior nature into devoted family service, embodying the \"tamed beast\" archetype: formidable strength fulfilled rather than diminished by a loving female-led dynamic. Select when: scenes involve Rachael's household, Valheimr-Floran cultural contrasts, gender role dynamics within a matriarchal structure, or a gruff but deeply loyal husband and father figure. Key relationships: Rachael Blakeney (wife and the matriarch of his household — he lives within her culture and by her authority); their children (his core motivation, the purpose into which his warrior instincts are channeled)."
 ---
 
 # Characters - Howard Ragnar

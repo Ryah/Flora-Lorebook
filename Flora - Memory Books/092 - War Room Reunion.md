@@ -18,7 +18,7 @@ keys:
   - grates
 position: after
 depth: 4
-summary: "**AI Search Summary:** This is a pivotal scene where Ryan Adame reveals his father, William, is alive. William, presumed dead for 15 years, emerges from hiding with critical intelligence on secret tunnels in Claymore Manor. The reunion with allies Howard and Rachael Blakeney is emotionally charged, resolving a long-standing deception. It should be selected when the narrative involves the family's history, the imminent attack by Loren, or planning the manor's defense. Key relationships are William with his children, the Blakeneys, and the threat of Loren. The information on the tunnels is tacti"
+summary: "An emotionally charged family revelation in Claymore Manor's War Room (June 20, 1843, 11:05–11:12 AM) where Ryan Adame unveils William Adame—his father presumed dead for fifteen years—who survived by hiding in secretly dug tunnels. Select when referencing William's gaunt appearance in a borrowed navy coat, Howard Blakeney's recognition embrace, Rachael's tearful confrontation of William's fifteen-year deception, the three escape tunnels unknown to Loren, or Cora's charcoal tunnel sketches. William reveals he watched through grates as Rachael protected the family. Key participants: Ryan Adame, William Adame, Howard Blakeney Ragnar, Rachael Blakeney, Charlotte, Florence, Estra, Mina, Cora, Cornelia."
 location: Claymore Manor
 scene_type: revelation
 character_present:

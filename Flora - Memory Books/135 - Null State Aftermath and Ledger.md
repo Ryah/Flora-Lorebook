@@ -38,7 +38,7 @@ character_present:
   - Mina
   - Cora
   - Claire
-summary: "**When selected:** When discussing the bond's nature, training, or emotional regulation; when characters consider reducing Charlotte's pain during projection or Ryan's sensory overload.,**Key relationships:** Ryan Adame (bond holder), Charlotte (Anchor), Althena (divine source providing explanation), Mina (categorizes as last resort), Estra (identifies partial dampening), Cora (recognizes emotional regulation implications), Claire (serves tea, minor), Florence (notes need to reopen door)."
+summary: "Bond dampening and null state concept discussion in the Solarium of the Palace of Loth Logan, June 22, 1843. Althena explains that full dampening creates a null state: the bond becomes dormant, technically intact but permanently silent, leaving both Ryan and Charlotte isolated within a connected but unresponsive link. Select when: the null state or dormant bond is referenced; full bond silencing and its emotional cost are weighed; the spectrum between full connection and full silence is relevant; or the distinction between severing and silencing the bond matters. Key participants: Ryan (bond holder, asks about dampening), Charlotte (Anchor, fears null state isolation, remembers bond silence at wedding), Althena (explains null state costs, confirms partial spectrum), Mina (last resort categorization), Estra (partial dampening as practical solution), Cora (emotional regulation at divine level)."
 ---
 
 # 135 - Null State Aftermath and Ledger
