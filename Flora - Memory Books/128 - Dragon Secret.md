@@ -22,7 +22,7 @@ character_present:
   - Ryan
   - Estra
   - Alec
-summary: "**What is this:** A pivotal character moment between Ryan and Alec in 1843 Loth Logan. Ryan reveals the nature of the silver bond (emotional link to Charlotte) and proposes a secret joint project: drawing a family portrait of Ryan, Alec, Estra, Florence, and Charlotte, with Alec depicted as a roaring dragon.\\n\\n**When to select:** Any scene involving Ryan, Alec, the silver bond, family dynamics, trauma recovery, or secret projects in this timeline. Especially relevant when Alec discusses his captivity or emotional isolation.\\n\\n**Key relationships:** Ryan (bargaining/sharing), Alec (secret-keeper/artist), Estra (to be kept in the dark), Charlotte (bond subject), Florence (portrait subject). Alec’s self-perception shifts from \\\"dragon alone\\\" to \\\"protector within a family."
+summary: "Secret-sharing and collaborative art proposal between Ryan Adame and Alec Hamilton in Alec's Room, East Wing, Palace of Loth Logan, June 22, 1843 at 5:29 AM. Select when: Ryan explains the silver bond to Alec; a secret family portrait project is discussed; Alec's captivity trauma or emotional isolation is relevant; or Alec shifts from \"dragon alone\" to family protector identity. Key participants: Ryan (reveals bond secret, proposes portrait depicting Alec as roaring dragon, exits backwards to Marten meeting), Alec age 7 (secret-keeper, promises to finish tail spikes, adopts protector role within family), Estra (kept in the dark about the portrait until afternoon reveal), Charlotte (bond subject and portrait figure), Florence (portrait figure)."
 ---
 
 # 128 - Dragon Secret

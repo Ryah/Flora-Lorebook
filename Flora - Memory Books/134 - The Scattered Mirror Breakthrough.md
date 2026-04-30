@@ -35,7 +35,7 @@ character_present:
   - Mina
   - Cora
   - Claire
-summary:
+summary: "Power training breakthrough scene in the Solarium of the Palace of Loth Logan, June 22, 1843 at 7:07-7:10 AM, where Charlotte discovers the broadcast command technique, freezing eleven water droplets simultaneously by treating water as one entity rather than negotiating with each individually. Select when: Charlotte's silver ice training is depicted; the broadcast vs. parallel negotiation technique is discussed; Ryan demonstrates single-entity water commands; glow localization and thread placement for concealment are relevant; or Charlotte detects Ryan secretly keeping extra loops active. Key participants: Charlotte (breakthrough from 3 to 11 droplets, detects hidden loops), Ryan (demonstrates broadcast, secretly keeps 2 loops), Estra (identifies attention-scatter as root problem), Althena (reframes failure as attention issue), Cora (documents paradigm shift), Claire (crowd-calling metaphor)."
 ---
 
 # 134 - The Scattered Mirror Breakthrough

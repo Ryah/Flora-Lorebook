@@ -24,8 +24,7 @@ character_present:
   - Charlotte
   - Florence
   - Mina
-summary: |-
-  **Entry: 131 - Carried & Crows**
+summary: "Domestic physical affection and playful bonding scene in the East Kitchen Courtyard of the Palace of Loth Logan, June 22, 1843 at 6:19 AM, where Ryan carries Charlotte in a bear hug tackle and the group discusses crows, Althena's bathtub, and Ryan's divine invocation. Select when: Ryan carries or lifts Charlotte or any wife; Charlotte is flustered or physically vulnerable; Ryan reflects on having carried all his wives; the crow king idea or divine summoning invocation (\"Big titty manifestation of all things holy\") is referenced; or Althena's bathtub location is discussed. Key participants: Ryan (bear hug tackle, crow king idea, divine tits invocation), Charlotte (flustered, stays on Ryan's chest, insists she was \"strategically relocated\"), Florence (laughs, teases, crow mail enthusiast), Mina (flat commentary, smallest finger brushes Ryan's on grass)."
 
   **What it is:** A domestic bonding scene between Ryan Adame and his wives (Charlotte, Florence, Mina) in the East Kitchen Courtyard of the Palace of Loth Logan on June 21, 1843. Ryan carries Charlotte after she falls, then reflects on having carried all his wives. Conversation shifts to crows, Althena’s location, and Ryan calling God "hot."
   **When selected:** The AI should select this entry when the user references: (1) Ryan carrying or picking up Charlotte or any of his wives; (2) Charlotte feeling embarrassed, flustered, or vulnerable; (3) the "crow king" idea or birds; (4) Althena’s whereabouts or the bathtub situation; (5) Ryan’s irreverent comment about God; (6) Florence, Mina, or Charlotte reacting to Ryan’s antics; (7) any mention of the bond between Ryan and Charlotte.
