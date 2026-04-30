@@ -17,12 +17,7 @@ keys:
   - golden beacon
 position: after
 depth: 4
-summary: |-
-  **What is this?** A key conversation between Ryan Adame and his brother Charlie, summarizing major recent plot developments (marriages, divine status, family revelations) as Ryan's ship arrives in Duran.
-
-  **When to select?** When the AI needs context on Ryan's current status, his marriages, his divine powers as Althena's Vessel, the restored sensory link with Charlotte, or the political situation awaiting him in Duran. Crucial for scenes involving family reunions, court politics, or using his abilities.
-
-  **Key relationships:** Ryan & Charlie (brothers, reunion); Ryan & his wives (Charlotte, Florence, Estra marriages detailed); Ryan & Althena (Divine Vessel); the Adame family (father revealed alive, mother Queen Maya); antagonists (Loren Claymore's agents in Duran).
+summary: "Ryan Adame recaps recent events to his brother Charlie aboard the Relani's Crown approaching Duran on June 20–21, 1843. Select when referencing Ryan's Divine Vessel status, backstory of his marriages, Charlotte's restored sensory link, Loren's agents in Duran, or the golden beacon demonstration. Key participants: Ryan Adame (Divine Vessel, Fleet Admiral of Miracles), Charlie (Regent of Duran), Charlotte Claymore (sensory link restored at midnight), Florence and Estra (marriages detailed), William Adame (revealed alive). Triggers: Divine Vessel, golden beacon, sensory bond restored, equal marriage rights, Loren's agents in Duran, Queen Maya meeting, harbor arrival."
 location: Duranian Harbor
 scene_type: dialogue
 character_present:

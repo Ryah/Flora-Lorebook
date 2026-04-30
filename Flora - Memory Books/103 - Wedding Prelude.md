@@ -17,7 +17,7 @@ keys:
   - tunnel escape plan
 position: after
 depth: 4
-summary: "This is a pivotal moment: the immediate prelude to Ryan Adame's wedding to Estra at Claymore Manor. Select when the scene involves the tense lead-up to the ceremony, the complex emotional dynamics between Ryan and his wives, or a demonstration of divine power. Key elements: Ryan heals Lord Wainwright via the goddess Althena; Charlotte's fear of the sensory bond is temporarily muted as a \\\"wedding gift\\\"; and Estra's vulnerable arrival at the chapel. Central relationships are Ryan's bonds with Charlotte, Florence, and Estra, and his connection to Althena."
+summary: "The tense prelude to Ryan Adame and Estra Hamilton's wedding ceremony at Claymore Manor on June 20, 1843 (10:01–10:30 PM). Select when referencing divine healing, Charlotte's sensory link anxiety, or the moments immediately before the vows. Key participants: Ryan Adame (heals Lord Wainwright via Althena, requests sensory bond muting), Charlotte Claymore (fears bond intensity during ceremony, relieved by muting), Florence Claymore (hostess), Estra Hamilton (arrives in midnight blue silk gown). Triggers: Lord Wainwright gout healing, Althena divine intervention, sensory link muting as wedding gift, blue wedding dress, tunnel escape plan reveal, eight minutes to vows."
 location: Claymore Manor
 scene_type: dialogue
 character_present:

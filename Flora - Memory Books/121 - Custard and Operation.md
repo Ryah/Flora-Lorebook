@@ -45,7 +45,7 @@ character_present:
   - Florence
   - Estra
   - Queen Maya
-summary: "Custard and Operation: A covert operation conducted on June 21, 1843, during formal dinner custard service at the Palace of Loth Logan. The entry should be selected when characters execute a planned infiltration or interception, requiring coordinated distraction, projection magic, and servant interception. Key figures: Ryan Adame (initiates timeline, orders Petra to his room as pretext), Estra (intercepts Petra using servant passages, armed with karambit), Florence and Charlotte (support Ryan's projection, guard study), Queen Maya (covers the interaction), Howard, Mina, Cora, Rachael (backup/distraction). Central action: Ryan projects to meet Petra while group secures a disused study, using physical contact to anchor projection and avoid feedback dissonance from prior attempt."
+summary: "Covert operation during custard service at the formal dinner on June 21, 1843 (~8:18–8:23 PM), Palace of Loth Logan. Select when characters execute a coordinated interception using projection, distraction, and servant passages. Key participants: Ryan Adame (accelerates timeline, summons Petra, projects to meet her), Estra Hamilton (intercepts Petra via servant passages, karambit armed), Charlotte and Florence Claymore (anchor Ryan's projection in disused study), Queen Maya (social cover), Howard and Mina (backup, east corridor), Cora (documents Petra's gait). Triggers: projection with physical contact anchor, Petra interception, custard service, west door diversion, feedback dissonance prevention, seven-minute servant route."
 ---
 
 # 121 - Custard and Operation

@@ -17,12 +17,7 @@ keys:
   - therapist hiring discussion
 position: after
 depth: 4
-summary: |-
-  **Petra's Defection** records the June 21, 1843 negotiation where Petra Voss confesses she is a spy for Loren Claymore, who holds her 14-year-old brother Marten hostage. Ryan Adame offers protection for Marten in exchange for modified intelligence and secrecy about Ryan's projection ability. The deal is accepted; Charlotte proposes framing Ryan as reckless to maintain Loren's underestimation.
-
-  **Select this entry** when the AI needs to reference: Petra's true allegiance/reason for spying, the specific dead drop location (thornless rose bush, third from fountain, north garden), the terms of Ryan's counter-offer, Charlotte's deception strategy, or the planned meeting for Ryan to see Marten (east kitchen courtyard, after breakfast next day).
-
-  **Key relations:** Petra Voss (spy/defector), Marten Voss (leverage), Loren Claymore (antagonist), Ryan Adame (negotiator/protector), Charlotte (strategy advisor), Estra and Mina (escorts).
+summary: "Ryan Adame (in projection form) negotiates Petra Voss's defection in the East Corridor Study on June 21, 1843 (~8:32–8:40 PM). Select when referencing Petra's allegiance, her brother Marten as Loren's leverage, the dead drop location, or Charlotte's misinformation strategy. Key participants: Ryan Adame (offers Marten's protection for modified intelligence), Petra Voss (spy for Loren; brother Marten held hostage; defects), Charlotte Claymore (proposes framing Ryan as reckless to maintain Loren's underestimation), Estra and Mina (escort). Triggers: Marten Voss hostage, thornless rose bush dead drop north garden third from fountain, water ball demonstration, east kitchen courtyard morning meeting, therapist hiring."
 location: Duran
 scene_type: negotiation
 character_present:

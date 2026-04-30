@@ -17,7 +17,7 @@ keys:
   - June 21 1843
 position: after
 depth: 4
-summary: "**What:** Log of the group's first night and morning after arriving at the Palace of Loth Logan, covering rest, security planning, and initial discussions of Ryan's new divine abilities.\\n\\n**When to Select:** For queries about the immediate aftermath of the harbor manifestation, the group's dynamic and security measures post-arrival, Ryan's early bilocation, or planning for the first practice session.\\n\\n**Key Relationships:** Ryan's evolving leadership; Charlotte's protective analysis; Henry & Claire's logistical support; group's collective trust in Claire."
+summary: "First night and morning at the Palace of Loth Logan after the harbor escape, June 21, 1843 (2:28 AM–9:25 AM). Select when referencing the group's post-escape recovery, the solarium secured for practice, Claire's trust debate, or planning the 10 AM divine power session. Key participants: Ryan Adame (reveals bilocation to Henry, feigns sleep), Charlotte, Florence, and Estra (two-hour watch rotation), Henry (brings food, describes harbor event), Claire (secures solarium, joins breakfast teasing). Triggers: harbor gold signature, Loren agent catalog, bilocation reveal, solarium secured, sleep rotation, Claire trust debate, 10 AM practice planning."
 location: Duran
 scene_type: recovery
 character_present:

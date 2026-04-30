@@ -40,7 +40,7 @@ scene_type: dreamscape
 character_present:
   - Ryan
   - Charlotte
-summary: "**What this is:** A hand-carved wooden boat with faded blue-and-gold paint—a toy from Ryan's stolen childhood, preserved by the labyrinth. Ryan finds it without conscious memory in the Memory Tree Chamber's final garden, makes a copy, and leaves the original.\n\n**Selection trigger:** When the narrative focuses on Ryan's lost childhood, the labyrinth's preservation of personal history, or the moment Charlotte chooses not to annotate.\n\n**Key relationships:**  \n- Ryan Adame: The boat is his lost childhood toy; he copies it but leaves the original in the labyrinth.  \n- Charlotte Claymore: Witnesses the moment and, for the first time, chooses not to document it."
+summary: "Ryan Adame and Charlotte Claymore explore the Memory Tree Chamber and unmapped labyrinth rooms on June 22, 1843 (~2:20–4:52 AM dream time), culminating in a circular garden holding Ryan's childhood wooden boat. Select when referencing labyrinth exploration, Charlotte's childhood book restoration, or Charlotte choosing not to annotate for the first time. Key participants: Ryan Adame (copies wooden boat, leaves original; maps new rooms with chalk arrows), Charlotte Claymore (annotates field journal, then chooses not to document the boat moment for the first time ever). Triggers: Gardens of the Southern Counties book, childhood annotation, self-cycling fountain, Library of Unwritten Books, Observatory of Unnamed Stars, wooden boat Memory Tree, Marten meeting at dawn."
 ---
 
 # 125 - Wooden Boat

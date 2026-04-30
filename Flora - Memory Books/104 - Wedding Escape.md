@@ -17,7 +17,7 @@ keys:
   - Sacred Combat Bond vow
 position: after
 depth: 4
-summary: "This is the clandestine wedding and escape of Ryan Adame and Estra Hamilton. Select when referencing their marriage, the escape from Claymore Manor, or the divine intervention of Althena. Key relationships: Ryan (groom), Estra (bride), the Oracle (officiant), Althena (goddess), Charlotte & Florence Claymore (Ryan's other wives), Alec (Estra's brother), Cornelia vi Relani (Crown Princess who joins them), and William Adame (guide). The event is a pivotal, action-driven turning point."
+summary: "Ryan Adame and Estra Hamilton's clandestine wedding ceremony and tunnel escape from Claymore Manor on June 20, 1843 (~10:35 PM). Select when referencing the marriage ceremony, Althena's divine manifestation, the golden rain reversal, or the evacuation through the hidden tunnel. Key participants: Ryan Adame (groom), Estra Hamilton (bride), the Oracle (officiant), Charlotte and Florence Claymore (Ryan's other wives), Alec Hamilton (ring bearer), Cornelia vi Relani (joins escape), William Adame (tunnel guide). Triggers: wedding vows, golden rain, divine manifestation, hidden tunnel, smuggler's cave, Cornelia defects, Duran destination, escape at midnight."
 location: Claymore Manor
 scene_type: decision
 character_present:

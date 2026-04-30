@@ -27,7 +27,7 @@ keys:
   - starlit twilight water imagery
 position: after
 depth: 4
-summary: "Dream Sanctuary: a permanent shared lucid dreamscape created by Ryan Adame and Charlotte Claymore within their sensory bond, gifted by Althena as a private space free from spies. Select when characters enter a null state or shared dream, particularly Ryan and Charlotte in sensory connection post-projection. Key relationships: Ryan Adame (creates/manifests dream, teacher), Charlotte Claymore (learner, manifests her childhood conservatory sanctuary), Florence and Estra (physically asleep with them in waking world), Mina (awake outside, counting footsteps). The dreamscape responds to emotional states and agency, proving Charlotte can manifest independently"
+summary: "Ryan Adame and Charlotte Claymore enter a shared lucid dreamscape on June 21, 1843 (~9:55 PM), a permanent private sanctuary within their sensory bond gifted by Althena. Select when referencing the shared dream space, Charlotte's emotional vulnerability, her childhood glass conservatory, or Althena's permanent gift within the bond. Key participants: Ryan Adame (creates ballroom, teaches waltz, reveals dream mechanics), Charlotte Claymore (Countess mask dissolves; manifests childhood glass conservatory independently). Triggers: null state, lucid dreaming, Viennese waltz, brick room sensory deprivation, Althena permanent gift, spy-free mind space, Charlotte conservatory memory, silver-gold cord, Charlotte first person in sanctuary."
 location: Dreamscape
 scene_type: dreamscape
 character_present:

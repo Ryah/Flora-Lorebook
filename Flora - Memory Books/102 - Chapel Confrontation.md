@@ -17,7 +17,7 @@ keys:
   - Estra Hamilton
 position: after
 depth: 4
-summary: "This is a pivotal confrontation between Ryan Adame and his sister Mina before his wedding, focusing on trauma and hypervigilance. Select when referencing Ryan's relationships, wedding preparations, or the group's psychological tensions. Key elements: Ryan's harsh critique of Mina's protectiveness, Mina's breakdown and agreement to seek help, Alec's trauma mention, Charlotte's logistical role, and Ryan's secret post-escape plans with Charlotte."
+summary: "Tense pre-wedding confrontation in the Claymore Manor chapel on June 20, 1843 (9:15–9:56 PM). Select when referencing wedding-day tensions, trauma responses, hypervigilance debates, or demands for accountability. Key participants: Ryan Adame (confronts household), Mina Adame (breaks down, agrees to therapy), Alec Hamilton (mentions brick room), Charlotte Claymore (confirms house therapist starting Sunday), Florence Claymore (announces guests), the Oracle (religious wisdom). Triggers: brick room trauma, hypervigilance, chapel confrontation, Mina breakdown, house therapist, Althena rain signal, Charlotte post-escape secret plans."
 location: Claymore Manor
 scene_type: confession
 character_present:

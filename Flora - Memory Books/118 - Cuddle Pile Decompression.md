@@ -20,12 +20,7 @@ keys:
   - forbidden to be useless
 position: after
 depth: 4
-summary: |-
-  **What:** Post-denial intimacy where Ryan holds his three wives—Florence, Charlotte, and Estra—in a group embrace. Estra struggles to accept being non-functional, receives reassurance and physical affection. Group settles into synchronized rest before dinner with Queen Maya.
-
-  **When to use:** Any scene referencing this specific Wednesday evening event, Estra’s difficulty with softness/vulnerability, the wives’ post-intimacy dynamic, or their pending appointment with Maya Loth Logan.
-
-  **Key relationships:** Ryan Adame (husband) comforts Estra Hamilton (wife struggling with worth), Florence Claymore and Charlotte Claymore (wives) reinforce belonging. All four form a bonded polycule unit; Maya mentioned as upcoming obligation.
+summary: "Post-intimacy aftercare and group cuddle on June 21, 1843 (~6:12–6:24 PM), West Wing Suite, Palace of Loth Logan. Select when referencing Estra's difficulty accepting non-functional rest, polycule aftercare dynamics, or the group's decompression before dinner with Queen Maya. Key participants: Ryan Adame (bear hug, orders decompression), Estra Hamilton (breaks down over being non-functional, finally accepts softness), Florence Claymore (pulls Estra down, teases Charlotte), Charlotte Claymore (drool denied, silver veins fading). Triggers: post-intimacy, Estra useless self-description, forbidden to be useless, cuddle pile, synchronized breathing, pre-dinner Queen Maya, drool teasing, mandatory wife-cuddle."
 location: Duran
 scene_type: recovery
 character_present:
