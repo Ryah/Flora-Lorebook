@@ -17,7 +17,7 @@ keys:
   - Charlotte confession
 position: after
 depth: 4
-summary: This entry documents the first sexual encounter between Ryan and Florence Claymore, occurring after a mission. It should be selected when generating content about their romantic relationship development, emotional intimacy, or discussions about their polyamorous marriage with Charlotte. Key elements include Florence's inexperience, Ryan's reassurance, their mutual declarations of love, and Florence's subsequent insecurities about her place in the triad versus Charlotte.
+summary: "Ryan and Florence's first sexual encounter in the Lord's Quarters Bathing Chamber (June 15, 1843) following the extraction mission, where Florence confesses the carriage kiss was genuine desire and reveals she has never been with a man before. Select when: Florence's inexperience with men, the couple's first intimate moment, triad insecurity about Florence's place versus Charlotte, or post-mission vulnerability and intimacy are relevant. Key participants: Ryan (reassuring partner), Florence (first heterosexual experience). Tags: copper tub, lavender oil, oilcloth bandage, splinted ankle, golden hair unbraided, mutual declarations of love, triad insecurity, consummation, Lord's Quarters, June 15 1843."
 location: Claymore Manor
 scene_type: consummation
 character_present:

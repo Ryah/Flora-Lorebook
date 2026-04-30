@@ -17,7 +17,7 @@ keys:
   - 21-day countdown
 position: after
 depth: 4
-summary: "A lore entry documenting a pivotal triad formation between Ryan, Charlotte, and Florence on June 15, 1843. Select when depicting the group's initial sexual integration and the establishment of their dynamic, specifically Charlotte's dominant instruction and the binding of Ryan. Key relationships: Charlotte (dominant/possessive), Florence (equal partner), Ryan (submissive/inexperienced). Crucially, it shifts to a strategic discussion regarding the 21-day extraction plot and the necessity of free will in their commitment."
+summary: "A triad intimacy and strategic scene in the Lord's Quarters (June 15, 1843, late evening) where Charlotte confesses her possessive jealousy and lesbian identity, then assumes pedagogical dominance to instruct the triad's first shared sexual encounter, followed by a strategic discussion of Loren's 21-day extraction plot and the necessity of free will in their commitment. Select when: Charlotte's dominant role in the triad is established, the first shared sexual encounter is referenced, Charlotte's confession of jealousy over Ryan is needed, or the transition from intimacy to 21-day countdown strategy is relevant. Key participants: Charlotte (dominant instructor), Florence (equal participant), Ryan (first experience, submissive). Tags: dominant pedagogy, silk cords, bedpost bindings, black lace corset, silver combs, Loren extraction countdown, free will declaration."
 location: Claymore Manor
 scene_type: confession
 character_present:

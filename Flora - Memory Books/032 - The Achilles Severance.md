@@ -20,7 +20,7 @@ keys:
   - Amber Isles
 position: after
 depth: 4
-summary: "**What:** Ryan severs the right Achilles tendon of Edmund Girard after he confesses to kidnapping Prince Ryan fifteen years ago to facilitate an invasion by his mother, Loren Claymore.\\\\n\\\\n**When:** During a confrontation at Claymore Manor, specifically after Edmund confesses the plot and breaks down.\\\\n\\\\n**Key Relationships:** Edmund (victim), Ryan (attacker), Loren Claymore (mastermind), Charlotte (approver), Margot (kitchen spy).\\\\n\\\\n**Why Select:** High-stakes climax revealing the central conspiracy and physical climax of the confrontation."
+summary: "A confrontation and punishment scene in Claymore Manor's Main Parlor (June 15, 1843) where Edmund Girard confesses the full Loren conspiracy—kidnapping Ryan as the missing Duranian prince, engineering a bloodline bridge marriage to Charlotte, planting false evidence to render him stateless, and planning war between Flora and Duran—before Ryan severs his right Achilles tendon. Select when: the Loren conspiracy, Ryan's Duranian identity, Edmund's confession, the Achilles tendon severance, Margot the kitchen spy, or the pigeon coop behind the stillroom are referenced. Key participants: Ryan (executioner), Charlotte (authorizing), Edmund (confessing/punished), Howard (restraining). Tags: Duranian prince, war plot, Valheim, stateless, false evidence, Margot, pigeon coop, competency petition."
 location: Claymore Manor
 scene_type: revelation
 character_present:

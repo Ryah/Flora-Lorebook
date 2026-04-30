@@ -21,7 +21,7 @@ keys:
   - splinted ankle
 position: after
 depth: 4
-summary: "**Entry 028: Surgery and Confession**\\n\\n**What is this?** A scene depicting Ryan's medical treatment and romantic confession with Florence Claymore in a manor surgery.\\n\\n**When should it be selected?** During the \\\"dangerous extraction\\\" arc, immediately following Ryan's return to Claymore Manor, or during the evening assembly buildup.\\n\\n**Key relationships:** Ryan & Florence (romantic intimacy), Florence & Charlotte (supportive), Ryan & Rachael (professional).\\n\\n**Context:** Ryan undergoes painful restitching for a reopened wound. He and Florence share a moment of vulnerability and reaffirm their l"
+summary: "A medical recovery scene in Claymore Manor's east wing surgery (June 15, 1843) where Dr. Mercer restitches Ryan's reopened back wound while Florence anchors him through the painful procedure and both confess their mutual feelings from the carriage kiss during extraction. Select when: Ryan receives surgery, the carriage kiss confession is referenced, the silver locket is entrusted to Florence, Charlotte waits anxiously outside, or the couple's intimacy is established after the Amber Isles mission. Key participants: Ryan (patient), Florence (anchor/partner), Dr. Mercer (surgeon), Rachael (nurse). Tags: back wound, catgut sutures, blood loss, carriage kiss, silver locket, Stardust wrestling persona, evening assembly, splinted ankle."
 location: Claymore Manor
 scene_type: recovery
 character_present:

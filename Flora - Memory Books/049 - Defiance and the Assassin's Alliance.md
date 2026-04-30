@@ -30,7 +30,7 @@ keys:
   - cream silk
 position: after
 depth: 4
-summary: "**Entry 049 - Defiance and the Assassin's Alliance**\\n\\nA pivotal narrative entry occurring on June 16, 1843, detailing Ryan Adame's defiance of Loren Claymore and the immediate strategic response. Should be selected to highlight the political tension of the marriage contract, the family's internal cohesion, and the alliance with Rachael Blakeney. Key relationships include Ryan (defiant protector), Charlotte (fearful matriarch), Florence (supportive partner), and Rachael (strategic enforcer). The entry establishes the upcoming meeting with Estra regarding the impending midnight wedding and the m"
+summary: "A defiance and alliance scene spanning Claymore Manor to the Sion Quarter (June 16, 1843, afternoon through evening) where Ryan mocks Loren's ice manifestation, invokes Article 4 as legal protection, the triad naps together in the solarium, and Ryan meets Estra at the Sion Quarter fountain—exchanging daggers as trust tokens and hearing her reveal the Sea Witch extraction plan and Alec's 11-day mutilation deadline. Select when: Ryan's mockery of Loren's control, Article 4 clause, the solarium triad nap, the carriage weapon exchange, Estra's karambit demonstration, or the River Walk Embarcadère alliance discussion are referenced. Key participants: Ryan (defiant, alliance-building), Charlotte (fearful strategist), Florence (celebratory), Estra (defecting assassin). Tags: Article 4, solarium nap, Andrea's Cross disguise, karambit exchange, summer solstice extraction, Oracle midnight wedding, Sion Quarter fountain, gold coin toss, treeline backup."
 location: Claymore Manor
 scene_type: negotiation
 character_present:

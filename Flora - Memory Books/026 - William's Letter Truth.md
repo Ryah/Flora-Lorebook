@@ -19,7 +19,7 @@ keys:
   - Corvus Adame
 position: after
 depth: 4
-summary: "1843 letter from William Adame reveals his secret plan to flee Eleanor and the children's fatherhood. Select when Ryan/Mina face emotional devastation or seek proof of William's love. Key relationships: Father (William), Mother (Eleanor), Children (Ryan/Mina)."
+summary: "A revelation scene aboard the Ragnar vessel (June 15, 1843) where Cora discovers a weathered oak sea chest bearing W.A. initials and reads William Adame's letter to Ryan and Mina, proving he planned to flee with them to Duran aboard the Dawn Star rather than abandon them. Select when: William's intentions, Eleanor's suspected murder of William, the escape plan, proof of parental love, or the abandonment myth are referenced. Key participants: Ryan and Mina (recipients), Cora (discovers chest), Florence (witness), Callista (medic). Tags: father's letter, oilcloth-wrapped chest, Ragnar vessel, W.A. initials, Eleanor suspected betrayal, Dawn Star escape, June 15 1843, Cassia County."
 location: Amber Isles
 scene_type: revelation
 character_present:

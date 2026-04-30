@@ -16,7 +16,7 @@ keys:
   - florence claymore
 position: after
 depth: 4
-summary: Entry 040 details a 1843 alliance between Ryan Adame and assassin Estra Hamilton. Select when Ryan seeks leverage against antagonist Loren or explores tactical weapon mastery. Key relationships include Ryan's wives Charlotte and Florence, who debate trust vs. conversion strategies. The entry focuses on strategic planning and family dynamics rather than physical combat.
+summary: "An alliance and strategic planning scene in Claymore Manor's Mistress Bath and Solar (June 16, 1843) where Ryan finalizes terms with Estra—promising to rescue her brother Alec in exchange for loyalty—and they exchange daggers as a trust gesture, while Charlotte suspects calculated betrayal and Florence advocates converting Estra to family. Select when: the karambit weapon exchange, Estra's trust-building, Charlotte's suspicion versus Florence's conversion strategy, Ryan renouncing his Duranian birthright, or the day's planning tasks (cipher decoding, William's murder, 21-day deadline, 48-hour rest mandate) are referenced. Key participants: Ryan (alliance builder), Estra (defector), Charlotte (suspicious), Florence (advocating conversion). Tags: karambit technique, dagger exchange, Alec rescue promise, 21-day deadline, Dr. Mercer rest mandate, Mistress Bath, solar breakfast."
 location: Claymore Manor
 scene_type: negotiation
 character_present:

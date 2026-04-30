@@ -22,7 +22,7 @@ keys:
   - bloodline bridge
 position: after
 depth: 4
-summary: "**Entry 033 Summary**\\n\\n**What:** A confrontation in Claymore Manor's kitchen where Margot reveals Ryan is the missing Duranian prince, planted by Eleanor Castor. Ryan saves a carrier pigeon with a silver nitrate message, and Cora extracts it using lemon juice. Charlotte and Cora form a tense partnership to decode it.\\n\\n**When:** Selected when Ryan confronts Edmund, Margot reveals Ryan's secret, or Cora extracts the message.\\n\\n**Relationships:** **Ryan** (confesses he values Charlotte's precision and Florence's passion), **Charlotte** (establishes a tense equal partnership with Cora), **Cora** (a"
+summary: "A confrontation and intelligence scene in Claymore Manor's kitchen (June 15, 1843) where Margot reveals Ryan is the kidnapped Duranian prince and Ryan instinctively pins a carrier pigeon to the wall with a dagger throw, trapping a copper message tube armed with a silver-nitrate self-destruct seal that Cora extracts with surgical precision. Select when: Margot's pigeon operation, Ryan's Duranian identity reveal in the kitchen, the copper message tube, Charlotte's panic attack, Cora's chemical extraction method, or the Blue Drawing Room cipher session are referenced. Key participants: Ryan (instinctive throw), Margot (spy captured), Charlotte (panic attack), Cora (extraction expert). Tags: carrier pigeon, copper tube, double-wax seal, paraffin, silver nitrate, lemon juice, bloodline bridge, Blue Drawing Room."
 location: Claymore Manor
 scene_type: confrontation
 character_present:

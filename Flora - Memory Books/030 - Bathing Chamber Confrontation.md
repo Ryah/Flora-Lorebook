@@ -19,7 +19,7 @@ keys:
   - stitched back wound
 position: after
 depth: 4
-summary: "**What is this?** A pivotal scene in a polyamorous relationship where Ryan and Florence’s first sexual encounter is interrupted by Charlotte, their third partner.\\n\\n**When should it be selected?** When depicting the aftermath of Florence’s assassination attempt or the trio’s dynamic following a secret reveals.\\n\\n**Key relationships:** Triad unit (Ryan/Florence/Charlotte); Florence is the linchpin connecting the two husbands.\\n\\n**Summary:** Following their first intimate night, Charlotte discovers them naked in the bath. After a confrontation over the breach of privacy, Florence emotionally reconc"
+summary: "A triad confrontation scene in the Lord's Quarters Bathing Chamber (June 15, 1843) where Charlotte uses a master key to interrupt Ryan and Florence's post-intimate bath, triggering hurt and possessive jealousy before collapsing into a possessive embrace and demanding all three sleep together. Select when: Charlotte discovers the Ryan-Florence intimacy, the no-secrets triad policy is invoked, master key access is referenced, or the triad dynamic shifts from two to three. Key participants: Ryan (defending privacy), Florence (mediating linchpin), Charlotte (confronting, then dominant). Tags: master key, copper tub, no secrets policy, triad formation, Charlotte possessiveness, Edmund Girard assembly, marble tiles, burgundy velvet gown."
 location: Claymore Manor
 scene_type: confrontation
 character_present:

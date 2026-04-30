@@ -16,7 +16,7 @@ keys:
   - Frozen wine bottles
 position: after
 depth: 4
-summary: "This is a pivotal confrontation with Loren Claymore's supernatural ice manifestation. It occurs after the signing of the amended marriage contract. The entry should be selected when referencing the direct confrontation with Loren, Ryan's rejection of her psychological manipulation, the revelation of Eleanor's conditioning, or the decision to move the wedding to dawn. Key relationships: Ryan vs. Loren's manipulation; the solidarity of Ryan, Charlotte, and Florence; Rachael Blakeney's role as witness and planner."
+summary: "A supernatural confrontation at Claymore Manor (June 16, 1843) where Loren manifests as a blue-white ice figure in the wine cellar projecting visions of Ryan's conditioned abuse responses and the message "GRATITUDE IS A CHAIN," but Ryan dismisses her as theater before she shatters explosively, prompting Rachael to move the wedding to dawn June 17 with triple tithe. Select when: Loren's ice manifestation, the wine cellar confrontation, Charlotte's childhood trauma regression, the wedding timeline shifted to dawn, frozen bottles, or Ryan's rejection of manufactured-destiny psychology are referenced. Key participants: Ryan (defiant), Charlotte (regressing to childhood fear), Florence (protective), Loren (manifesting). Tags: supernatural frost, frozen wine cellar, Duranian crown symbol, gratitude chain message, Article III amendment, dawn wedding shift, Rachael triple tithe, 28 degrees, Charlotte regression."
 location: Claymore Manor
 scene_type: confrontation
 character_present:

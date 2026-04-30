@@ -15,7 +15,7 @@ keys:
   - Claymore Manor Solar
 position: after
 depth: 4
-summary: Select this entry when the AI needs to generate or analyze scenes involving the legal and emotional formalization of a polyamorous marriage in a Victorian/fantasy setting. It is pivotal for the \"Twenty-One Day Countdown\" plot, serving as a critical turning point where characters attempt to bind Ryan Adame to the Claymore wives against the manipulative control of Loren Claymore. The entry establishes the \"Personal Autonomy Clause,\" a key legal document that defines the boundaries of consent for all parties.
+summary: "A legal and emotional turning point in the Claymore Manor Solar (June 16, 1843) where Charlotte presents a triadic marriage contract to legally bind Ryan before Loren can challenge his loyalty as manufactured conditioning, and Ryan amends Article III to extend Personal Autonomy protections reciprocally to all three parties. Select when: the triadic marriage contract, the Personal Autonomy Clause, Ryan's free will argument against neural pathway conditioning, the Twenty-One Day Countdown, or the formal ceremony planned for June 17 are referenced. Key participants: Ryan (amending contract), Charlotte (anxious drafter), Florence (competitive advocate straddling his lap). Tags: Article III amendment, Personal Autonomy Clause, neural pathway conditioning, bloodline bridge, Duranian blood claim, iron-gall ink, June 17 ceremony, free will, manufactured devotion."
 location: Claymore Manor
 scene_type: decision
 character_present:
