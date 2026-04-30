@@ -13,8 +13,7 @@ keys:
 position: after
 depth: 4
 scanDepth: 1
-summary: |-
-  **What this is:** The political system of Flora, where governance is controlled by noble Matriarchs who hold legislative power in the "Bouquet of the Roses" assembly. The monarchy is ceremonial, with a "Crown Princess" (currently Cornelia vi Relani, age 27) possessing limited, contingent authority.
+summary: "Lore entry on the Matriarchy, Flora's dominant political system in which noble Matriarchs hold real governing power. Select when: Flora's politics, lawmaking, noble family power dynamics, or any character who is a Matriarch or Crown Princess is involved; court intrigue, power struggles, or factional alliances are relevant. Key details: Noble county-family heads called Matriarchs control the legislature through the \"Bouquet of the Roses\" assembly. The Crown Princess holds only ceremonial authority and must navigate matriarchal alliances carefully. Current Crown Princess is Cornelia vi Relani, age 27. Key Matriarchs include Rachael Blakeney and Charlotte Claymore, who hold significant political influence."
 
   **When selected:** When stories involve Flora's politics, lawmaking, noble family conflicts, or any character who is a Matriarch, Crown Princess, or noble. Also relevant for plots about power struggles, alliances, or court intrigue.
 

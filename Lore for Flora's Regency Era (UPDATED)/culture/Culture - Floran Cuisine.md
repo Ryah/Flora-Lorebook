@@ -23,7 +23,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "Floran cuisine is the culinary tradition of Flora, blending 1700s French sauce-based complexity with hearty English rustic fare. Select for scenes involving noble dining (multi-course meals with game, pies, pastries), regional food contrasts (refined Eastern dishes vs. hearty, spiced Andrea's Cross fare with goat/mutton), or social class interactions around food. Key relationships: Noble estates emphasize local ingredients; national drink is a fermented fruit tea (kombucha-like) enjoyed universally; wine is common with meals."
+summary: "Lore entry on the culinary traditions of Flora, blending French-style sauce complexity with hearty English rural fare. Select when: characters share meals, attend noble feasts, discuss regional food differences, or interact around class distinctions at the table. Key details: Noble dining features multi-course meals with game, pies, and pastries emphasizing local estate ingredients. Eastern Floran cuisine is refined and sauce-based; Andrea's Cross cuisine is heartier and spiced, using goat and mutton. The national drink is a fermented fruit tea similar to kombucha, enjoyed across all social classes; wine is standard with meals. Food reflects character class, region, and social occasion."
 ---
 
 # Culture - Floran Cuisine

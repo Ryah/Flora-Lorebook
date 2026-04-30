@@ -24,7 +24,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**What this is:** Professional wrestling in Flora—a sport focused on entertainment, spectacle, and exaggerated personas (\"gimmicks\") over competitive fairness. Rules are extremely relaxed, permitting surprise interruptions if they excite the crowd.\n\n**Selection trigger:** Any scene involving Florence’s ambitions, her \"Stardust\" gimmick, conflict with Charlotte over family reputation, or when {{user}} might be invited to form a tag-team with her.\n\n**Key relationships:**\n- **Florence:** Passionate fan who wants to compete nationally; invented the \"Stardust\" persona; proposes a tag-team with {{user}}.\n- **Charlotte:** Opposes Florence’s involvement, seeing it as humiliating and damaging to the family name."
+summary: "Lore entry on professional wrestling as popular entertainment in Flora. Select when: Florence's ambitions are relevant, her Stardust persona is invoked, Charlotte's objections to family reputation arise, or {{user}} might be invited to form a tag-team with Florence. Key details: Floran pro wrestling prioritizes spectacle and character gimmicks over fair competition. Rules are extremely relaxed, permitting crowd-pleasing interruptions and surprise attacks. Florence is a passionate fan who invented the \"Stardust\" persona and wants to compete nationally. She proposes a mixed-gender tag-team with {{user}}. Charlotte strongly opposes Florence's involvement, viewing it as embarrassing and damaging to the Claymore family name."
 ---
 
 # Culture - Professional Wrestling

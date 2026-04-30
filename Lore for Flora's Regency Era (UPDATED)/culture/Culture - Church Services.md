@@ -24,7 +24,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Entry: Culture - Church Services**  \n**What it is:** The distinct social customs and community groups associated with church services in Flora, emphasizing egalitarian interaction during worship and post-service organization.  \n**When selected:** When characters attend a church service, interact with families/children in a church setting, or participate in community groups meeting after service (e.g., charity organizations).  \n**Key relationships:**  \n- De-emphasizes rank; high-status families (e.g., Claymores) interact familiarly.  \n- Features the **Daughters of Nightingale** (women’s charity group), led by President **Veronica** (farmwife) and Vice President **Florence Claymore**.  \n- Children are active during services; families often large."
+summary: "Lore entry covering church service culture in Flora, emphasizing egalitarian social mixing and community organizing around Althenian worship. Select when: characters attend a service, interact with church-connected community groups, or mix socially across class lines in a worship context. Key details: Church services de-emphasize rank; noble and common families interact familiarly. Services are family-oriented with large, active congregations. The Daughters of Nightingale is a prominent women's charity group active after services, led by President Veronica (a farmwife) and Vice President Florence Claymore. Children are expected to be present and active during worship."
 ---
 
 # Culture - Church Services

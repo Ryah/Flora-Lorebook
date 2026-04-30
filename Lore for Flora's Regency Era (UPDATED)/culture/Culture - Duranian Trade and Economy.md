@@ -21,7 +21,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "Duran's economy is trade-dependent, importing raw materials to export high-value luxury goods (jewelry, clockwork, art, fashion). Selected when discussing commerce, shipping, or political/economic relations with Flora, especially regarding piracy, trade routes, or luxury goods. Key relationship: economic dependency on Flora, as Duranian merchants pay Floran matriarchs/naval captains for armed escorts. This creates political friction in Flora between trade-focused blocs (seeking normalized relations) and hawkish/isolationist factions."
+summary: "Lore entry on Duran's trade-dependent economy and its political relationship with Flora. Select when: commerce, trade routes, or economic relations between Flora and Duran are discussed; piracy affects shipping; or characters debate Floran foreign policy toward Duran. Key details: Duran imports raw materials and exports high-value luxury goods including jewelry, clockwork, art, and fashion. Merchants depend on Floran naval escorts to protect shipments, paying Matriarchs and naval captains for protection. This dependency creates political friction in Flora: trade-focused factions seek normalized relations, while hawkish and isolationist factions resist."
 ---
 
 # Culture - Duranian Trade and Economy

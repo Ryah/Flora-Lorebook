@@ -24,7 +24,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**What is this:** A traditional, respected dance form originating from ancient fertility festivals in Flora, using heather trees as poles. It is a celebration of female grace, fertility, and beauty, taught in upper-class finishing schools. Competition is common, divided into jewel-themed weight classes (Sapphire, Emerald, Ruby) based on body type. Private performances for husbands are accepted; public stripping for money is considered vulgar.\n\n**When selected:** When the dance is practiced, taught, discussed, or performed; when competitions or weight class divisions are relevant; when characters' skill or background in this art is cited.\n\n**Key relationships:** Practiced by Florence Claymore (Sapphire champion), Loren Claymore (excellent), Rachael Blakeney (Ruby contender), Charlotte (rusty but skilled)."
+summary: "Lore entry on poledancing as a traditional, respected art form in Flora rooted in ancient fertility festivals. Select when: a character performs, practices, or competes in poledancing; weight class divisions or competitions are relevant; or the contrast between refined art and vulgar performance is discussed. Key details: Poles traditionally derive from heather trees used in fertility rites. The art celebrates female grace, beauty, and fertility and is taught in upper-class finishing schools. Competitions are organized by jewel-themed weight classes: Sapphire (lightest), Emerald, and Ruby. Private performances for husbands are socially accepted; paid public stripping is considered low-class. Key practitioners: Florence Claymore (Sapphire champion), Loren Claymore (excellent), Rachael Blakeney (Ruby contender), Charlotte Claymore (rusty but skilled)."
 ---
 
 # Culture - Poledancing

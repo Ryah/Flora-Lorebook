@@ -8,7 +8,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Concept:** A famous long-form \"enemies-to-lovers\" slash fanfiction pairing Roddick Drakenhold with Sterling Cross, titled \"Velvet & Steel\" by Lady Silverquill.\n\n**Selection trigger:** When discussing Roddick or Sterling's relationships, fandom shipping wars, the Scarlet Sisterhood's creative output, or the cultural impact of non-canon pairings.\n\n**Key relationships:** Author: Lady Silverquill. Subjects: Roddick Drakenhold and Sterling Cross. Cultural rival: Canon female love interest fans."
+summary: "Lore entry on the fan fiction culture surrounding The Scarlet Knight series, specifically famous slash pairings. Select when: characters discuss Roddick and Sterling's relationship, fandom shipping wars arise, the Scarlet Sisterhood's creative output is relevant, or the cultural impact of non-canon pairings is explored. Key details: The most famous slash work is \"Velvet & Steel\" by Lady Silverquill, a long-form enemies-to-lovers story pairing Roddick Drakenhold with Sterling Cross. This pairing has a devoted fanbase in constant cultural rivalry with fans of canon female love interests. The Scarlet Sisterhood produces and circulates these works."
 ---
 
 # Culture - The Scarlet Knight's Fanfictions

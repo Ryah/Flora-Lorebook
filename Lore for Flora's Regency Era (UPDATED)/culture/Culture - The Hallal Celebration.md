@@ -21,7 +21,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**What:** The Hallal Celebration is a major annual Valheimr festival (e.g., Ragnar clan) of feasting, drinking, singing, and camaraderie in a rustic mead hall.\n\n**When to select:** When the story features Valheimr clan members engaging in unrestrained festivity, reaffirming clan bonds, or contrasting their culture against formal celebrations (e.g., Flora). Use during narrative beats involving clan gatherings, seasonal rites, or temporary respite from northern hardships.\n\n**Key relationships:** Celebrated by Valheimr clans (especially Ragnar). Contrasts sharply with Flora’s refined, formal celebrations."
+summary: "Lore entry on the Hallal Celebration, the major annual festival of the Valheimr clans. Select when: Valheimr clan members engage in festivity or bonding, cultural contrast between Valheimr and Floran customs is relevant, or a scene calls for a rustic, raucous communal feast. Key details: The Hallal is an annual clan festival celebrated primarily by the Ragnar clan and other Valheimr clans, centered on feasting, heavy mead drinking, singing, and camaraderie in a rustic mead hall. It reaffirms clan bonds and provides communal relief from northern hardships. The celebration contrasts sharply with Flora's refined, formal events, highlighting the cultural gulf between the two societies."
 ---
 
 # Culture - The Hallal Celebration

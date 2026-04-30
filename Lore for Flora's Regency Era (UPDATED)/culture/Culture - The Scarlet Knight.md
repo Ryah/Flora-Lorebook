@@ -15,7 +15,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "The Scarlet Knight is a wildly popular book series from Flora, a national craze blending superhero, spy thriller, romance, and horror. Select this entry when a character is in Flora, interacts with Floran culture, or discusses popular fiction, romance ideals, or fandom. Key characters: Roddick Drakenhold (hero, secret identity as a witty fop), Camilla (angel sidekick), antagonists Yurika, Violet, and the Dark Mistress (secretly Countess Amy Lancaster; Charlotte Claymore notices an uncanny resemblance to herself). Fans include Florence, Priti, Rachael; closeted fans Astrid, Estra, Loren Claymore. Charlotte claims to dislike it. The series profoundly shapes the Floran ideal of the ideal man and is unofficially church-endorsed."
+summary: "Lore entry on The Scarlet Knight, Flora's most popular fiction series and a national cultural phenomenon. Select when: characters are in Flora, reference popular fiction or romance ideals, discuss fandom culture, or Charlotte's resemblance to the Dark Mistress is relevant. Key details: The series blends superhero, spy thriller, romance, and horror. Protagonist Roddick Drakenhold maintains a secret identity as a witty fop; his sidekick is the angel Camilla. Antagonists: Yurika, Violet, and the Dark Mistress (secretly Countess Amy Lancaster; Charlotte notices she resembles this villain). Known fans: Florence, Priti, Rachael; closeted fans: Astrid, Estra, Loren Claymore. Charlotte claims to dislike it. Unofficially church-endorsed."
 ---
 
 # Culture - The Scarlet Knight

@@ -23,7 +23,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "What is this: Defines divorce as a legal but rare and socially catastrophic act in Flora, permitted only for proven abuse or infidelity.\nWhen selected: When a character considers, discusses, or experiences the end of a marriage; when exploring family honor, scandal, or legal procedures in noble houses.\nKey relationships: Tied to noble house stability, family reputation, legal system, and marriage customs; signals total breakdown of social/familial bonds."
+summary: "Lore entry on divorce law and social consequences in Flora. Select when: a character contemplates ending a marriage, infidelity or abuse is discovered, or a noble family faces scandal related to marital dissolution. Key details: Divorce is legal in Flora but extremely rare and socially devastating. Grounds are limited to proven abuse or infidelity. A divorce signals total breakdown of a noble family's social and marital bonds, causing lasting damage to house reputation and political alliances. Pursuing one marks both parties as failures in Althenian society, which venerates the family as sacred."
 ---
 
 # Culture - Divorce

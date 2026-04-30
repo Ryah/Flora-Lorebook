@@ -14,7 +14,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**What this is:** A female-exclusive tracking profession from Andrea's Cross. Huntresses are trained from birth in tracking, scouting, houndmastery, falconry, and leadership. The profession is matrilineal, usually passed mother-to-daughter/niece.\n\n**When to select:** When a character is a female tracker, bounty hunter, or mercenary from Andrea's Cross; when encountering a professional tracker or law enforcer in Andrea's Cross; when discussing prestigious female roles, elite hunting guilds, or family-run specialties in that region.\n\n**Key relationships:** Profession is matrilineal (House Walker is a famous wealthy line). Rare male apprentices exist (condemned). Employed as mercenaries, bounty hunters, or private retainers for nobles handling law enforcement and sport hunting."
+summary: "Lore entry on the Huntress profession, an elite female-exclusive tracking and bounty hunting guild from Andrea's Cross. Select when: a female tracker, bounty hunter, or mercenary from Andrea's Cross appears; professional law enforcement or sport hunting in Andrea's Cross is discussed; or matrilineal professional prestige is relevant. Key details: Huntresses are trained from birth in tracking, scouting, houndmastery, falconry, and field leadership. The profession passes matrilineally, typically mother to daughter or niece. House Walker is a famous, wealthy Huntress lineage. Rare male apprentices exist but are culturally condemned. Huntresses are employed as mercenaries, bounty hunters, and private retainers for nobles."
 ---
 
 # Culture - The Huntress

@@ -22,7 +22,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Holmgang (Valheimr Trial by Combat)**\n\nTraditional formal duel in Valheimr culture to settle serious disputes or challenge leadership. In high-stakes contexts, a qualified female challenger can claim throne rights: she must prove worth through preliminary duels, then if victorious, her husband gains right to challenge the current king directly. Combat is brutal, potentially lethal.\n\n**Select when:** A serious conflict or leadership dispute arises; a formal, culturally sanctioned trial by combat is appropriate; throne challenge mechanics are relevant.\n\n**Key relationships:** King (defended throne); qualified female challenger (preliminary duelist); her husband (final combatant vs. king)."
+summary: "Lore entry on the Holmgang, the formal Valheimr trial by combat used to settle serious disputes or challenge leadership. Select when: a serious dispute arises in a Valheimr context, a formal duel is invoked, leadership succession is contested, or a throne challenge mechanic becomes relevant. Key details: The Holmgang is a brutal, potentially lethal formal duel. In high-stakes throne challenges, a qualified female challenger first proves worth through preliminary duels; if victorious, her husband gains the right to challenge the reigning king directly. The rite is culturally binding and cannot be refused without dishonor. Outcomes determine leadership succession."
 ---
 
 # Culture - The Holmgang

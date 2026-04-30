@@ -26,7 +26,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Summary:** Entry describing a matrilineal inheritance system and the strategic marriage alliance between two noble houses (Blakeney & Claymore).  \n**Selection trigger:** Any mention of succession law, female-line inheritance, noble marriages between houses, or the shared husband arrangement.  \n**Key relationships:** The designated heiress of each house (e.g., Florence for Blakeney, Charlotte for Claymore) passes her family name/estate to her own children. The houses are allied through their shared husband, not a direct marriage between the heiresses."
+summary: "Lore entry on Floran matrilineal inheritance law and the strategic marriage alliance between Houses Blakeney and Claymore. Select when: succession, heiress rights, or noble house alliances are relevant; a character's inheritance prospects are discussed; or the shared-husband arrangement between two houses is referenced. Key details: Inheritance follows the female line; the designated heiress passes her family name and estate to her own children. Houses Blakeney and Claymore are allied through a shared husband, not a direct marriage between the heiresses. Florence is the Blakeney-designated heiress; Charlotte holds the Claymore title. This makes lineage and dynastic questions legally complex."
 ---
 
 # Culture - Noble Inheritance & Alliances

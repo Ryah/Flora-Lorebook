@@ -15,7 +15,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Althenian Beliefs on Twins**  \n*Selection trigger: Story involves characters who are twins, or discussion of twins within the Althenian cultural context.*  \n\n**Core Belief:** Twins are considered a sign of Althena’s divine will, though not official church doctrine.  \n\n- **Identical twins:** Believed to be a single soul split into two bodies by Althena for an unknown ordained purpose. Folk belief: they can feel each other's sensations regardless of distance.  \n- **Fraternal twins:** Seen as divinely connected spiritually and biologically, with a mystical bond that may allow shared feelings/sensations.  \n\n**Key Relationships:**  \n- In Duran, this belief is referenced regarding Prince {{user}} and Princess Iris (fraternal twins), even by non-believers in Althena.  \n- Contrast with official church doctrine (not defined here)."
+summary: "Lore entry on Althenian cultural beliefs about twins within Flora and Duran. Select when: a character is revealed to be a twin, twins interact unusually, or theological discussions about soul-sharing arise. Key details: Identical twins are believed to be a single soul split by Althena, able to share sensations across any distance. Fraternal twins are considered divinely bonded with a mystical connection. These are folk beliefs, not official church doctrine. Most relevant to Prince {{user}} and Princess Iris of Duran (fraternal twins), whose bond is acknowledged even by non-believers in Althena."
 ---
 
 # Culture - Althenian Beliefs on Twins

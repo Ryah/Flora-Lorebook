@@ -21,7 +21,7 @@ position: before
 depth: 4
 scanDepth: 1
 
-summary: "**Duranian Military (Culture)**\n\n**What:** The \"Elite Quality\" doctrine of the Duranian Royal Army; a philosophy of producing small, highly skilled armies born from steel scarcity.\n\n**When selected:** Scenes featuring Duranian soldiers, archers, armor/weapons, military strategy, or discussing Duran's martial culture. Also relevant to Duranian characters demonstrating exceptional skill or disciplined morale (e.g., Estra's crossbow proficiency).\n\n**Key relationships:** Doctrine prioritizes elite soldiers over mass armies; morale is a force multiplier. Armor uses brass/leather to protect scarce steel, worn only before battle. Steel-tipped arrows are valuable, so archers (Duranian Longbowmen) are legendary for accuracy and discipline, turning battles. Estra's skill reflects this cultural investment."
+summary: "Lore entry on Duranian military doctrine, emphasizing quality over quantity due to historical steel scarcity. Select when: Duranian soldiers, archers, or weapons appear; military strategy contrasts Flora and Duran; or a Duranian character demonstrates unusual martial discipline or skill. Key details: Doctrine prioritizes elite, highly trained soldiers over mass armies. Armor uses brass and leather to conserve scarce steel, worn only just before battle. Duranian Longbowmen are legendary for precision and discipline, capable of turning battles. Morale is treated as a force multiplier. Estra Hamilton's crossbow proficiency reflects this cultural investment in martial excellence."
 ---
 
 # Culture - Duranian Military
